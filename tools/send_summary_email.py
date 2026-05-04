@@ -434,6 +434,75 @@ def build_en_html():
   Contact: admissions@spcc.edu.hk</p>
 </div>
 
+<h2 style="{H2}">Tutor Time analysis — not a feeder for any HK school</h2>
+<div style="{CARD};border-left:4px solid {C_CAVEAT};">
+  <p style="margin:0 0 10px 0;"><b>Tutor Time (incl. Dorset campus) is NOT a formal feeder for any HK primary or international school.</b> It's an independent early years chain. Daughter's placement after Tutor Time goes through standard application processes for every school — no priority, no guarantee.</p>
+
+  <h3 style="{H3};margin-top:14px;">Comparison vs verified feeders</h3>
+  <table style="{TBL}">
+    <tr>
+      <th style="{TH};width:32%;">Feeder kindergarten</th>
+      <th style="{TH};width:24%;">Main school</th>
+      <th style="{TH}">Strength</th>
+    </tr>
+    <tr><td style="{TD}"><b>Victoria Kindergarten</b></td><td style="{TD}">VSA</td><td style="{TD}"><span style="{PILL_BEST}">STRONGEST</span> ~170 grads/yr → ~150 VSA Y1 places</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>DGJS</b></td><td style="{TD}">DGS (girls)</td><td style="{TD}"><span style="{PILL_BEST}">EXCLUSIVE</span> only feeder to DGS Secondary</td></tr>
+    <tr><td style="{TD}"><b>SSCPS</b></td><td style="{TD}">SSC</td><td style="{TD}"><span style="{PILL_INFO}">THROUGH-TRAIN</span></td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>ESF Kindergartens</b> (K2 entry before Dec 1)</td><td style="{TD}">ESF Primary</td><td style="{TD}"><span style="{PILL_INFO}">CONTINUITY GUARANTEE</span></td></tr>
+    <tr><td style="{TD}"><b>HKA Playgroup → Pre-K</b></td><td style="{TD}">HKA</td><td style="{TD}"><span style="{PILL_INFO}">INTERNAL</span></td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>Carmel ELC</b></td><td style="{TD}">Carmel/Elsa High</td><td style="{TD}"><span style="{PILL_INFO}">INTERNAL</span></td></tr>
+    <tr><td style="{TD}"><b>Malvern Pre-School</b></td><td style="{TD}">Malvern College</td><td style="{TD}"><span style="{PILL_CAVEAT}">IMPLIED (not published)</span></td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>ISF Pre-School</b></td><td style="{TD}">ISF Academy</td><td style="{TD}"><span style="{PILL_CAVEAT}">WEAK</span> — only Capital Note holders get priority</td></tr>
+    <tr><td style="{TD}"><b>Tutor Time (any campus)</b></td><td style="{TD}"><b>None</b></td><td style="{TD}"><span style="{PILL_OUT}">NO FORMAL FEEDER</span></td></tr>
+  </table>
+
+  <h3 style="{H3};margin-top:14px;">ISF Capital Note pricing — what it costs to unlock ISF Pre-School feeder priority</h3>
+  <p style="margin:6px 0;"><b>The only way to upgrade ISF Pre-School from "weak feeder" to real priority</b> is to hold an ISF Capital Note. Pricing:</p>
+  <table style="{TBL}">
+    <tr>
+      <th style="{TH};width:30%;">Source</th>
+      <th style="{TH}">Price</th>
+    </tr>
+    <tr><td style="{TD}"><b>Direct from school</b></td><td style="{TD}"><b>HK$6,500,000</b> — currently <b>not issued</b> directly (school has stopped new issuance)</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>Secondary market (Oct 2025)</b></td><td style="{TD}"><b>~HK$4,300,000</b> — only path to acquire today</td></tr>
+  </table>
+  <p style="margin:8px 0;"><b>Net cost calculation</b>: HK$4.3M cost − HK$53K saved on ACL (HK$40K × 12 yrs Academy + HK$15K × 3 yrs Pre-School) = <b>~HK$3.77M net spend</b> for admissions priority.</p>
+  <p style="margin:8px 0 0 0;color:{C_DANGER};"><b>Decisive: both prices are 4–6.5× over our HK$1M cap. ISF Capital Note is OUT for our family.</b> ISF Pre-School feeder strength stays "weak" — the only realistic ISF route is direct application to Foundation Year (Aug 2027 for AY2028/29).</p>
+
+  <h3 style="{H3};margin-top:14px;">Tutor Time's actual advantages</h3>
+  <ol style="margin:6px 0 6px 18px;padding:0;">
+    <li><b>Brand recognition</b>: high-end chain known to admissions officers across HK; graduates have positive reputation</li>
+    <li><b>Bilingual environment</b>: 50/50 EN/CN at school</li>
+    <li><b>Diverse placement</b>: graduates go to ESF, CIS, ISF, CDNIS, SPCC, HKA, etc. — all via standard application, no priority</li>
+    <li><b>Tutor Time Head can nominate for SPCC</b>: via SPCC's Kindergarten Nomination Scheme (open to ANY KG Head; not Tutor Time-specific)</li>
+    <li><b>Convenient location</b>: Dorset = Quarry Bay/Tai Koo MTR-served</li>
+  </ol>
+
+  <h3 style="{H3};margin-top:14px;">Strategic decision matrix — target school × feeder move</h3>
+  <table style="{TBL}">
+    <tr>
+      <th style="{TH};width:24%;">Target school</th>
+      <th style="{TH};width:30%;">Best feeder move</th>
+      <th style="{TH}">When to act</th>
+    </tr>
+    <tr><td style="{TD}"><b>VSA</b></td><td style="{TD}"><b>Switch from Tutor Time to Victoria Kindergarten K1 NOW (AY2026/27, born 2023)</b></td><td style="{TD}">Decide in next 2–3 months — strongest feeder in HK</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>ESF (RCHK / Discovery / standard)</b></td><td style="{TD}">Stay at Tutor Time; buy ESF INR HK$500K BEFORE Sep 2027 + apply Y1 AY2028/29</td><td style="{TD}">Sep 2027 (purchase INR before Sep 1)</td></tr>
+    <tr><td style="{TD}"><b>SPCC</b></td><td style="{TD}">Stay at Tutor Time + ask Head for SPCC Nomination + standard P1 application (parallel)</td><td style="{TD}">Start conversation with Tutor Time NOW; nomination submitted Sep 2028</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>ISF Academy</b></td><td style="{TD}">Stay at Tutor Time (ISF Pre-School feeder costs HK$4.3M to unlock — way above cap) + apply FY directly Aug 2027</td><td style="{TD}">Aug–Sep 2027 (FY application window)</td></tr>
+    <tr><td style="{TD}"><b>DGS</b> (girls)</td><td style="{TD}"><b>MUST attend DGJS</b> (DGS's exclusive feeder); apply DGJS P1 mid-Aug 2028</td><td style="{TD}">Aug 2028 (DGJS P1 window)</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>GTC / SPCC (no nomination)</b></td><td style="{TD}">Stay at Tutor Time + apply P1 directly (May–Sep 2028)</td><td style="{TD}">2028</td></tr>
+    <tr><td style="{TD}"><b>HKA</b></td><td style="{TD}">Switch to HKA Pre-K AY2026/27 for through-train internal continuity</td><td style="{TD}">Now (rolling admissions)</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>Carmel</b></td><td style="{TD}">Switch to Carmel Nursery AY2026/27 (Oct 31 cutoff = daughter eligible)</td><td style="{TD}">Now (rolling)</td></tr>
+  </table>
+
+  <h3 style="{H3};margin-top:14px;">Open question — placement statistics</h3>
+  <p style="margin:6px 0;">Verified research couldn't access Tutor Time's published placement data (Cloudflare-protected). Recommend emailing directly:</p>
+  <div style="background:{C_TBL_HDR};padding:14px;border-radius:6px;border-left:3px solid {C_PRIMARY};margin:8px 0;font-style:italic;">
+    "Could you share Tutor Time Dorset's recent primary school placement statistics? Specifically, how many graduates per year go to SPCC, ESF (which schools), ISF, VSA, CDNIS, HKA, or others? Are there any schools where Tutor Time has historically had higher acceptance rates?"
+  </div>
+  <p style="{MUTED};margin-top:8px;">Contact: admissions@tutortime.com.hk · Dorset campus phone (verify): +852 2870 1232</p>
+</div>
+
 <h2 style="{H2}">Family snapshot</h2>
 <table style="{TBL}">
   <tr><td style="{TH}">Child</td><td style="{TD}">Girl, <b>DOB mid-Sep 2023</b>, currently at Tutor Time Dorset (Quarry Bay area, ~50/50 EN/CN at school)</td></tr>
@@ -975,6 +1044,75 @@ def build_zh_html():
   <p style="{MUTED};margin-top:10px;">SPCC P1 招生页面：<a style="{LINK}" href="https://www.spcc.edu.hk/admissions/local-admissions/primary/p1">spcc.edu.hk/admissions/local-admissions/primary/p1</a><br>
   学费减免详情：<a style="{LINK}" href="https://www.spcc.edu.hk/admissions/fee-remission-and-financial-aid">spcc.edu.hk/admissions/fee-remission-and-financial-aid</a><br>
   联系：admissions@spcc.edu.hk</p>
+</div>
+
+<h2 style="{H2}">Tutor Time 分析 — 不是任何香港学校的 feeder</h2>
+<div style="{CARD};border-left:4px solid {C_CAVEAT};">
+  <p style="margin:0 0 10px 0;"><b>Tutor Time（包括 Dorset 校区）不是任何香港主流小学或中学的正式 feeder school</b>。它是独立的早教连锁。女儿从 Tutor Time 毕业后，进入任何学校都需通过<b>标准申请流程</b> — 没有优先权，也没有保证。</p>
+
+  <h3 style="{H3};margin-top:14px;">vs 已核实的 feeder 对比</h3>
+  <table style="{TBL}">
+    <tr>
+      <th style="{TH};width:32%;">Feeder 幼稚园</th>
+      <th style="{TH};width:24%;">主校</th>
+      <th style="{TH}">关系强度</th>
+    </tr>
+    <tr><td style="{TD}"><b>维多利亚幼稚园 (VK)</b></td><td style="{TD}">VSA</td><td style="{TD}"><span style="{PILL_BEST}">最强</span> 每年约 170 毕业生 → 约 150 个 VSA Y1 名额</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>DGJS</b></td><td style="{TD}">DGS（女中）</td><td style="{TD}"><span style="{PILL_BEST}">独家</span> 是 DGS 中学的唯一 feeder</td></tr>
+    <tr><td style="{TD}"><b>SSCPS</b></td><td style="{TD}">SSC</td><td style="{TD}"><span style="{PILL_INFO}">直通车</span></td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>ESF 幼稚园</b>（K2 在 12 月 1 日前入读）</td><td style="{TD}">ESF 小学</td><td style="{TD}"><span style="{PILL_INFO}">连续性保证</span></td></tr>
+    <tr><td style="{TD}"><b>HKA Playgroup → Pre-K</b></td><td style="{TD}">HKA</td><td style="{TD}"><span style="{PILL_INFO}">内部</span></td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>Carmel ELC</b></td><td style="{TD}">Carmel/Elsa High</td><td style="{TD}"><span style="{PILL_INFO}">内部</span></td></tr>
+    <tr><td style="{TD}"><b>Malvern Pre-School</b></td><td style="{TD}">Malvern College</td><td style="{TD}"><span style="{PILL_CAVEAT}">隐含（未公布）</span></td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>ISF Pre-School</b></td><td style="{TD}">ISF Academy</td><td style="{TD}"><span style="{PILL_CAVEAT}">弱</span> — 仅 Capital Note 持有人享优先</td></tr>
+    <tr><td style="{TD}"><b>Tutor Time（任何校区）</b></td><td style="{TD}"><b>无</b></td><td style="{TD}"><span style="{PILL_OUT}">无任何正式 feeder 关系</span></td></tr>
+  </table>
+
+  <h3 style="{H3};margin-top:14px;">ISF Capital Note 价格 — 解锁 ISF Pre-School feeder 优先的成本</h3>
+  <p style="margin:6px 0;"><b>把 ISF Pre-School 从「弱 feeder」升级为真正优先权的唯一方式</b>是持有 ISF Capital Note。价格：</p>
+  <table style="{TBL}">
+    <tr>
+      <th style="{TH};width:30%;">来源</th>
+      <th style="{TH}">价格</th>
+    </tr>
+    <tr><td style="{TD}"><b>直接向学校购买</b></td><td style="{TD}"><b>港币 650 万</b> — 目前学校<b>已不再直接发行</b>（停止新发行）</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>二级市场（2025 年 10 月）</b></td><td style="{TD}"><b>约港币 430 万</b> — 现今唯一可获取的途径</td></tr>
+  </table>
+  <p style="margin:8px 0;"><b>净成本计算</b>：港币 430 万购买 − 节省 ACL 约港币 53 万（Academy 港币 40K × 12 年 + Pre-School 港币 15K × 3 年）= <b>约港币 377 万净支出</b>，换取入学优先权。</p>
+  <p style="margin:8px 0 0 0;color:{C_DANGER};"><b>结论：两个价格都远超我们港币 100 万的上限（4-6.5 倍以上）。ISF Capital Note 对我们家庭关闭。</b>ISF Pre-School 的 feeder 强度保持「弱」 — 唯一现实的 ISF 路线是直接申请 Foundation Year（2027 年 8 月对应 AY2028/29 入学）。</p>
+
+  <h3 style="{H3};margin-top:14px;">Tutor Time 的实际优势</h3>
+  <ol style="margin:6px 0 6px 18px;padding:0;">
+    <li><b>品牌认可度高</b>：香港中高端早教连锁，全港招生官员都熟悉；毕业生口碑佳</li>
+    <li><b>双语环境</b>：校内英文/中文 50/50</li>
+    <li><b>毕业生去向广</b>：去 ESF、CIS、ISF、CDNIS、SPCC、HKA 等都有 — 但<b>都通过标准申请流程</b>，无优先</li>
+    <li><b>Tutor Time 校长可代为提名 SPCC</b>：通过 SPCC 的 Kindergarten Nomination Scheme（开放给<b>任何</b>幼稚园校长，非 Tutor Time 特定关系）</li>
+    <li><b>位置便利</b>：Dorset 校区 = 鲗鱼涌/太古地铁可达</li>
+  </ol>
+
+  <h3 style="{H3};margin-top:14px;">战略决策矩阵 — 目标学校 × feeder 行动</h3>
+  <table style="{TBL}">
+    <tr>
+      <th style="{TH};width:24%;">目标学校</th>
+      <th style="{TH};width:30%;">最佳 feeder 策略</th>
+      <th style="{TH}">何时行动</th>
+    </tr>
+    <tr><td style="{TD}"><b>VSA</b></td><td style="{TD}"><b>现在</b>从 Tutor Time 转维多利亚幼稚园 K1（AY2026/27，2023 年生年龄层）</td><td style="{TD}">未来 2-3 个月内决定 — 香港最强 feeder</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>ESF（RCHK / Discovery / 标准）</b></td><td style="{TD}">留 Tutor Time；2027 年 9 月 1 日前购买 ESF INR 港币 50 万 + 申请 Y1 AY2028/29</td><td style="{TD}">2027 年 9 月（INR 须在 9 月 1 日前购买）</td></tr>
+    <tr><td style="{TD}"><b>SPCC</b></td><td style="{TD}">留 Tutor Time + 请校长提名 SPCC + 标准 P1 申请（并行）</td><td style="{TD}"><b>现在就开始</b>与 Tutor Time 校长沟通；提名表 2028 年 9 月提交</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>ISF Academy</b></td><td style="{TD}">留 Tutor Time（ISF Pre-School feeder 解锁需港币 430 万 — 远超上限）+ 2027 年 8 月直接申请 FY</td><td style="{TD}">2027 年 8-9 月（FY 申请窗口）</td></tr>
+    <tr><td style="{TD}"><b>DGS</b>（女生）</td><td style="{TD}"><b>必须读 DGJS</b>（DGS 独家 feeder）；2028 年 8 月中申请 DGJS P1</td><td style="{TD}">2028 年 8 月（DGJS P1 窗口）</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>GTC / SPCC（无提名）</b></td><td style="{TD}">留 Tutor Time + 直接申请 P1（2028 年 5-9 月）</td><td style="{TD}">2028 年</td></tr>
+    <tr><td style="{TD}"><b>HKA</b></td><td style="{TD}">转 HKA Pre-K AY2026/27 走内部直通车</td><td style="{TD}">现在（滚动招生）</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>Carmel</b></td><td style="{TD}">转 Carmel Nursery AY2026/27（10 月 31 日截止 = 女儿符合）</td><td style="{TD}">现在（滚动）</td></tr>
+  </table>
+
+  <h3 style="{H3};margin-top:14px;">未解问题 — 历年小学去向数据</h3>
+  <p style="margin:6px 0;">已核实研究无法访问 Tutor Time 公开的毕业生去向数据（被 Cloudflare 保护阻挡）。建议直接电邮询问：</p>
+  <div style="background:{C_TBL_HDR};padding:14px;border-radius:6px;border-left:3px solid {C_PRIMARY};margin:8px 0;font-style:italic;">
+    「请问可以分享 Tutor Time Dorset 近年毕业生的小学去向统计吗？具体每年有多少毕业生进入 SPCC、ESF（哪几所）、ISF、VSA、CDNIS、HKA 或其他学校？是否有某些学校 Tutor Time 历来录取率较高？」
+  </div>
+  <p style="{MUTED};margin-top:8px;">联系：admissions@tutortime.com.hk · Dorset 校区电话（请核实）：+852 2870 1232</p>
 </div>
 
 <h2 style="{H2}">家庭概况</h2>
