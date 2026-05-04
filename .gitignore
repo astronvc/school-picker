@@ -13,3 +13,6 @@
 # Personal scratch
 scratch/
 private/
+
+# Email script dry-run artefacts
+dry_run_*.html

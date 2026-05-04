@@ -18,6 +18,21 @@ This shortlist applies the **family's confirmed constraints** to the candidate p
 
 ---
 
+## ⚠ URGENT — apply within 5 months
+
+**Two K2-equivalent slots open this fall** — only schools accepting at this child's age cohort for AY2027/28 entry (age 4):
+
+| School | Entry level | Application deadline |
+|---|---|---|
+| **CDNIS** | EY1 (K2 equivalent, age 4) | **2026-10-02** |
+| **SIS HK** | Prep Years (K2 equivalent) | **2026-09-30** |
+
+All other Tier A schools (ISF, SPCC, VSA, GTC, ESF Y1) target P1/Y1 entry only at this age cohort — apply Sep 2028 for AY2029/30 entry.
+
+**Action needed**: confirm child's exact DOB. Sept 1 / Dec 1 / calendar-year cutoffs differ by school and determine which intake year applies. Full per-school detail in `04-evaluation/application-windows.md`.
+
+---
+
 ## Tier A — Top fit (apply / visit first)
 
 ### A1. St Paul's Co-educational College (SPCC) — DSS, dual-track DSE + IB
@@ -188,19 +203,38 @@ This shortlist applies the **family's confirmed constraints** to the candidate p
 - IGCSE + A-Level
 - British model; Pok Fu Lam location convenient for HK Island
 
+### C10. American International School Hong Kong (AIS HK) — independent eval per family request
+
+- 125 Waterloo Road, Kowloon Tong (MTR-served); founded 1986; WASC-accredited
+- US standards-based + AP (incl. AP Capstone — Seminar + Research); ~HK$200K annual; **HK$12K/yr capital levy, no debenture** ✓ trivially within cap
+- Rolling first-come admissions — easy entry, low friction
+- **Holistic verdict (past the "not academic" reputation)**: partially accurate but mischaracterized. AIS is *not weak* but *not top-tier*. AP results ~10pp behind HKIS (85% scoring 3+ in 2022 vs HKIS 95% in 2024–25). Documented placements: UC Berkeley, UCLA, NYU, Cornell, Northwestern, BU, occasional Columbia/Oxford. **No documented MIT / Stanford / Princeton / CMU placements 2023–25**, while HKIS, ISF, ICS, CIS all show such.
+- **Decisive against for our family**: (1) **STEM ceiling** — caps at AP Calc BC + AP Physics 2 (algebra-based). No AP Physics C, no Multivariable, no Linear Algebra. HKIS publishes all of these. Hard structural gap for STEM-leaning family. (2) **Mandarin treated as 3–5 hr/wk specialist subject** (ability-grouped) — not a content medium. Will plateau a Mandarin-dominant child.
+- **Decisive for (case for keeping)**: no debenture, rolling admissions, AP Capstone is real research, secular co-ed, Kowloon Tong MTR-served. **Use as low-friction backup** while applying to Tier A.
+- Full evaluation: `02-schools/american-international-school.md` (~430 lines)
+
 ---
 
-## Removed by constraints (with reason)
+## Above debenture cap — apply with realistic caveat
+
+These schools **do accept non-debenture applicants** — but realistic admission probability is materially reduced without paying for capital priority. Listed for completeness; apply only if you want to spend the application effort knowing the constraints.
+
+| ⚠ School | Capital for priority | What you get with it | Without it — realistic chance |
+|---|---|---|---|
+| ⚠ **CIS** | CNR HK$15M direct · HK$1.1–1.5M secondary market | Corporate Nomination Right gives priority application slot at Reception / S1 | General-pool acceptance ~5–8%. Sibling/alumni priority + EDB 70% non-local quota tightening for 2026/27 puts HK-passport non-CNR applicants at very low odds. |
+| ⚠ **Harrow HK** | Capital Certificate ~HK$3.3M (fully resellable on secondary market) | Priority application slot | Tuen Mun location reduces demand somewhat — capacity exists. Non-Certificate chance: moderate but materially below Certificate-holder probability. |
+| ⚠ **HKIS** | Family Debenture HK$3M / Corporate HK$5M (no resale; par refund after 15 years) | Priority application slot | ~3–5% general-pool acceptance for HK-passport applicants without sibling/alumni priority. Strictest no-resale debenture in HK — capital locked 15 years. |
+| ⚠ **GSIS** (English stream) | Infrastructure Debenture HK$6M | "First Admissions Priority" | Without debenture: general pool, lower priority + tighter non-local quota. EIS English stream less competitive than GIS German stream but still demanding (avg IB 41.0). |
+| ⚠ **YCIS** | Debenture from HK$2M (resellable) | Priority application slot | YCIS less prestige-driven than CIS/HKIS — non-debenture chance is moderate but still reduced. Co-teaching bilingual model is the key draw. |
+| ⚠ **CDNIS** (debenture path) | Secondary-market only ~HK$2.2M (school no longer issues new) | Priority application slot | Without debenture path: HK$80K reservation deposit only. CDNIS general pool is competitive but achievable for the right profile (bilingual track, mainland heritage). |
+
+**The decisive factor in 2026/27 is the EDB 70% non-local quota tightening** (see `04-evaluation/key-insights.md` §4) — it reduces HK-passport general-pool chance at every premier international school regardless of capital. Apply with eyes open.
+
+## Removed entirely (with reason)
 
 | School | Removed because |
 |---|---|
 | **Diocesan Boys' School (DBS)** | Boys only |
-| **CIS (direct)** | CNR HK$15M ≫ HK$1M cap |
-| **CIS (secondary-market CNR)** | HK$1.1–1.5M *borderline above* cap; consider only if cap can stretch |
-| **HKIS** | Family Debenture HK$3–5M |
-| **Harrow International HK** | Debenture HK$11M+ |
-| **GSIS (with debenture)** | Infrastructure Debenture HK$6M; without debenture lower priority + admissions tightening makes realistic chance low |
-| **YCIS** | Debenture HK$2M+ |
 | **ICS** | HK$250K within cap, but evangelical Christian identity is a strong cultural commitment — leaving as available but not Tier A given family's mild religious preference |
 
 ---
