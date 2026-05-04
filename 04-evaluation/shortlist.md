@@ -1,287 +1,254 @@
-Last updated: 2026-05-04
+Last updated: 2026-05-04 (re-personalized after family answers)
 
-# Initial shortlist — scored candidates
+# Personalized shortlist
 
-Initial shortlist applying the scorecard from `04-evaluation/scorecard-template.md` to the schools that came out of the research as best-fit candidates for the family's profile. **Tiers are based on fit + outcomes, not prestige.** Specific schools to update / remove once budget, geography, child gender, and university-destination bias are decided.
+This shortlist applies the **family's confirmed constraints** to the candidate pool.
 
-Scoring scale: **1 = poor, 5 = excellent**, weighted per scorecard. Confidence reflects how solid the underlying data is (low / med / high).
+## Constraints applied
+
+| Constraint | Effect on shortlist |
+|---|---|
+| **Annual fee**: any | No annual-fee filter |
+| **Debenture cap: HK$1,000,000** | Removes: CIS direct (CNR HK$15M), Harrow (HK$11M+), HKIS (HK$3–5M), GSIS (Infrastructure Debenture HK$6M), YCIS (HK$2M+). CIS secondary-market CNR (HK$1.1–1.5M) is *borderline above cap*. |
+| **Child: female, 2.5 yrs** | Removes: DBS (boys only), all male-only schools. Also reframes timeline — see "Action timeline" section. |
+| **Mandarin-dominant (70/30 home, 50/50 at Tutor Time Dorset)** | **Boosts** schools with deep bilingual programmes (ISF, VSA, CDNIS bilingual track, CIS, YCIS, SPCC, Singapore Intl). Doesn't disqualify English-medium schools but they require English-immersion catch-up. |
+| **Mainland-uni: optional** | Removes the "DSE for JAS pathway" pressure. Curriculum can optimize for inquiry + STEM + future-skills (favors IB / A-Level over DSE). See `01-curricula/mainland-university-paths.md`. |
+| **Religion: mild preference** | No hard exclusion; HKIS (Lutheran) is already out on debenture cap; ICS (evangelical) and Carmel (Jewish) noted with cultural-fit caveats. |
+| **Boarding: neutral** | No boost or penalty for boarding. SSC and DBS-Boarding considered on merit. |
 
 ---
 
-## Tier A — Top-fit candidates (apply / visit first)
+## Tier A — Top fit (apply / visit first)
 
-### A1. St Paul's Co-educational College (SPCC) — DSS dual-track IB
+### A1. St Paul's Co-educational College (SPCC) — DSS, dual-track DSE + IB
 
-| Field | Value |
+| | |
 |---|---|
 | Curriculum | DSE + IB DP parallel from S5 |
-| Location | MacDonnell Road, Mid-Levels |
-| Annual fee | ~HK$70K (DSE) / ~HK$160K (IB) — non-local IB ~HK$201K |
-| Debenture / capital | None |
+| Location | MacDonnell Road, Mid-Levels (HK Island, central) |
+| Annual fee | ~HK$70K (DSE) / ~HK$160K (IB local) / ~HK$201K (IB non-local) |
+| Debenture / capital | **None** ✓ within cap |
 | 2025 IB | **Average 42.1 — #1 in HK** |
-| Source | [SPCC admissions](https://www.spcc.edu.hk/admissions/international-admissions-and-boarding/fees-and-scholarships) |
-| Last verified | 2026-05-04 |
+| Co-ed | ✓ |
+| Mandarin | English-medium with strong Putonghua-Chinese; mainland-heritage friendly cohort |
 
-**Scores** (out of 5):
-1. Academic rigor — **5** (top IB outcome in HK)
-2. Math / physics depth — **4** (Math AA HL standard, strong but not Further Maths level)
-3. Independent thinking — **4** (IB EE/IAs taken seriously; co-ed cohort intellectually serious)
-4. Confidence-building culture — **4** (intellectually serious without DBS-level intensity)
-5. Future-skill alignment — **4** (IB structure + research culture; cohort drives agency)
-6. Admissions feasibility — **2** (S1 ratio ~20:1; harder to enter at S1+ than P1)
-7. University outcomes — **5** (Oxbridge, Ivy, HKU/HKUST, Stanford routinely)
-8. Language profile — **5** (English-medium with strong Putonghua-Chinese; mainland-heritage friendly)
-9. Cost / value — **5** (top outcomes at fraction of international cost)
-10. Community / peer group — **5** (high-achieving cohort; substantial mainland-heritage HK-passport intake)
+**Why top of list**: best academic-outcome-for-money in HK, no debenture, mainland-heritage friendly, central location. Top IB ceiling in HK.
+**Concerns**: very competitive (S1 ratio ~20:1). For a 2.5 yo girl: SPCC has its own primary feeder (St Paul's Primary, very competitive at P1) — apply early.
+**Action**: visit; flag for P1 application 2028–29 cycle (3 years out). For thru-train preference in the meantime, see Tier B.
 
-**Weighted total**: ~4.2 / 5 — **Tier A**.
+### A2. The ISF Academy — Private Independent, IB Continuum, deep bilingual
 
-**Strengths**: best academic-outcome-for-money in HK; mainland-heritage families well-represented; preserves DSE option for mainland JAS while delivering top IB.
-**Concerns**: very competitive entry, especially at S1+ (P1 feeder is the strategic entry).
-**Open**: confirm willingness to live with academic intensity and exam consciousness culturally inherited from local-school tradition.
-
----
-
-### A2. The ISF Academy — Private Independent, IB, deep Mandarin immersion
-
-| Field | Value |
+| | |
 |---|---|
 | Curriculum | IB MYP + DP; **70% Mandarin / 30% English** Foundation Year through G4 |
-| Location | Cyberport, Pokfulam |
+| Location | Cyberport, Pokfulam (HK Island, west) |
 | Annual fee | HK$152,880 (FY) → HK$241,110 (G11–12) |
-| Debenture / capital | Annual Capital Levy HK$40K, or Capital Note (one-time) |
-| 2025 IB | **Average 38.6, 51% over 40, 1 perfect 45** |
-| Source | [ISF Academy fees](https://academy.isf.edu.hk/index.php/welcome-from-dean-of-admissions/fees-tuition/) |
-| Last verified | 2026-05-04 |
+| Debenture / capital | **Annual Capital Levy HK$40K** ✓ within cap (Capital Note path optional, larger one-time but recoverable) |
+| 2025 IB | Avg 38.6, 51% over 40, 1 perfect 45 |
+| Co-ed | ✓ |
+| Mandarin | **Deepest authentic Mandarin immersion in HK** |
 
-**Scores**:
-1. Academic rigor — **4** (IB strong, not the absolute top but consistent)
-2. Math / physics depth — **3** (IB-standard; not specifically a STEM specialist)
-3. Independent thinking — **4** (IB inquiry + bilingual content)
-4. Confidence-building culture — **4** ("Independent minds, Chinese virtues, global outlook")
-5. Future-skill alignment — **5** (bilingual + IB + cross-cultural fluency = exact future-skill profile)
-6. Admissions feasibility — **3** (competitive but newer than DBS/CIS, capacity exists)
-7. University outcomes — **4** (strong UK/US/HK; not as Ivy-pipeline as CIS but solid)
-8. Language profile — **5** (deepest Mandarin immersion in HK; perfect for Mandarin-native child)
-9. Cost / value — **3** (premium but not top-end; capital levy reasonable)
-10. Community / peer group — **5** (HK-passport / mainland-heritage families heavily represented; explicit Chinese cultural emphasis)
+**Why top of list**: only school in HK that genuinely teaches in Mandarin at the 70/30 ratio. **Perfect cultural and linguistic fit** for a Mandarin-dominant child. Annual Capital Levy at HK$40K is well within debenture cap.
+**Concerns**: not the absolute top STEM (compensate via Olympiads / external math); upper years dilute Mandarin somewhat.
+**Action**: investigate Foundation Year application now (entry age 4, target Sep 2027 = applications open ~12 months ahead in 2026). **Visit in next 3–6 months.** This is the single most well-aligned school for this family's profile.
 
-**Weighted total**: ~4.0 / 5 — **Tier A**.
+### A3. Victoria Shanghai Academy (VSA) — Private, IB Continuum, bilingual primary
 
-**Strengths**: only school in HK that genuinely treats Mandarin as a primary medium of instruction; strongest cultural fit for mainland-heritage HK family.
-**Concerns**: not the absolute top on STEM (supplement with Olympiad / external math); secondary-market debenture mechanics if Capital Note path chosen.
-**Open**: visit to confirm whether the bilingual model still feels rigorous enough by Y10–12 (some schools dilute Mandarin in upper years).
-
----
-
-### A3. Diocesan Boys' School (DBS) IB stream — DSS, dual-track
-
-**Only applicable if child is a boy.**
-
-| Field | Value |
+| | |
 |---|---|
-| Curriculum | DSE + IB DP from F4; "Bridging Year" Y10 |
-| Location | Mong Kok |
-| Annual fee | G10–12 DSE HK$153,116 / **IB HK$234,876** |
-| Debenture / capital | None |
-| 2025 IB | 3 perfect 45s, 7 at 44 (cohort avg estimated 41+) |
-| Source | [DBS IB Exam Results](https://www.ib.dbs.edu.hk/ib-exam-results) |
-| Last verified | 2026-05-04 |
+| Curriculum | IB Continuum (PYP, MYP, DP); **bilingual English + Putonghua primary** |
+| Location | Aberdeen / Shum Wan (HK Island, south) |
+| Annual fee | ~HK$130K–230K |
+| Debenture / capital | One-off capital, modest ✓ within cap |
+| 2025 IB | Avg 37.6, 5 perfect scorers |
+| Co-ed | ✓ |
+| Mandarin | Strong bilingual model |
 
-**Scores**:
-1. Academic rigor — **5** (consistent top-3 IB worldwide)
-2. Math / physics depth — **5** (DBS boys are HK Olympiad medalists; strongest STEM culture in HK among DSS schools)
-3. Independent thinking — **4** (IB structure; bridging year designed to develop independent learners)
-4. Confidence-building culture — **3** (very competitive; can be intense)
-5. Future-skill alignment — **4** (strong on technical depth and agency; less explicit on AI-era literacy)
-6. Admissions feasibility — **2** (S1 ratio ~20:1; brutally competitive)
-7. University outcomes — **5** (Oxbridge / Ivy / HKU Med pipeline)
-8. Language profile — **4** (English-medium; Mandarin offered; less bilingual than ISF/CIS)
-9. Cost / value — **5** (no debenture, world-class outcomes)
-10. Community / peer group — **5** (high-achieving male cohort; many mainland-heritage HK-passport families)
+**Why top of list**: strong bilingual model + IB Continuum + within budget without big debenture. More accessible than ISF/CIS at admissions.
+**Concerns**: Aberdeen location means longer commute from Tutor Time Dorset area (verify geography).
+**Action**: visit; apply for K2 entry (Sep 2027) in next 6–12 months.
 
-**Weighted total**: ~4.2 / 5 — **Tier A** (boy only).
+### A4. G.T. (Ellen Yeung) College — DSS, dual-track, exceptional value
 
-**Strengths**: STEM ceiling is the highest of any DSS school; no debenture economics; boarding houses available.
-**Concerns**: boys-only; intense and traditional; intensity could clash with "anti-pressure" preference if child doesn't thrive in competitive environments. Mong Kok commute reality.
-**Open**: assess whether the family wants their boy in this specific competitive culture.
-
----
-
-### A4. Chinese International School (CIS) — Independent, IB Continuum
-
-| Field | Value |
+| | |
 |---|---|
-| Curriculum | IB MYP + DP; **dual-language English + Mandarin** from Reception; Y10 in Hangzhou |
-| Location | Braemar Hill, Eastern District |
-| Annual fee | HK$167,700 (Reception) → HK$266,100 (Y12–13) |
-| Debenture / capital | **Corporate Nomination Right HK$15M for 2026 entry** (depreciates 5 yrs); secondary-market HK$1.1–1.5M sometimes available |
-| 2025 IB | **Average 38.95, 49% over 40** |
-| Source | [CIS School Fees](https://www.cis.edu.hk/admissions/school-fees), [CIS Existing Nomination Rights](https://www.cis.edu.hk/admissions/school-fees/existing-nomination-rights-historical-annual-levy) |
-| Last verified | 2026-05-04 |
+| Curriculum | Local NSS (DSE) + IB DP from senior years |
+| Location | Tiu Keng Leng, Tseung Kwan O |
+| Annual fee | DSE ~HK$44K / **IBDP HK$88,550** |
+| Debenture / capital | **None** ✓ within cap |
+| 2025 IB | **Avg 40.04, 56% over 40** |
+| Co-ed | ✓ |
+| Mandarin | EMI with strong Chinese; mainland-heritage friendly |
 
-**Scores**:
-1. Academic rigor — **5** (consistent top IB)
-2. Math / physics depth — **4** (IB Math AA HL standard; not Olympiad-culture intense)
-3. Independent thinking — **5** (deep IB inquiry; Hangzhou Y10 unique experience)
-4. Confidence-building culture — **4** (academically demanding but not exam-cram intense)
-5. Future-skill alignment — **5** (bilingual + IB + Hangzhou Y10 = strong cross-cultural future skills)
-6. Admissions feasibility — **2** without nomination, **4** with CNR (the lever)
-7. University outcomes — **5** (~50% USA, ~30% UK, strong Ivy + Oxbridge)
-8. Language profile — **5** (genuine bilingual model)
-9. Cost / value — **2** (CNR economics are a real cost; secondary-market debentures help)
-10. Community / peer group — **5** (HK family establishment + mainland-heritage well represented)
-
-**Weighted total**: ~4.1 / 5 (with CNR) / ~3.6 (without) — **Tier A** (with nomination).
-
-**Strengths**: the established benchmark for HK bilingual IB; Hangzhou Year 10 is unique; cohort is the HK family establishment.
-**Concerns**: HK$15M nomination economics — only justifiable if family already has corporate sponsorship or is willing to deploy that capital with depreciation acceptance. Secondary-market HK$1.1–1.5M much more accessible.
-**Open**: explore secondary-market CNR availability; without it, admission probability is materially lower.
+**Why top of list**: world-class IB outcomes at fraction of international cost. Gifted-pedagogy approach maps well to "research-leaning, anti-rote" preference. No debenture.
+**Concerns**: TKO location (commute issue if on HK Island). Through-train means committing early.
+**Action**: visit; apply for P1 entry 2028–29 if location works. For 2.5 yo, applications open 2 years out.
 
 ---
 
-## Tier B — Strong fits (visit / apply if portfolio room)
+## Tier B — Strong (apply / visit if portfolio room)
 
-### B1. Victoria Shanghai Academy (VSA)
+### B1. Singapore International School (SIS) — IB + IGCSE, bilingual
 
-- IB Continuum, bilingual primary, ~HK$130K–230K, Aberdeen.
-- 2025 IB avg 37.6, 5 perfect scorers.
-- More accessible than CIS / ISF; strong fit for HK-passport / mainland-heritage families.
-- **Score: ~3.9 / 5** — visit if ISF or CIS feel inaccessible.
+- Singapore primary + IGCSE + IB DP, Aberdeen, ~HK$123–275K + capital levy (verify amount within cap)
+- 2025 IB avg 39.0, 47% over 40 — **best math/science depth among IB internationals in HK** (Singapore primary math is famously rigorous)
+- Bilingual English + Mandarin; mainland-heritage friendly
+- **Apply if STEM depth is a primary criterion.**
 
-### B2. Singapore International School (SIS)
+### B2. Canadian International School (CDNIS) — IB Continuum, bilingual track
 
-- Singapore primary + IGCSE + IB DP, HK$123K–275K, Aberdeen.
-- 2025 IB avg 39.0, 47% over 40 — among HK's best.
-- **Best math/science depth in HK among the IB internationals** (Singapore primary math is famously rigorous).
-- **Score: ~4.0 / 5** — strong candidate if STEM depth is the dealbreaker.
+- IB Continuum + Ontario diploma, Aberdeen, HK$161K–290K (Y1 inc. fees) + HK$80K reservation deposit ✓ within cap
+- 2025 IB avg 37.7, 38% over 40
+- Bilingual English + Mandarin track from EY1; ~40% Chinese-heritage students
+- **Strong bilingual fit; less STEM-competitive than SIS.**
 
-### B3. Harrow International School Hong Kong — A-Level pathway
+### B3. Po Leung Kuk Choi Kai Yau (PLKCKY) — Private Independent, IB
 
-- English Nat Curric → IGCSE → A-Level + EPQ; HK$166K–198K + ACL HK$60K + debenture HK$11M+.
-- 2025 A-Level: 33% A* (strong but not the absolute top globally).
-- **Best A-Level option in HK for STEM depth** (Further Maths + EPQ available).
-- Tuen Mun location is a real friction.
-- **Score: ~3.9 / 5** — apply if A-Level + Further Maths route is a primary preference.
+- School-based + IGCSE + IB DP, Sham Shui Po, HK$99,825–264,000 ✓ within cap
+- 2025: 52% scored 40+ in IB; bilingual aim
+- **Co-ed through-train; less competitive than SPCC/ISF.**
 
-### B4. G.T. (Ellen Yeung) College — DSS, IB DP, value play
+### B4. St Stephen's College (SSC) — DSS, dual-track + boarding
 
-- Local NSS + IB DP; Tseung Kwan O.
-- DSE ~HK$44K, **IBDP HK$88,550**.
-- 2025 IB **avg 40.04, 56% over 40** — exceptional outcome at this fee point.
-- **Best price-to-outcome ratio in HK schooling.**
-- **Score: ~4.0 / 5** — visit; gifted-pedagogy approach matches "research-leaning" goals.
+- DSE OR IB DP from S5, Stanley, PR ~HK$74,550 / Non-PR HK$150,866 ✓ no debenture
+- 2025 IB avg 39.7
+- **Boarding option** + spacious campus + Anglican
+- Co-ed; useful if boarding ever becomes desirable.
 
-### B5. Canadian International School (CDNIS)
+### B5. Diocesan Girls' School (DGS) — DSS, top all-round girls school
 
-- IB Continuum + Ontario diploma; Aberdeen; HK$161K–290K (Y1) + HK$80K reservation.
-- 2025 IB avg 37.7, 38% over 40.
-- Bilingual track from EY1, ~40% Chinese-heritage students.
-- **Score: ~3.8 / 5** — strong on bilingual fit; less STEM-competitive than SIS.
-
-### B6. German Swiss International School (GSIS) — English Stream
-
-- IGCSE + IB DP (English stream — German not required); Peak.
-- HK$161K–203K + Infrastructure Debenture HK$6M.
-- 2025 IB **avg 41.0** — second-highest in HK, top non-DSS internationally.
-- Mandarin from Y2; trilingual goal.
-- **Score: ~4.0 / 5** — top STEM rigor with European cultural ethos; debenture is real capital.
+- DSE + GCE A-Level (via Cambridge); **no IB**
+- Jordan, Kowloon; ~HK$42K flat fee ✓ no debenture
+- **#1 cumulative in HK Outstanding Students Awards** (54 winners)
+- **All-girls** — works given child is female; hugely competitive at P1 (~15:1)
+- Apply only if A-Level pathway acceptable AND family open to all-girls environment.
 
 ---
 
-## Tier C — Backup / alternative-fit (consider if Tier A/B portfolio incomplete)
+## Tier C — Backup / fit-dependent
 
-### C1. Malvern College Hong Kong
+### C1. Malvern College Hong Kong — IB Continuum
 
-- IB Continuum, Tai Po. HK$209K–268K.
-- 2025 IB avg 39.0, 33% over 40.
-- Newer school with capacity; UK boarding-school heritage but IB delivery.
-- **Score: ~3.7 / 5** — good fit if North NT location works.
+- Tai Po; HK$209K–268K + debenture available (verify amount; if >HK$1M, drop to "out")
+- 2025 IB avg 39.0, 33% over 40
+- Newer school with capacity; UK boarding heritage but IB delivery
+- **Consider if North NT/Tai Po location works.**
 
-### C2. ESF Renaissance College (RCHK)
+### C2. Hong Kong Academy (HKA) — IB Continuum, progressive
 
-- All four IB programmes (PYP, MYP, DP, CP); Ma On Shan.
-- HK$148K–196K + one-off NCL HK$50K.
-- 2025 IB avg 36.0.
-- **Lower-pressure** alternative; ESF Individual Nomination Right HK$500K is the cheapest priority lever in HK.
-- **Score: ~3.6 / 5** — strong fit if anti-pressure environment is paramount.
+- Sai Kung; HK$116,570–264,700; **Family Debenture HK$630,000** ✓ within cap OR Annual Capital Levy HK$32K
+- Most explicitly progressive of major IB schools; small classes; strong learning support
+- **Score**: lower-pressure environment is a strength for "no exam stress" priority but may feel less academically intense than ISF/SPCC.
+- Apply if progressive-pedagogy environment is preferred.
 
-### C3. ESF Discovery College
+### C3. ESF Renaissance College (RCHK) — IB Continuum
 
-- IB Continuum, Discovery Bay.
-- Lower pressure ESF option; ferry commute.
-- **Score: ~3.5 / 5** — backup if RCHK is full.
+- Ma On Shan; HK$148,100–195,700 + one-off NCL HK$50K ✓ within cap
+- 2025 IB avg 36.0
+- All four IB programmes; through-train; lower-pressure than CIS/ISF
+- **ESF Individual Nomination Right HK$500K is the cheapest priority lever in HK** ✓ within cap — significantly improves admissions probability
 
-### C4. HKIS — AP Capstone pathway (rare in HK)
+### C4. ESF Discovery College — IB Continuum
 
-- US standards-based + 29 APs incl. Capstone Research/Seminar; Tai Tam.
-- HK$247K–286K + debenture HK$3M–5M (no resale).
-- **The ONLY school in HK other than AISHK offering AP Capstone** = the deepest AP-with-research route in HK.
-- Christian (Lutheran) ethos; US-orientation locks in.
-- **Score: ~3.8 / 5** — apply if family is US-orientation primary AND Christian ethos works.
+- Discovery Bay; ferry commute (commute reality)
+- Similar fee structure to RCHK
+- Backup if RCHK is full
 
-### C5. St Stephen's College — boarding option
+### C5. Carmel School (Elsa High) — IB Continuum, small Jewish-ethos community
 
-- Stanley; PR HK$74,550 / Non-PR HK$150,866; no debenture.
-- DSE OR IB DP from S5; 2025 IB avg 39.7.
-- **One of HK's only DSS schools with significant boarding** — useful if mainland family without HK address.
-- **Score: ~3.7 / 5** — strong all-rounder.
+- Mid-Levels + Shau Kei Wan; HK$80,500–226,090 + modest capital ✓ within cap
+- 2025 IB avg 38.1, 43% over 40
+- Mandatory Mandarin from K
+- Small, warm community; non-Jewish students accepted (~30% intake at HS)
+- **Works if family is comfortable with Jewish-ethos community feel.**
 
-### C6. Yew Chung International School (YCIS)
+### C6. Stamford American School Hong Kong (SAIS)
 
-- IGCSE + IB DP; co-teaching model (native EN + native CN teachers in every classroom).
-- HK$146K–272K; Kowloon Tong + TKO.
-- **Score: ~3.6 / 5** — strongest co-teaching bilingual model; less academic prestige than CIS.
+- Ho Man Tin primary; new West Kowloon HS campus opening 2026
+- HK$217,100–264,000 + Capital Levy HK$150K one-off OR HK$30K/yr ✓ within cap
+- IB DP option + STEMinn programme + daily Mandarin K–G5
+- Newer school; capacity available; less established track record but well-resourced
 
----
+### C7. AISHK (Australian International)
 
-## What we did NOT include and why
+- Kowloon Tong; HK$91K–201K; first-yr ~HK$277K (one-time) ✓ within cap
+- HSC or IB DP from Y11; Sept–June calendar (Australian alignment)
+- Mainland-heritage friendly
 
-- **DGS**: top all-round girls school, but **no IB** offered (A-Level + DSE only). If girl + A-Level path acceptable, score this tier-A.
-- **Pure local Band 1 schools (Queen's, La Salle, etc.)**: low fees, but exam culture mismatched with stated philosophy. Could be a backup; likely not first choice.
-- **Most ESF (KGV, Island, etc.)**: solid IB outcomes but recently tightening admissions for HK-passport applicants per the 70% non-local rule.
-- **Stamford American, Nord Anglia, Kellett**: capacity available but middle-of-pack outcomes; possible Tier C backups.
-- **Harrow Boarding option, Shrewsbury, Mount Kelly**: possible Tier C if Tuen Mun / Tseung Kwan O / Tuen Mun work.
+### C8. Nord Anglia (NAIS HK)
 
-See `02-schools/` for full coverage of each.
+- Lam Tin + Kwun Tong; HK$91K–222K + new Annual Capital Levy HK$35K from 2026/27 ✓ within cap
+- 2025 IB avg 35.4
+- MIT STEAM partnership + Juilliard performing arts
+- Mid-tier IB outcomes; well-resourced; PRC-brand-friendly
 
----
+### C9. Kellett School (British)
 
-## Open questions to resolve before applying
-
-These will sharpen the shortlist substantially. **Please answer in `00-criteria/our-needs.md` (or via Claude in this repo) so the shortlist can be re-scored.**
-
-1. **Budget ceiling**: annual + capital. Without this, Tier A vs Tier B vs Tier C can't be optimized.
-2. **Year of entry**: child's current age and target intake year. P1 feeder vs S1 entry vs S5 IB-stream entry are very different applications.
-3. **Geography**: HK Island / Kowloon / NT / Discovery Bay / boarding. A school's location can disqualify it on commute alone.
-4. **Boy or girl**: DBS, DGS, La Salle, Maryknoll Convent, MCS are single-sex.
-5. **University destination bias**: USA / UK / HK / mainland (清北 via JAS) / open. Materially shifts ranking.
-6. **Mainland JAS pathway — keep open or accept closing?** This is a one-way door: choosing pure international closes JAS by Y9–10. If mainland top universities are even an "insurance" path, bias towards dual-track (DBS, SPCC, GTC).
-7. **Religious affiliation tolerance**: HKIS (Lutheran), ICS (evangelical), Catholic / Anglican (DBS, DGS, SPCC, SSC, La Salle), Carmel (Jewish). Cultural fit varies.
-8. **Boarding option desired?** SSC and DBS offer boarding; useful if family doesn't yet have HK residence.
-9. **English level on entry**: most of the shortlist requires solid English at interview. If child is Mandarin-native with weaker English, 12–18 months of pre-entry English investment is the highest-ROI prep.
-10. **Risk tolerance on debentures / nomination rights**: HK$500K (ESF) → HK$15M (CIS) range. Cheapest is ESF NCL.
+- Pok Fu Lam + Kowloon Bay; new HK$40K/yr ACL replacing old debenture mandate from Sep 2025 ✓ within cap
+- IGCSE + A-Level
+- British model; Pok Fu Lam location convenient for HK Island
 
 ---
 
-## Suggested next steps
+## Removed by constraints (with reason)
 
-1. **Decide budget + university bias + child age** (above).
-2. **Visit 4–6 schools** across tiers (e.g., SPCC + ISF + GTC + Harrow + RCHK + 1 backup).
-3. **Apply to 5–7 schools** spanning Tier A (2–3) + Tier B (2–3) + Tier C (1–2 safe).
-4. **Begin English investment** if child is Mandarin-dominant, 12–18 months before interview.
-5. **Investigate ESF Individual Nomination Right (HK$500K)** if any ESF school is on the list — best leverage in HK.
-6. **Check CIS secondary-market CNR** if CIS is a target — HK$1.1–1.5M vs HK$15M direct.
+| School | Removed because |
+|---|---|
+| **Diocesan Boys' School (DBS)** | Boys only |
+| **CIS (direct)** | CNR HK$15M ≫ HK$1M cap |
+| **CIS (secondary-market CNR)** | HK$1.1–1.5M *borderline above* cap; consider only if cap can stretch |
+| **HKIS** | Family Debenture HK$3–5M |
+| **Harrow International HK** | Debenture HK$11M+ |
+| **GSIS (with debenture)** | Infrastructure Debenture HK$6M; without debenture lower priority + admissions tightening makes realistic chance low |
+| **YCIS** | Debenture HK$2M+ |
+| **ICS** | HK$250K within cap, but evangelical Christian identity is a strong cultural commitment — leaving as available but not Tier A given family's mild religious preference |
 
 ---
+
+## Action timeline for a 2.5 year old girl (entry years)
+
+| Year | Child's age | Decision / action |
+|---|---|---|
+| **2026 (now)** | 2.5 → 3 | Continue at Tutor Time Dorset; visit 4–6 target schools; **purchase ESF Individual Nomination Right HK$500K** if any ESF school is on the list (cheapest priority lever in HK) |
+| **2027** | 3 → 4 | **K2 / Reception applications open** at top thru-train internationals: ISF (FY entry), VSA, CDNIS, RCHK, HKA, Stamford, Malvern, Carmel. Apply broadly across Tier A + Tier B + Tier C. Decide thru-train (international) vs P1 entry (DSS) strategy. |
+| **2028** | 4 → 5 | **K3 entries** (some schools open at K3). Continue to develop English exposure (read-aloud, English-medium activities); aim for ~50/50 by K3 to ease P1 applications. Begin DSS feeder strategy if going that route. |
+| **2029** | 5 → 6 | **P1 applications** for top DSS schools: SPCC, GTC, DGS (girls), DBS Primary (boys, N/A). Interview prep — substance-focused, not theatre. |
+| **2030** | 6 → 7 | **P1 entry** at chosen primary school. (Or continue at thru-train international if K2-entered earlier.) |
+
+**Key decision in next 12 months**: thru-train international (lock in early at ISF/VSA/CDNIS/RCHK/HKA at K2/K3) **OR** keep options open and apply broadly at P1 (SPCC, GTC, DGS, etc.). Both work; the difference is admissions risk vs flexibility tradeoff. With a Mandarin-dominant 2.5 yo, the thru-train international route at ISF is the strongest single positioning.
+
+## Suggested visit list (next 3–6 months)
+
+**Must visit** (Tier A core):
+1. **The ISF Academy** — assess whether the Mandarin immersion model works for the family
+2. **St Paul's Co-educational College (SPCC)** — assess feeder primary competition + culture
+3. **VSA** — assess as the more accessible bilingual IB alternative
+4. **G.T. (Ellen Yeung) College** — assess the value-play DSS option
+
+**Strong to visit** (Tier B):
+5. **SIS** (if STEM depth matters most)
+6. **CDNIS** (bilingual track alternative)
+
+**Optional**:
+7. RCHK or Discovery College (lower-pressure ESF option)
+8. HKA (most progressive IB school)
+
+When visiting, watch for the green/red flags listed in `04-evaluation/key-insights.md` §7.
+
+## Open questions to sharpen this further
+
+1. **Geography**: Tutor Time Dorset is in Quarry Bay / Eastern district (verify). If Eastern is preferred, CIS (Eastern), SPCC (Mid-Levels), DGS (Jordan), HKA (Sai Kung), Stamford (Ho Man Tin → WKL HS), AISHK (Kowloon Tong) are central; ISF (Pokfulam), VSA / SIS / CDNIS (Aberdeen), Discovery College (DB), GTC (TKO), RCHK (Ma On Shan), Malvern (Tai Po) are further. Confirm geography and we can re-tier.
+2. **University destination bias** — US (favours AP-school options like ICS/Stamford + IB), UK (favours A-Level — but Harrow is out on debenture; Kellett is the remaining option), HK (most schools work), or open. Material implication for IB vs A-Level.
+
+Tell me either of these and I'll re-rank.
 
 ## Re-scoring policy
 
 Update this shortlist when:
-- Family decides on budget / geography / university bias / child age
-- New school added or removed
-- IB / A-Level / DSE results change materially (annual)
-- Debenture / nomination economics change
-- Specific school visit reveals fit issues not visible in research
+- Geography or university bias is decided
+- Specific school visit reveals fit issues
+- IB / A-Level results change materially (annual)
+- Family's debenture cap changes
+- Child's English fluency develops or stalls (re-assess language profile fit)
 
 Always update `05-research-log/changelog.md` when changing this file.

@@ -52,12 +52,19 @@ Last updated: 2026-05-04
 | 9 | Cost / value | Fees + capital levy + debenture in context of academic value delivered |
 | 10 | Community / peer group | Quality of peer cohort and parent body (motivation, ambition, character) |
 
-## To be confirmed by user
+## Confirmed family answers (2026-05-04)
 
-- [ ] Budget envelope (annual + debenture)
-- [ ] Year of entry / current age of child
-- [ ] Geographic preference (HK Island / Kowloon / NT)
-- [ ] Boarding option (yes / no — locally Li Po Chun, ISF, ICS offer)
-- [ ] Religious affiliation preference (or none)
-- [ ] Single-sex vs co-ed preference
-- [ ] University destination bias (US / UK / HK / mainland / open)
+- **Annual fee**: any — not a primary constraint
+- **Debenture / capital cap**: **HK$1,000,000** (rules out high-premium debentures: CIS direct CNR HK$15M, Harrow HK$11M+, HKIS HK$3–5M, GSIS HK$6M, YCIS HK$2M; CIS secondary-market HK$1.1–1.5M is borderline above cap)
+- **Child**: **female, currently 2.5 years old** (target K2 entry Sep 2027 ≈ age 4; K3 Sep 2028; P1 Sep 2029 ≈ age 6)
+- **Currently attending**: Tutor Time Dorset (50% English / 50% Mandarin school environment)
+- **Language profile at home**: **~70% Mandarin / 30% English** — child is Mandarin-dominant; English exposure via Tutor Time and home is meaningful but secondary
+- **Religious affiliation tolerance**: some preference (mild) but not a strong filter
+- **Boarding**: neutral — neither prioritized nor excluded
+- **Mainland top university (清北 etc.) destination**: **optional** — not primary. (User asked: "华侨联考是吗?" — no, the DSE-based path is JAS, not 华侨联考; both are different schemes. Either way, since mainland is optional, no need to bias curriculum toward DSE specifically. See `01-curricula/mainland-university-paths.md` for the three available routes.)
+- **Single-sex vs co-ed**: **female** + child currently in co-ed setting — implies co-ed preferred or all-girls acceptable. **DBS removed** (boys only).
+
+## Still open (would sharpen the shortlist further)
+
+- [ ] **Geography preference** — HK Island / Kowloon / NT / Eastern District. Tutor Time Dorset suggests HK Island / Eastern. Schools' commute realities differ widely (e.g. Harrow/Malvern are far; CIS/ESF/HKIS/SPCC/CDNIS more central).
+- [ ] **University destination bias** — US / UK / HK / open. Different curricula pre-position differently. (Mainland is now optional per above.)
