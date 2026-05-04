@@ -18,21 +18,48 @@ This shortlist applies the **family's confirmed constraints** to the candidate p
 
 ---
 
-## ⚠ URGENT — DOB-aware timeline (child born mid-September 2023)
+## ⚠ URGENT — exact application windows (child born mid-September 2023)
 
-She's a "September baby" sitting right at most schools' age-cutoff cusp. **Implication: the CDNIS Oct 2026 / SIS Sep 2026 deadlines for AY2027/28 entry that earlier framings flagged DO NOT apply to her cohort** — those are for kids born Sep 2022 or earlier.
+**CORRECTION from earlier framing**: CDNIS EY1 (deadline 2026-10-02) and SIS Prep Years (deadline 2026-09-30) DO apply to her cohort — for **age-3 entry** (EY1 / K1, not K2/age-4). Earlier dismissal was based on flawed cutoff assumption. See `04-evaluation/application-windows.md` for primary-source detail per school.
 
-| Cutoff | Schools | Her cohort | Action window |
-|---|---|---|---|
-| **Aug 31** | Most internationals (CDNIS, SIS, ISF, VSA, CIS, HKIS, HKA, Stamford, Carmel, Malvern, NAIS) | NOT eligible for AY2027/28 (3 yrs 11 mo on Aug 31, 2027). Her cohort = **AY2028/29 K2/Reception/FY/EY1 entry** | Apply **Sep–Oct 2027** (~16 months out) |
-| **Dec 31** | ESF kindergartens | Eligible for **ESF K2 AY2027/28 entry** (4 yrs 3 mo on Dec 31, 2027) | Apply **Sep 2026** (~4 months out) |
-| **Dec 31** (HK local) | DSS (SPCC, GTC, DGS, etc.) | Cohort = **AY2029/30 P1 entry** | Apply **Sep 2028** (~28 months out) |
+### Three deadlines in next 4–5 months
 
-**The single actionable urgent date for her DOB:**
+| Deadline | School | Entry | For AY | Capital req | Within cap? |
+|---|---|---|---|---|---|
+| **2026-09-30** | **SIS HK** | Prep Years K1 (age 3, year 1 of 3-yr program) | 2027/28 | HK$200K personal debenture or HK$20K/yr ACL | ✓ |
+| **2026-10-02** | **CDNIS** | EY1 (age 3, turning 4 during year) | 2027/28 | HK$80K reservation deposit only · or HK$2.2M secondary debenture | ✓ (without debenture) / ⚠ (with) |
+| **2027-02-05** | **VSA** | Y1 Reception (Dec 1 cutoff: born Dec 1, 2022 to Nov 30, 2023) | 2028/29 | HK$60K capital levy (refundable) · debenture price unpublished | ✓ |
 
-- **Sep 2026 — ESF K2 applications open for AY2027/28 entry.** If any ESF school on the list, **buy ESF Individual Nomination Right HK$500K BEFORE applying** (must be in place at application time; cheapest priority lever in HK at HK$500K).
+### Then 2027 (apply ~12 months from now)
 
-Full per-school detail in `04-evaluation/application-windows.md`. Verify each school's exact cutoff convention before relying on the table above.
+| Window | School | Entry | For AY | Notes |
+|---|---|---|---|---|
+| ~Aug–Oct 2027 | **ISF Academy** | Pre-Reception (age 4) | 2028/29 | HK$40K/yr ACL ✓ or HK$300K–500K optional debenture for priority |
+| **2027-09-01 to 2027-09-30** | **ESF** | Y1 Reception (age 5) | 2028/29 | HK$38K NCL + optional HK$500K INR for priority interview |
+
+### Then 2028 (apply ~24 months from now)
+
+| Window | School | Entry | For AY | Notes |
+|---|---|---|---|---|
+| ~May–Jun 2028 | **GTC (Ellen Yeung)** | P1 (age 6) | 2029/30 | None ✓ |
+| **2028-09-01 to 2028-09-05 (4-day window)** | **SPCC Primary** | P1 (age 6) | 2029/30 | None disclosed; verify with school |
+| ~Aug 2028 | **ISF Academy** | FY (age 5, alternative to Pre-Reception) | 2029/30 | Same fees as Pre-Reception |
+| 2028-09-01 to 2028-09-30 | **ESF** | Y1 (alternative to AY2028/29) | 2029/30 | NCL + INR if not used |
+
+### ESF status — corrected
+
+- ESF **K1 is closed for her** (K1 admits children turning 3 in entry year = born 2024 for AY2027/28; she's born 2023 = too old).
+- ESF **Y1 target = AY2028/29** (apply 2027-09-01 to 2027-09-30). Buy INR HK$500K BEFORE 2027-09-01 if pursuing.
+- ESF **K2 entry**: not via central admission per agent's research; only via individual ESF kindergarten waitlists. Open question — verify with specific schools (Hillside, Tung Chung, Tsing Yi, Wu Kai Sha).
+
+### What earlier framing got wrong
+
+I assumed "CDNIS EY1 = K2-equivalent age 4 entry" and "SIS Prep Years = K2-equivalent age 4 entry". Both wrong:
+- CDNIS structure: **Nursery (age 2) → EY1 (age 3) → EY2 (age 4) → Prep (age 5) → G1 (age 6)** — she's at the older edge of EY1 for AY2027/28.
+- SIS Prep Years is a **3-year program (K1/K2/K3 equivalent), entry at K1/year 1 = age 3**.
+- Result: she IS eligible for both this year, contrary to my earlier note.
+
+Verify each school's exact age cutoff and deadline directly with the school before committing.
 
 ---
 
