@@ -56,7 +56,10 @@ Last updated: 2026-05-04
 
 - **Annual fee**: any — not a primary constraint
 - **Debenture / capital cap**: **HK$1,000,000** (rules out high-premium debentures: CIS direct CNR HK$15M, Harrow HK$11M+, HKIS HK$3–5M, GSIS HK$6M, YCIS HK$2M; CIS secondary-market HK$1.1–1.5M is borderline above cap)
-- **Child**: **female, currently 2.5 years old** (target K2 entry Sep 2027 ≈ age 4; K3 Sep 2028; P1 Sep 2029 ≈ age 6)
+- **Child**: **female, DOB mid-September 2023** (currently 2.5 yrs). She's a "Sept baby" at the cusp of most age cutoffs. Cohort fit:
+  - **Aug 31 cutoff schools** (CDNIS, SIS, ISF, VSA, CIS, HKIS, HKA, Stamford, Carmel, Malvern, NAIS, etc.): NOT eligible for AY2027/28 K2/Reception (only 3 yrs 11 mo on Aug 31, 2027). Her cohort = **AY2028/29 K2/Reception/FY/EY1 entry**. Applications **Sep–Oct 2027**.
+  - **Dec 31 cutoff schools** (ESF kindergartens, HK DSS local): IS eligible for **ESF K2 AY2027/28 entry** (4 yrs 3 mo on Dec 31, 2027). ESF K2 applications open **Sep 2026** (4 months out).
+  - **DSS P1 entry** (SPCC, GTC, DGS, HKDSE schools): cohort = **AY2029/30 P1 entry**. Applications **Sep 2028**.
 - **Currently attending**: Tutor Time Dorset (50% English / 50% Mandarin school environment)
 - **Language profile at home**: **~70% Mandarin / 30% English** — child is Mandarin-dominant; English exposure via Tutor Time and home is meaningful but secondary
 - **Religious affiliation tolerance**: some preference (mild) but not a strong filter

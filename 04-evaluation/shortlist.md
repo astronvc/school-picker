@@ -18,18 +18,21 @@ This shortlist applies the **family's confirmed constraints** to the candidate p
 
 ---
 
-## ⚠ URGENT — apply within 5 months
+## ⚠ URGENT — DOB-aware timeline (child born mid-September 2023)
 
-**Two K2-equivalent slots open this fall** — only schools accepting at this child's age cohort for AY2027/28 entry (age 4):
+She's a "September baby" sitting right at most schools' age-cutoff cusp. **Implication: the CDNIS Oct 2026 / SIS Sep 2026 deadlines for AY2027/28 entry that earlier framings flagged DO NOT apply to her cohort** — those are for kids born Sep 2022 or earlier.
 
-| School | Entry level | Application deadline |
-|---|---|---|
-| **CDNIS** | EY1 (K2 equivalent, age 4) | **2026-10-02** |
-| **SIS HK** | Prep Years (K2 equivalent) | **2026-09-30** |
+| Cutoff | Schools | Her cohort | Action window |
+|---|---|---|---|
+| **Aug 31** | Most internationals (CDNIS, SIS, ISF, VSA, CIS, HKIS, HKA, Stamford, Carmel, Malvern, NAIS) | NOT eligible for AY2027/28 (3 yrs 11 mo on Aug 31, 2027). Her cohort = **AY2028/29 K2/Reception/FY/EY1 entry** | Apply **Sep–Oct 2027** (~16 months out) |
+| **Dec 31** | ESF kindergartens | Eligible for **ESF K2 AY2027/28 entry** (4 yrs 3 mo on Dec 31, 2027) | Apply **Sep 2026** (~4 months out) |
+| **Dec 31** (HK local) | DSS (SPCC, GTC, DGS, etc.) | Cohort = **AY2029/30 P1 entry** | Apply **Sep 2028** (~28 months out) |
 
-All other Tier A schools (ISF, SPCC, VSA, GTC, ESF Y1) target P1/Y1 entry only at this age cohort — apply Sep 2028 for AY2029/30 entry.
+**The single actionable urgent date for her DOB:**
 
-**Action needed**: confirm child's exact DOB. Sept 1 / Dec 1 / calendar-year cutoffs differ by school and determine which intake year applies. Full per-school detail in `04-evaluation/application-windows.md`.
+- **Sep 2026 — ESF K2 applications open for AY2027/28 entry.** If any ESF school on the list, **buy ESF Individual Nomination Right HK$500K BEFORE applying** (must be in place at application time; cheapest priority lever in HK at HK$500K).
+
+Full per-school detail in `04-evaluation/application-windows.md`. Verify each school's exact cutoff convention before relying on the table above.
 
 ---
 

@@ -4,21 +4,26 @@
 Send the personalized HK school-picker summary as TWO rich HTML emails:
 one in English, one in Mandarin (Simplified Chinese).
 
-Both go from pureteabee@gmail.com to itself.
+Credentials
+-----------
+By default reads from ~/.config/send_email.yml with this format
+(both KEY=VALUE and KEY: VALUE lines work):
+
+    GMAIL_APP_PASSWORD=xxxx xxxx xxxx xxxx
+    GMAIL_SENDER=pureteabee@gmail.com
+    GMAIL_TO=pureteabee@gmail.com
+
+App password (16 chars) generated at:
+    https://myaccount.google.com/apppasswords
+(2-Step Verification must be enabled on the Google account first.)
+
+Env vars override the config file:
+    GMAIL_APP_PASSWORD, SENDER_EMAIL, RECIPIENT_EMAIL
 
 Usage
 -----
-    GMAIL_APP_PASSWORD='xxxx xxxx xxxx xxxx' python3 tools/send_summary_email.py
-
-The app password is a 16-character string generated at:
-    https://myaccount.google.com/apppasswords
-2-Step Verification must be enabled on the Google account first.
-
-Optional env vars
------------------
-    SENDER_EMAIL      default: pureteabee@gmail.com
-    RECIPIENT_EMAIL   default: same as SENDER_EMAIL
-    DRY_RUN=1         render both HTMLs to ./dry_run_en.html / ./dry_run_zh.html and skip sending
+    python3 tools/send_summary_email.py
+    DRY_RUN=1 python3 tools/send_summary_email.py    # render to dry_run_en/zh.html
 
 Re-run safely. Idempotent: this just composes and sends.
 """
@@ -31,8 +36,36 @@ from email.header import Header
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
-SENDER = os.environ.get("SENDER_EMAIL", "pureteabee@gmail.com")
-RECIPIENT = os.environ.get("RECIPIENT_EMAIL", SENDER)
+
+def load_config(path="~/.config/send_email.yml"):
+    """Load credentials from ~/.config/send_email.yml.
+
+    Accepts both KEY=VALUE and KEY: VALUE line formats. Tolerates blanks,
+    comments (#), and surrounding quotes on values.
+    """
+    cfg = {}
+    full_path = os.path.expanduser(path)
+    if not os.path.exists(full_path):
+        return cfg
+    with open(full_path, encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if not line or line.startswith("#"):
+                continue
+            if "=" in line:
+                k, v = line.split("=", 1)
+            elif ":" in line:
+                k, v = line.split(":", 1)
+            else:
+                continue
+            cfg[k.strip()] = v.strip().strip('"').strip("'")
+    return cfg
+
+
+CFG = load_config()
+
+SENDER = os.environ.get("SENDER_EMAIL") or CFG.get("GMAIL_SENDER") or "pureteabee@gmail.com"
+RECIPIENT = os.environ.get("RECIPIENT_EMAIL") or CFG.get("GMAIL_TO") or SENDER
 TODAY = date.today().isoformat()
 
 SUBJECT_EN = f"HK School Picker — Personalized Summary ({TODAY})"
@@ -149,7 +182,7 @@ def build_en_html():
             (fld["capital"], "<b>Annual Capital Levy HK$40,000/yr</b> (within cap) · Capital Note option (one-time, larger)"),
             (fld["ib"], "Avg 38.6, 51% over 40, 1 perfect 45"),
             (fld["mandarin"], "<b>Deepest authentic Mandarin immersion in HK</b> — 70/30 ratio in junior years; perfect linguistic fit for a Mandarin-dominant child"),
-            (fld["app_window"], "<b>P1/Y1 entry</b> — target Sep 2028 application for AY2029/30 (child P1 in Sep 2029). AY2027/28 specific close dates not yet released (expected Aug 2026)."),
+            (fld["app_window"], "<b>FY entry (age 4)</b> — for her DOB (mid-Sep 2023, Aug 31 cutoff), target <b>AY2028/29 entry</b>. Applications open ~Sep 2027 (~16 months out). FY is ISF's main entry point for primary."),
             (fld["apply"], f'<a style="{LINK}" href="https://academy.isf.edu.hk/admissions/">academy.isf.edu.hk/admissions</a>'),
         ],
         why_lbl,
@@ -232,20 +265,21 @@ def build_en_html():
   </div>
 </div>
 
-<h2 style="{H2_DANGER}"><span style="{PILL_URGENT}">URGENT</span> &nbsp; Apply within 5 months</h2>
+<h2 style="{H2_DANGER}"><span style="{PILL_URGENT}">URGENT</span> &nbsp; DOB-aware timeline</h2>
 <div style="{URGENT_CARD}">
-  <p style="margin:0 0 8px 0;"><b>Two K2-equivalent slots open this fall</b> — only schools accepting at this child's age cohort for AY2027/28 entry (age 4):</p>
+  <p style="margin:0 0 8px 0;">Child DOB confirmed: <b>mid-September 2023</b>. She's a "September baby" sitting right at most schools' age-cutoff cusp. <b>Implication: CDNIS Oct 2026 / SIS Sep 2026 deadlines for AY2027/28 entry DO NOT apply to her cohort</b> — those are for kids born Sep 2022 or earlier.</p>
   <table style="{TBL}">
     <tr>
-      <th style="{TH};width:30%;">School</th>
-      <th style="{TH};width:30%;">Entry level</th>
-      <th style="{TH}">Application deadline</th>
+      <th style="{TH};width:14%;">Cutoff</th>
+      <th style="{TH};width:36%;">Schools</th>
+      <th style="{TH};width:24%;">Her cohort</th>
+      <th style="{TH}">Action window</th>
     </tr>
-    <tr><td style="{TD}"><b>CDNIS</b></td><td style="{TD}">EY1 (K2 equivalent, age 4)</td><td style="{TD}"><b style="color:{C_DANGER};">2026-10-02</b></td></tr>
-    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>SIS HK</b></td><td style="{TD}">Prep Years (K2 equivalent)</td><td style="{TD}"><b style="color:{C_DANGER};">2026-09-30</b></td></tr>
+    <tr><td style="{TD}"><b>Aug 31</b></td><td style="{TD}">Most internationals (CDNIS, SIS, ISF, VSA, CIS, HKIS, HKA, Stamford, Carmel, Malvern, NAIS)</td><td style="{TD}">AY2028/29 K2/Reception/FY/EY1 entry (4 yrs 11 mo on Aug 31, 2028)</td><td style="{TD}">Apply <b>Sep–Oct 2027</b> (~16 months)</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>Dec 31</b></td><td style="{TD}">ESF kindergartens</td><td style="{TD}"><b>ESF K2 AY2027/28 entry</b> (4 yrs 3 mo on Dec 31, 2027)</td><td style="{TD}"><b style="color:{C_DANGER};">Apply Sep 2026</b> (~4 months)</td></tr>
+    <tr><td style="{TD}"><b>Dec 31</b> (HK local)</td><td style="{TD}">DSS (SPCC, GTC, DGS)</td><td style="{TD}">AY2029/30 P1 entry</td><td style="{TD}">Apply Sep 2028 (~28 months)</td></tr>
   </table>
-  <p style="margin:8px 0;{MUTED}">All other Tier A schools (ISF, SPCC, VSA, GTC, ESF Y1) target P1/Y1 entry only at this age cohort — apply Sep 2028 for AY2029/30 entry.</p>
-  <p style="margin:8px 0 0 0;"><b style="color:{C_DANGER};">Action needed:</b> confirm child's exact DOB. Sept 1 / Dec 1 / calendar-year cutoffs differ by school and determine which intake year applies.</p>
+  <p style="margin:8px 0 0 0;"><b style="color:{C_DANGER};">Single actionable urgent date:</b> <b>Sep 2026 — ESF K2 applications open for AY2027/28 entry.</b> If any ESF school on list (RCHK, Discovery College, Hillside International Kindergarten, etc.), <b>buy ESF Individual Nomination Right HK$500K BEFORE applying</b> (must be in place at application time; cheapest priority lever in HK at HK$500K).</p>
 </div>
 
 <h2 style="{H2}">Family snapshot</h2>
@@ -413,7 +447,7 @@ def build_en_html():
   <tr>
     <td style="{TD};font-weight:700;color:{C_PRIMARY};">2026 (now)</td>
     <td style="{TD}">2.5–3</td>
-    <td style="{TD}"><b style="color:{C_DANGER};">URGENT:</b> apply to CDNIS EY1 by 2026-10-02 and SIS Prep Years by 2026-09-30 (only K2-equivalent slots open this fall). Stay at Tutor Time. <b>Visit 4–6 target schools</b>. If any ESF on list, <b>buy ESF Individual Nomination Right HK$500K</b> (within cap; cheapest priority lever in HK).</td>
+    <td style="{TD}"><b style="color:{C_DANGER};">URGENT:</b> ESF K2 applications open Sep 2026 for AY2027/28 entry (she IS eligible under ESF Dec 31 cutoff). <b>Buy ESF Individual Nomination Right HK$500K BEFORE applying</b> if any ESF school on list. Stay at Tutor Time. <b>Visit 4–6 target schools</b>. (Note: CDNIS Oct 2026 / SIS Sep 2026 deadlines are for AY2027/28 = kids born Sep 2022 or earlier — NOT her cohort.)</td>
   </tr>
   <tr style="background:{C_TBL_ALT};">
     <td style="{TD};font-weight:700;color:{C_PRIMARY};">2027</td>
@@ -437,9 +471,10 @@ def build_en_html():
   </tr>
 </table>
 <p style="{MUTED};margin-top:6px;">
-Strategic decision in next 5 months: <b>thru-train K2 international</b> (apply CDNIS / SIS now) +
-<b>P1 portfolio later</b> (SPCC, GTC, DGS in 2028). With Mandarin-dominant profile, ISF Foundation Year (G1 entry 2028)
-or VSA Y1 (apply Feb 2027) is the strongest single positioning if K2 routes don't land.
+Strategic positioning given DOB (mid-Sep 2023): the <b>only</b> action in next 4 months is the <b>ESF K2 application (Sep 2026)</b> for AY2027/28 entry — buy the Individual Nomination Right HK$500K first.
+Then <b>main K2/Reception application wave Sep–Oct 2027</b> for thru-train internationals (ISF FY, VSA Y1, CDNIS EY1, SIS Prep, RCHK, HKA, Stamford, Carmel, Malvern) for AY2028/29 entry.
+<b>Then P1 wave Sep 2028</b> for top DSS (SPCC, GTC, DGS) for AY2029/30 entry.
+With Mandarin-dominant profile, ISF FY at AY2028/29 is the strongest single positioning.
 </p>
 
 <h2 style="{H2}">Estimated 12-year cost (rough order of magnitude)</h2>
@@ -527,7 +562,7 @@ def build_zh_html():
             (fld["capital"], "<b>年度资本费 港币40,000/年</b>（在上限内）· 也可选一次性较大额的 Capital Note"),
             (fld["ib"], "平均 38.6，51% 超 40 分，1 人满分 45"),
             (fld["mandarin"], "<b>香港最深入的真正普通话沉浸式教学</b> — 初中阶段 70/30 比例；非常适合普通话主导的孩子"),
-            (fld["app_window"], "<b>P1/Y1 入学</b> — 目标 2028 年 9 月申请，对应 2029/30 学年入学（孩子 2029 年 9 月升 P1）。2027/28 学年具体截止日尚未公布（预计 2026 年 8 月）。"),
+            (fld["app_window"], "<b>FY 入学（4 岁）</b> — 按她出生日期（2023 年 9 月中，Aug 31 截止），目标 <b>AY2028/29 入学</b>。申请约 2027 年 9 月开放（约 16 个月后）。FY 是 ISF 小学的主要入学点。"),
             (fld["apply"], f'<a style="{LINK}" href="https://academy.isf.edu.hk/admissions/">academy.isf.edu.hk/admissions</a>'),
         ],
         why_lbl,
@@ -610,20 +645,21 @@ def build_zh_html():
   </div>
 </div>
 
-<h2 style="{H2_DANGER}"><span style="{PILL_URGENT}">紧急</span> &nbsp; 5 个月内须申请</h2>
+<h2 style="{H2_DANGER}"><span style="{PILL_URGENT}">紧急</span> &nbsp; 按出生日期重订时间表</h2>
 <div style="{URGENT_CARD}">
-  <p style="margin:0 0 8px 0;"><b>两个 K2 等同等级的入学窗口将在今秋截止</b> — 在孩子目前年龄层，唯二接受 2027/28 学年入学（4 岁）的学校：</p>
+  <p style="margin:0 0 8px 0;">孩子出生日期已确认：<b>2023 年 9 月中</b>。她是"九月生"，正好处于多数学校的年龄截止线临界点。<b>含义：之前提到的 CDNIS 2026 年 10 月 / SIS 2026 年 9 月截止日（针对 2027/28 学年入学）<u>不适用</u>于她的年龄层</b> — 那是给 2022 年 9 月之前出生的孩子的。</p>
   <table style="{TBL}">
     <tr>
-      <th style="{TH};width:30%;">学校</th>
-      <th style="{TH};width:30%;">入学级别</th>
-      <th style="{TH}">申请截止日</th>
+      <th style="{TH};width:14%;">截止日</th>
+      <th style="{TH};width:36%;">学校</th>
+      <th style="{TH};width:24%;">她的年龄层</th>
+      <th style="{TH}">行动窗口</th>
     </tr>
-    <tr><td style="{TD}"><b>CDNIS</b></td><td style="{TD}">EY1（K2 等同，4 岁入学）</td><td style="{TD}"><b style="color:{C_DANGER};">2026-10-02</b></td></tr>
-    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>SIS HK</b></td><td style="{TD}">Prep Years（K2 等同）</td><td style="{TD}"><b style="color:{C_DANGER};">2026-09-30</b></td></tr>
+    <tr><td style="{TD}"><b>8 月 31 日</b></td><td style="{TD}">大多数国际学校（CDNIS、SIS、ISF、VSA、CIS、HKIS、HKA、Stamford、Carmel、Malvern、NAIS）</td><td style="{TD}">AY2028/29 K2/Reception/FY/EY1 入学（2028 年 8 月 31 日时 4 岁 11 个月）</td><td style="{TD}"><b>2027 年 9–10 月申请</b>（约 16 个月后）</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>12 月 31 日</b></td><td style="{TD}">ESF 幼稚园</td><td style="{TD}"><b>ESF K2 AY2027/28 入学</b>（2027 年 12 月 31 日时 4 岁 3 个月）</td><td style="{TD}"><b style="color:{C_DANGER};">2026 年 9 月申请</b>（约 4 个月后）</td></tr>
+    <tr><td style="{TD}"><b>12 月 31 日</b>（香港本地）</td><td style="{TD}">DSS（SPCC、GTC、DGS）</td><td style="{TD}">AY2029/30 P1 入学</td><td style="{TD}">2028 年 9 月申请（约 28 个月后）</td></tr>
   </table>
-  <p style="margin:8px 0;{MUTED}">其他第一梯队学校（ISF、SPCC、VSA、GTC、ESF Y1）在孩子目前的年龄层只接受 P1/Y1 入学 — 申请窗口为 2028 年 9 月，对应 2029/30 学年入学。</p>
-  <p style="margin:8px 0 0 0;"><b style="color:{C_DANGER};">需要确认：</b>孩子确切出生日期。各校年龄截止日（9 月 1 日 / 12 月 1 日 / 自然年）不同，决定她适用哪一年级。</p>
+  <p style="margin:8px 0 0 0;"><b style="color:{C_DANGER};">唯一现实紧急的日期：</b><b>2026 年 9 月 — ESF K2 申请开放，对应 AY2027/28 入学。</b>若名单中有 ESF 学校（RCHK、Discovery College、Hillside International Kindergarten 等），<b>申请前必须购买 ESF 个人提名权港币 50 万</b>（申请时需已在手；港币 50 万是香港最便宜的优先入学杠杆）。</p>
 </div>
 
 <h2 style="{H2}">家庭概况</h2>
@@ -791,7 +827,7 @@ def build_zh_html():
   <tr>
     <td style="{TD};font-weight:700;color:{C_PRIMARY};">2026（现在）</td>
     <td style="{TD}">2.5–3 岁</td>
-    <td style="{TD}"><b style="color:{C_DANGER};">紧急：</b>申请 CDNIS EY1（截止 2026-10-02）和 SIS HK Prep Years（截止 2026-09-30）— 唯二在今秋接受 K2 等同入学的学校。继续就读 Tutor Time。<b>参访 4–6 所目标学校</b>。若名单中有 ESF 学校，<b>购买 ESF 个人提名权港币 50 万</b>（在上限内；香港最便宜的优先入学杠杆）。</td>
+    <td style="{TD}"><b style="color:{C_DANGER};">紧急：</b>ESF K2 申请 2026 年 9 月开放，对应 AY2027/28 入学（按 ESF 12 月 31 日截止，她确实符合资格）。若名单中有 ESF 学校，<b>申请前购买 ESF 个人提名权港币 50 万</b>。继续就读 Tutor Time。<b>参访 4–6 所目标学校</b>。（注：CDNIS 2026 年 10 月 / SIS 2026 年 9 月截止日针对 AY2027/28 入学 = 2022 年 9 月之前出生的孩子 — <u>不是</u>她的年龄层。）</td>
   </tr>
   <tr style="background:{C_TBL_ALT};">
     <td style="{TD};font-weight:700;color:{C_PRIMARY};">2027</td>
@@ -815,10 +851,10 @@ def build_zh_html():
   </tr>
 </table>
 <p style="{MUTED};margin-top:6px;">
-未来 5 个月的战略决策：<b>K2 阶段直通车国际学校</b>（现在申请 CDNIS / SIS）+
-<b>P1 阶段集中申请</b>（2028 年申请 SPCC、GTC、DGS）。
-考虑到普通话主导的语言基础，若 K2 阶段未能进入，
-<b>ISF Foundation Year（2028 年申请 G1）或 VSA Y1（2027 年 2 月申请）是唯一最具优势的定位</b>。
+按出生日期（2023 年 9 月中）的战略定位：未来 4 个月内<b>唯一</b>需采取的行动是 <b>ESF K2 申请（2026 年 9 月）</b>对应 AY2027/28 入学 — 之前需先购买个人提名权港币 50 万。
+随后是 <b>2027 年 9–10 月主要 K2/Reception 申请潮</b>，针对直通车国际学校（ISF FY、VSA Y1、CDNIS EY1、SIS Prep、RCHK、HKA、Stamford、Carmel、Malvern）的 AY2028/29 入学。
+<b>然后是 2028 年 9 月 P1 申请潮</b>，针对顶尖 DSS（SPCC、GTC、DGS）的 AY2029/30 入学。
+考虑到普通话主导，<b>ISF FY 在 AY2028/29 是唯一最具优势的定位</b>。
 </p>
 
 <h2 style="{H2}">12 年总成本估算（数量级）</h2>
@@ -906,11 +942,16 @@ def main():
         print("Open in a browser to preview.")
         return
 
-    password = os.environ.get("GMAIL_APP_PASSWORD")
+    password = os.environ.get("GMAIL_APP_PASSWORD") or CFG.get("GMAIL_APP_PASSWORD")
     if not password:
         sys.exit(
-            "Set GMAIL_APP_PASSWORD env var.\n"
-            "Get one at https://myaccount.google.com/apppasswords\n"
+            "No GMAIL_APP_PASSWORD found.\n"
+            "Set it in ~/.config/send_email.yml as:\n"
+            "    GMAIL_APP_PASSWORD=xxxx xxxx xxxx xxxx\n"
+            "    GMAIL_SENDER=your.address@gmail.com\n"
+            "    GMAIL_TO=recipient@gmail.com\n"
+            "Or pass via env: GMAIL_APP_PASSWORD='xxxx xxxx xxxx xxxx' python3 tools/send_summary_email.py\n"
+            "Get an app password at https://myaccount.google.com/apppasswords\n"
             "(2-Step Verification must be enabled on the Google account)."
         )
     password = password.replace(" ", "")
