@@ -379,6 +379,61 @@ def build_en_html():
   </table>
 </div>
 
+<h2 style="{H2}">SPCC Kindergarten Nomination Scheme (FD Scheme) — detailed</h2>
+<div style="{CARD};border-left:4px solid {C_BEST};">
+  <p style="margin:0 0 10px 0;"><b>What it is:</b> SPCC Primary's Kindergarten Nomination Scheme reserves up to 5% of P1 places for "students with exceptional promise regardless of financial need." <b>Open to any kindergarten Head — Tutor Time Dorset Head can nominate.</b></p>
+
+  <h3 style="{H3};margin-top:14px;">Why this matters for our family</h3>
+  <ul style="margin:6px 0 6px 18px;padding:0;">
+    <li><b>Lowest-cost lever in HK</b>: vs ESF INR HK$500K, Harrow Capital Cert HK$3.3M — this is FREE.</li>
+    <li><b>Doesn't conflict with main application</b> — runs in parallel with standard SPCC P1 application.</li>
+    <li><b>Successful candidates also get full fee remission</b> (double benefit).</li>
+    <li><b>Aligned with our philosophy</b>: targets "exceptional promise" — independent thinking, academic depth.</li>
+    <li><b>SPCC is the #1 IB school in HK in 2025</b> (avg 42.1) — getting in is high-leverage outcome.</li>
+  </ul>
+
+  <h3 style="{H3};margin-top:14px;">Mechanism</h3>
+  <ol style="margin:6px 0 6px 18px;padding:0;">
+    <li><b>Timing</b>: Nomination Form submitted as attachment to standard P1 online application during the 4-day window (~2028-09-01 to 2028-09-05 for daughter's AY2029/30 entry).</li>
+    <li><b>Nominator</b>: Tutor Time Dorset Head fills out the Nomination Form.</li>
+    <li><b>Additional interview</b>: Possible — verify with admissions@spcc.edu.hk.</li>
+    <li><b>Notification</b>: Results announced with standard P1 (~Dec 2028 – Jan 2029).</li>
+  </ol>
+
+  <h3 style="{H3};margin-top:14px;">Action steps for daughter (timeline)</h3>
+  <table style="{TBL}">
+    <tr>
+      <th style="{TH};width:14%;">When</th>
+      <th style="{TH}">Action</th>
+    </tr>
+    <tr><td style="{TD}"><b>2026 (now)</b></td><td style="{TD}">Ask Tutor Time Dorset Head about their SPCC nomination history & policy. Begin building long-term relationship — let the school observe daughter's academic and social development. Email admissions@spcc.edu.hk to confirm 2028 cycle nomination details and selection criteria.</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>2027–2028</b></td><td style="{TD}">Continue demonstrating "exceptional promise" — academic precocity (reading, math), social maturity, creative/athletic strengths. Regular check-ins with Tutor Time Head about daughter's progress. Formally express nomination intent by daughter's K3 year (~May 2028).</td></tr>
+    <tr><td style="{TD}"><b>Sep 2028</b></td><td style="{TD}">Confirm Tutor Time has agreed to nominate. Help Head prepare nomination materials (recent reports, recommendation). Submit standard SPCC P1 application during 4-day window (Sep 1–5). Attach nomination form.</td></tr>
+  </table>
+
+  <h3 style="{H3};margin-top:14px;">Conversation script for Tutor Time Dorset Head</h3>
+  <div style="background:{C_TBL_HDR};padding:14px;border-radius:6px;border-left:3px solid {C_PRIMARY};margin:8px 0;font-style:italic;">
+    "We're planning primary school applications for our daughter (DOB September 2023) and SPCC is one of our top choices. We learned that SPCC has a Kindergarten Nomination Scheme where kindergarten Heads can nominate up to 5% of exceptional-promise children directly to P1. May I ask:
+    <br><br>
+    1. <b>Has Tutor Time Dorset previously nominated students to SPCC?</b> If yes, what was the success rate?<br>
+    2. <b>What are your nomination criteria?</b> What can we do to improve our daughter's chances?<br>
+    3. <b>When should we formally express our interest</b> in being nominated for the 2028 P1 cycle?<br>
+    4. <b>Does the school have an internal review or recommendation process</b> that we should engage with?"
+  </div>
+
+  <h3 style="{H3};margin-top:14px;">Caveats</h3>
+  <ul style="margin:6px 0 6px 18px;padding:0;">
+    <li><b>Nomination ≠ admission</b>: nominated students still go through standard interview/assessment.</li>
+    <li><b>Heavy competition</b>: 5% of P1 ≈ 7–9 nominated places (SPCC P1 cohort ~150–180 students).</li>
+    <li><b>"Exceptional promise" criteria are not publicly defined</b> — direct contact with admissions office is the only way to learn specifics.</li>
+    <li><b>Tutor Time is not a formal SPCC feeder</b>: nomination success rate may be lower than schools with established relationships — but still worth pursuing as a free, parallel option.</li>
+  </ul>
+
+  <p style="{MUTED};margin-top:10px;">SPCC P1 admissions: <a style="{LINK}" href="https://www.spcc.edu.hk/admissions/local-admissions/primary/p1">spcc.edu.hk/admissions/local-admissions/primary/p1</a><br>
+  Fee remission: <a style="{LINK}" href="https://www.spcc.edu.hk/admissions/fee-remission-and-financial-aid">spcc.edu.hk/admissions/fee-remission-and-financial-aid</a><br>
+  Contact: admissions@spcc.edu.hk</p>
+</div>
+
 <h2 style="{H2}">Family snapshot</h2>
 <table style="{TBL}">
   <tr><td style="{TH}">Child</td><td style="{TD}">Girl, <b>DOB mid-Sep 2023</b>, currently at Tutor Time Dorset (Quarry Bay area, ~50/50 EN/CN at school)</td></tr>
@@ -855,6 +910,71 @@ def build_zh_html():
     <tr><td style="{TD}"><b>ISF Pre-School → ISF Academy</b></td><td style="{TD}"><span style="{PILL_CAVEAT}">弱</span></td><td style="{TD}">ACL 港币 15K/年 ✓（学费港币 152K）</td><td style="{TD}">无正式优先权除非持有 Capital Note。Pre-School 在 <b>坚尼地城</b>（卑路乍街 97 号 — 之前说"薄扶林"是错的）。</td></tr>
     <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>DPS → DBS</b></td><td style="{TD}"><span style="{PILL_OUT}">2010 已结束</span></td><td style="{TD}">不适用</td><td style="{TD}">对女儿不适用（DBS 仅招男生）。正式 feeder 关系于 2010 年结束。</td></tr>
   </table>
+</div>
+
+<h2 style="{H2}">SPCC 幼稚园提名计划（FD Scheme）— 详解</h2>
+<div style="{CARD};border-left:4px solid {C_BEST};">
+  <p style="margin:0 0 10px 0;"><b>什么是 SPCC 幼稚园提名计划：</b>SPCC（圣保罗男女中学）小学的「幼稚园提名计划」（Kindergarten Nomination Scheme，简称 FD Scheme）为「具特殊潜质的孩子」预留约 <b>5% 以下</b>的 P1 入学名额。<b>开放给任何幼稚园校长 — Tutor Time Dorset 校长可以提名</b>。</p>
+
+  <h3 style="{H3};margin-top:14px;">为何对本家庭至关重要</h3>
+  <ul style="margin:6px 0 6px 18px;padding:0;">
+    <li><b>香港最低成本的入学杠杆</b>：相比 ESF INR 港币 50 万、Harrow Capital Cert 港币 330 万、CIS CNR 港币 1500 万，提名计划<b>完全免费</b>。</li>
+    <li><b>不与主流申请冲突</b>：可与 SPCC P1 标准申请并行进行 — 提名只是附加优势。</li>
+    <li><b>获录取者还自动获全额学费减免</b>（Fee Remission）— 双重利益。</li>
+    <li><b>契合家庭的教育理念</b>：针对「特殊潜质」（exceptional promise）— 独立思考、学术深度、求知欲。</li>
+    <li><b>SPCC 是 2025 年香港 IB 第一名</b>（平均 42.1）— 入读结果是高杠杆回报。</li>
+  </ul>
+
+  <h3 style="{H3};margin-top:14px;">机制详解</h3>
+  <ol style="margin:6px 0 6px 18px;padding:0;">
+    <li><b>提名时机</b>：在 SPCC P1 标准申请的 4 天窗口期内（女儿对应 <b>2028-09-01 至 2028-09-05</b>）作为附件提交「Nomination Form 提名表」。</li>
+    <li><b>提名人</b>：由 <b>Tutor Time Dorset 校长</b>填写并签署提名表 — 不是家长申请。</li>
+    <li><b>附加面试</b>：被提名学生可能进入额外的面试环节（具体流程需向 admissions@spcc.edu.hk 核实）。</li>
+    <li><b>结果通知</b>：与标准 P1 申请结果一起公布（约 2028 年 12 月 – 2029 年 1 月）。</li>
+    <li><b>录取后</b>：自动获全额学费减免（涵盖每年港币 ~80K 的小学学费 × 6 年 = 节省约港币 50 万）。</li>
+  </ol>
+
+  <h3 style="{H3};margin-top:14px;">女儿当前情况下的具体行动步骤</h3>
+  <table style="{TBL}">
+    <tr>
+      <th style="{TH};width:14%;">何时</th>
+      <th style="{TH}">行动</th>
+    </tr>
+    <tr><td style="{TD}"><b>2026（现在）</b></td><td style="{TD}"><b>第一步</b>：直接询问 Tutor Time Dorset 校长，确认：(1) 学校是否曾有学生通过此计划进入 SPCC？(2) 学校的提名标准是什么？(3) 如何为女儿做准备？<br><b>第二步</b>：开始建立长期关系 — 让 Tutor Time 校长有充分机会观察女儿的学术和社交发展。<br><b>第三步</b>：致电或电邮 admissions@spcc.edu.hk 确认 2028 年 P1 提名计划的细节和选拔标准。</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>2027–2028</b></td><td style="{TD}"><b>持续展现「特殊潜质」</b>：(1) 学术 — 阅读、数学超前；(2) 社交 — 与同伴和老师互动成熟；(3) 创意/艺术 — 音乐、绘画、表演等；(4) 性格 — 独立思考、求知欲、专注力。<br><b>定期与 Tutor Time 校长沟通</b>女儿进步。<br><b>明确表达提名意向</b>：在女儿 K3 年（约 2028 年 5 月前）正式向 Tutor Time 校长提出希望被提名到 SPCC。</td></tr>
+    <tr><td style="{TD}"><b>2028 年 9 月</b></td><td style="{TD}"><b>申请窗口期</b>：(1) 确认 Tutor Time 已同意提名；(2) 协助校长准备提名材料（最近报告、推荐信）；(3) 在 4 天窗口（9 月 1-5 日）提交 SPCC 标准 P1 在线申请；(4) 附上提名表作为申请的附件。</td></tr>
+  </table>
+
+  <h3 style="{H3};margin-top:14px;">与 Tutor Time Dorset 校长的对话要点</h3>
+  <div style="background:{C_TBL_HDR};padding:14px;border-radius:6px;border-left:3px solid {C_PRIMARY};margin:8px 0;font-style:italic;">
+    「我们正在为女儿（生于 2023 年 9 月）规划小学申请，SPCC 是我们的首选之一。了解到 SPCC 有「Kindergarten Nomination Scheme」（幼稚园提名计划），由幼稚园校长直接提名约 5% 的特殊潜质学生进入 P1。请问校长：
+    <br><br>
+    1. <b>Tutor Time Dorset 是否曾有学生通过此计划成功进入 SPCC？</b>如果有，成功率如何？<br>
+    2. <b>学校的提名标准是什么？</b>我们能为女儿做哪些准备来增加被提名的机会？<br>
+    3. <b>如果未来希望被提名 2028 年 P1 入学</b>，我们应该何时正式提出？<br>
+    4. <b>学校有内部评估或推荐流程吗</b>？我们应如何参与？<br>
+    5. <b>提名表需要什么具体材料？</b>我们能提前准备吗？」
+  </div>
+
+  <h3 style="{H3};margin-top:14px;">注意事项</h3>
+  <ul style="margin:6px 0 6px 18px;padding:0;">
+    <li><b>提名 ≠ 录取</b>：被提名学生仍需通过 SPCC 的面试和评估，并非保证入学。</li>
+    <li><b>名额竞争激烈</b>：5% 的 P1 名额（按 SPCC P1 约 150-180 学生计算 ≈ <b>每年 7-9 个提名名额</b>）— 全港顶尖幼稚园都在争取。</li>
+    <li><b>「特殊潜质」标准未公开</b>：建议直接向 SPCC 招生办询问具体偏好（学术？非学术？综合素质？）。</li>
+    <li><b>Tutor Time 不是 SPCC 直属 feeder</b>：与某些有正式 feeder 关系的幼稚园相比，提名成功率<b>或较低</b> — 但仍是值得尝试的<b>免费</b>且<b>不影响主流申请</b>的选项。</li>
+    <li><b>需 Tutor Time 校长同意</b>：校长的提名是关键 — 需展现女儿确实属于「exceptional promise」，校长才会正式提名。</li>
+  </ul>
+
+  <h3 style="{H3};margin-top:14px;">备选方案（如未获提名）</h3>
+  <ul style="margin:6px 0 6px 18px;padding:0;">
+    <li><b>SPCC 标准 P1 申请</b>：仍可直接申请（无提名也可申请）— 提名只是加分项</li>
+    <li><b>其他 DSS 学校</b>：DGJS（女生独家 feeder 关系到 DGS）、GTC、PLKCKY 都有强 P1 入学口</li>
+    <li><b>国际学校 P1</b>：CIS、HKIS、ISF 等也接受 P1 入学</li>
+  </ul>
+
+  <p style="{MUTED};margin-top:10px;">SPCC P1 招生页面：<a style="{LINK}" href="https://www.spcc.edu.hk/admissions/local-admissions/primary/p1">spcc.edu.hk/admissions/local-admissions/primary/p1</a><br>
+  学费减免详情：<a style="{LINK}" href="https://www.spcc.edu.hk/admissions/fee-remission-and-financial-aid">spcc.edu.hk/admissions/fee-remission-and-financial-aid</a><br>
+  联系：admissions@spcc.edu.hk</p>
 </div>
 
 <h2 style="{H2}">家庭概况</h2>
