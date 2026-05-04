@@ -322,7 +322,7 @@ def build_en_html():
     </tr>
     <tr><td style="{TD}"><b>AIS HK</b></td><td style="{TD}">EC1 (age 3 HD) · AY2027/28</td><td style="{TD}"><b>NO debenture</b> · ACL HK$12K/yr (cheapest int'l) ✓ · Reservation HK$25K · First-come-first-served</td></tr>
     <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>HKA</b></td><td style="{TD}">Pre-K1 (age 3) · AY2026/27</td><td style="{TD}">Family Debenture HK$630K ✓ OR ACL HK$32K/yr ✓ — but <b>HKA stops issuing new debentures Jan 1, 2026</b>; secondary market only after</td></tr>
-    <tr><td style="{TD}"><b>Carmel</b></td><td style="{TD}">Nursery · AY2026/27 (Oct 31 cutoff — daughter eligible)</td><td style="{TD}"><b>NO debenture, NO ACL</b> at Elementary ✓ · Open to non-Jewish (Elsa High explicit)</td></tr>
+    <tr><td style="{TD}"><b style="color:{C_DANGER};">⊗ Carmel</b> <b>REMOVED</b></td><td style="{TD}">ELC + Elementary CLOSED to non-Jewish (bands 1–5 Jewish-affiliated only). Only Elsa High G6+ open via Band 6 / International Stream — daughter's earliest entry = 2032/33.</td><td style="{TD}">See dedicated Carmel correction section below.</td></tr>
     <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>NAIS HK</b></td><td style="{TD}">Nursery · AY2027/28 (apply by Dec 2026 recommended)</td><td style="{TD}">CEF HK$100K + ACL HK$35K/yr ✓ within cap</td></tr>
     <tr><td style="{TD}"><b>Malvern Pre-School</b></td><td style="{TD}">Pre-Nursery (age 2–3) · AY2026/27</td><td style="{TD}">Within cap. Implied (not published) priority into Malvern College Prep 1.</td></tr>
   </table>
@@ -371,7 +371,7 @@ def build_en_html():
     <tr><td style="{TD}"><b>ESF Class A Debenture (K1) → INR (Y1)</b></td><td style="{TD}"><span style="{PILL_INFO}">STRONG</span></td><td style="{TD}">HK$500K ✓</td><td style="{TD}"><b>K1 AY2026/27 closed Sep 2025</b>; late waitlist only — daughter's K1 window is closed. <b>Skip to INR HK$500K for Y1 AY2028/29</b> — apply Sep 2027.</td></tr>
     <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>DGJS → DGS</b> (girls only)</td><td style="{TD}"><span style="{PILL_BEST}">EXCLUSIVE</span></td><td style="{TD}">DGJS HK$79K/yr ✓ · No debenture</td><td style="{TD}">DGJS is DGS Secondary's exclusive feeder. Apply DGJS P1 mid-Aug 2028 for AY2029/30.</td></tr>
     <tr><td style="{TD}"><b>CDNIS Nursery → EY1</b></td><td style="{TD}"><span style="{PILL_INFO}">INTERNAL</span></td><td style="{TD}">Nursery: no capital req ✓ · EY1+: ACL HK$43K/yr ✓</td><td style="{TD}">Apply Nursery AY2027/28 by 2026-11-30 for internal continuity priority into EY1.</td></tr>
-    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>Carmel ELC → Carmel Elementary → Elsa High</b></td><td style="{TD}"><span style="{PILL_INFO}">INTERNAL</span></td><td style="{TD}">No debenture, no ACL at Elementary ✓</td><td style="{TD}">Direct progression. Apply Nursery AY2026/27 (rolling, Oct 31 cutoff). Open to non-Jewish.</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b style="color:{C_DANGER};">⊗ Carmel ELC → Elementary → Elsa High</b></td><td style="{TD}"><span style="{PILL_OUT}">JEWISH ONLY at ELC/Elementary</span></td><td style="{TD}">n/a for non-Jewish</td><td style="{TD}">Bands 1–5 = Jewish-affiliated only. Non-Jewish entry restricted to Elsa High G6+ via Band 6. Daughter's earliest entry = 2032/33.</td></tr>
     <tr><td style="{TD}"><b>HKA Pre-K → through-train</b></td><td style="{TD}"><span style="{PILL_INFO}">INTERNAL</span></td><td style="{TD}">Family Debenture HK$630K ✓ OR ACL HK$32K/yr ✓</td><td style="{TD}">Apply Pre-K1 AY2026/27 (rolling). Buy debenture before Jan 1, 2026 (deadline already missed — secondary only).</td></tr>
     <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>Malvern Pre-School → Malvern College</b></td><td style="{TD}"><span style="{PILL_CAVEAT}">IMPLIED</span></td><td style="{TD}">Within cap (verify exact)</td><td style="{TD}">Apply Pre-Nursery AY2026/27 (rolling). Implied priority but not formally published.</td></tr>
     <tr><td style="{TD}"><b>ISF Pre-School → ISF Academy</b></td><td style="{TD}"><span style="{PILL_CAVEAT}">WEAK</span></td><td style="{TD}">HK$15K/yr ACL ✓ (HK$152K tuition)</td><td style="{TD}">No formal priority unless Capital Note holder. Pre-School is in <b>Kennedy Town</b> (97 Belcher's St — earlier "Pokfulam" was wrong).</td></tr>
@@ -475,7 +475,7 @@ def build_en_html():
     <li><b>Bilingual environment</b>: 50/50 EN/CN at school</li>
     <li><b>Diverse placement</b>: graduates go to ESF, CIS, ISF, CDNIS, SPCC, HKA, etc. — all via standard application, no priority</li>
     <li><b>Tutor Time Head can nominate for SPCC</b>: via SPCC's Kindergarten Nomination Scheme (open to ANY KG Head; not Tutor Time-specific)</li>
-    <li><b>Convenient location</b>: Dorset = Quarry Bay/Tai Koo MTR-served</li>
+    <li><b>Convenient location</b>: Dorset Crescent, <b>Kowloon Tong</b> (Kowloon Tong MTR) — directly next to AIS HK + AISHK; close to Stamford American (Ho Man Tin), Kellett Kowloon Bay, NAIS Lam Tin, ESF Beacon Hill / KJS / KGV</li>
   </ol>
 
   <h3 style="{H3};margin-top:14px;">Strategic decision matrix — target school × feeder move</h3>
@@ -492,7 +492,7 @@ def build_en_html():
     <tr><td style="{TD}"><b>DGS</b> (girls)</td><td style="{TD}"><b>MUST attend DGJS</b> (DGS's exclusive feeder); apply DGJS P1 mid-Aug 2028</td><td style="{TD}">Aug 2028 (DGJS P1 window)</td></tr>
     <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>GTC / SPCC (no nomination)</b></td><td style="{TD}">Stay at Tutor Time + apply P1 directly (May–Sep 2028)</td><td style="{TD}">2028</td></tr>
     <tr><td style="{TD}"><b>HKA</b></td><td style="{TD}">Switch to HKA Pre-K AY2026/27 for through-train internal continuity</td><td style="{TD}">Now (rolling admissions)</td></tr>
-    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>Carmel</b></td><td style="{TD}">Switch to Carmel Nursery AY2026/27 (Oct 31 cutoff = daughter eligible)</td><td style="{TD}">Now (rolling)</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b style="color:{C_DANGER};">⊗ Carmel</b></td><td style="{TD}">NOT applicable for ELC/Elementary — only Elsa High G6+ open to non-Jewish via Band 6. Revisit 2031–2032 if interested in G6 entry.</td><td style="{TD}">2031–2032 only (G6 revisit)</td></tr>
   </table>
 
   <h3 style="{H3};margin-top:14px;">Open question — placement statistics</h3>
@@ -501,6 +501,52 @@ def build_en_html():
     "Could you share Tutor Time Dorset's recent primary school placement statistics? Specifically, how many graduates per year go to SPCC, ESF (which schools), ISF, VSA, CDNIS, HKA, or others? Are there any schools where Tutor Time has historically had higher acceptance rates?"
   </div>
   <p style="{MUTED};margin-top:8px;">Contact: admissions@tutortime.com.hk · Dorset campus phone (verify): +852 2870 1232</p>
+</div>
+
+<h2 style="{H2}">Geography / commute (Tutor Time Dorset = Kowloon Tong, location correction)</h2>
+<div style="{CARD};border-left:4px solid {C_PRIMARY};">
+  <p style="margin:0 0 10px 0;">Earlier emails mistakenly placed Tutor Time Dorset in Quarry Bay area. <b>It's actually in Kowloon Tong</b> (Dorset Crescent). This materially favors certain shortlisted schools and disadvantages others.</p>
+
+  <h3 style="{H3};margin-top:14px;">Commute matrix from Kowloon Tong</h3>
+  <table style="{TBL}">
+    <tr>
+      <th style="{TH};width:24%;">School</th>
+      <th style="{TH};width:18%;">Location</th>
+      <th style="{TH};width:18%;">Time est</th>
+      <th style="{TH}">Notes</th>
+    </tr>
+    <tr><td style="{TD}"><b>AIS HK</b></td><td style="{TD}">Waterloo Rd, Kowloon Tong</td><td style="{TD}"><b style="color:{C_BEST};">Walking / 5 min MTR</b></td><td style="{TD}">Same neighborhood — biggest convenience win</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>AISHK (Australian)</b></td><td style="{TD}">Norfolk Rd, Kowloon Tong</td><td style="{TD}"><b style="color:{C_BEST};">Walking / 5 min</b></td><td style="{TD}">Same neighborhood</td></tr>
+    <tr><td style="{TD}"><b>Stamford American</b></td><td style="{TD}">Ho Man Tin</td><td style="{TD}"><b style="color:{C_BEST};">~10 min MTR</b></td><td style="{TD}">1 stop on Kwun Tong Line</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>DGJS / DGS</b> (girls)</td><td style="{TD}">Jordan</td><td style="{TD}"><b style="color:{C_BEST};">~15 min MTR</b></td><td style="{TD}">Direct Kwun Tong/Tsuen Wan Line — HUGELY convenient</td></tr>
+    <tr><td style="{TD}"><b>Kellett</b></td><td style="{TD}">Kowloon Bay (primary)</td><td style="{TD}"><b style="color:{C_BEST};">~10 min MTR</b></td><td style="{TD}">Currently waitlist-full but worth registering</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>NAIS HK</b></td><td style="{TD}">Lam Tin / Kwun Tong</td><td style="{TD}"><b style="color:{C_BEST};">~15-20 min MTR</b></td><td style="{TD}">Convenient</td></tr>
+    <tr><td style="{TD}"><b>ESF Beacon Hill / KJS / KGV</b></td><td style="{TD}">Kowloon Tong / Ho Man Tin</td><td style="{TD}"><b style="color:{C_BEST};">~5-15 min</b></td><td style="{TD}">Standard ESF Kowloon-side options — newly worth considering</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>Malvern College</b></td><td style="{TD}">Tai Po</td><td style="{TD}">~25-30 min East Rail</td><td style="{TD}">Direct East Rail Line from Kowloon Tong</td></tr>
+    <tr><td style="{TD}"><b>HKA (Hong Kong Academy)</b></td><td style="{TD}">Sai Kung</td><td style="{TD}">~35-40 min MTR + bus</td><td style="{TD}">Manageable</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>GTC</b></td><td style="{TD}">TKO</td><td style="{TD}">~35-40 min MTR</td><td style="{TD}">Kwun Tong Line + TKO Line transfer</td></tr>
+    <tr><td style="{TD}"><b>Carmel ELC / Elementary</b></td><td style="{TD}">Mid-Levels (Macdonnell + Borrett)</td><td style="{TD}"><b style="color:{C_CAVEAT};">~40-50 min</b></td><td style="{TD}">Cross-harbour + uphill. ALL Carmel campuses on HK Island</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>Carmel Elsa High</b></td><td style="{TD}">Shau Kei Wan (Eastern District)</td><td style="{TD}"><b style="color:{C_CAVEAT};">~40-50 min</b></td><td style="{TD}">Cross-harbour + Eastern Corridor</td></tr>
+    <tr><td style="{TD}"><b>SPCC Primary</b></td><td style="{TD}">Wong Chuk Hang</td><td style="{TD}"><b style="color:{C_CAVEAT};">~45 min</b></td><td style="{TD}">Cross-harbour + South Island Line</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>VSA / CDNIS / SIS HK</b></td><td style="{TD}">Aberdeen</td><td style="{TD}"><b style="color:{C_CAVEAT};">~50 min</b></td><td style="{TD}">Cross-harbour + South Island Line</td></tr>
+    <tr><td style="{TD}"><b>ISF Academy</b></td><td style="{TD}">Cyberport, Pokfulam</td><td style="{TD}"><b style="color:{C_CAVEAT};">~50-60 min</b></td><td style="{TD}">Cross-harbour + bus/MTR</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>CIS</b></td><td style="{TD}">Braemar Hill</td><td style="{TD}"><b style="color:{C_CAVEAT};">~40-50 min</b></td><td style="{TD}">Cross-harbour</td></tr>
+    <tr><td style="{TD}"><b>HKIS</b></td><td style="{TD}">Tai Tam (Repulse Bay)</td><td style="{TD}"><b style="color:{C_CAVEAT};">~50+ min</b></td><td style="{TD}">Cross-harbour + south side</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>Harrow HK</b></td><td style="{TD}">Tuen Mun</td><td style="{TD}"><b style="color:{C_CAVEAT};">~50-60 min</b></td><td style="{TD}">West Rail Line</td></tr>
+    <tr><td style="{TD}"><b>Discovery College</b></td><td style="{TD}">Discovery Bay</td><td style="{TD}"><b style="color:{C_DANGER};">~60+ min</b></td><td style="{TD}">Cross-harbour + ferry — daily commute is heavy</td></tr>
+  </table>
+
+  <h3 style="{H3};margin-top:14px;">Implications for shortlist tiering</h3>
+  <ul style="margin:6px 0 6px 18px;padding:0;">
+    <li><b>AIS HK becomes the easiest backup</b> — same neighborhood + no debenture + rolling admissions = lowest-friction option</li>
+    <li><b>DGJS / DGS path is more attractive</b> than I credited earlier — Jordan is one MTR ride. If open to all-girls + DSE/A-Level, consider seriously</li>
+    <li><b>Stamford American + AISHK + NAIS</b> become viable Tier C options on commute alone</li>
+    <li><b>VSA + Victoria Kindergarten feeder strategy</b>: VK has multiple campuses — verify if VK Kowloon Tong campus exists. If yes, switch to VK Kowloon Tong K1 is convenient and unlocks the strongest feeder. If only HK Island VK campuses available, the feeder strategy requires daily cross-harbour at age 3</li>
+    <li><b>HK Island schools (SPCC, ISF, CIS, Carmel, HKIS)</b> = real cross-harbour commitment (~40-60 min each way daily). Still doable but factor it in</li>
+    <li><b>Consider ESF Beacon Hill (primary) / KJS / KGV (secondary)</b>: standard ESF Kowloon-side options previously not emphasized. Apply via ESF Y1 central window with INR HK$500K for priority</li>
+  </ul>
+
+  <p style="margin:14px 0 0 0;{MUTED}"><b>Family decision:</b> earlier user said geography wasn't a primary factor — but with a 12-year commitment, daily 1.5–2hr cross-harbour round-trip is a real burden on the child. Worth re-weighing convenient Kowloon-side options (AIS HK, AISHK, DGJS, Stamford, ESF Kowloon schools) vs HK Island top-fits (SPCC, ISF, VSA).</p>
 </div>
 
 <h2 style="{H2}">School visits (Open Days) — do they help admissions?</h2>
@@ -539,7 +585,7 @@ def build_en_html():
       <th style="{TH};width:36%;">Action</th>
       <th style="{TH}">Why</th>
     </tr>
-    <tr><td style="{TD}">Visit <b>ISF + SPCC + VSA + GTC + AIS HK + Carmel</b> in next 3 months</td><td style="{TD}">For <b>your</b> fit evaluation; build soft impression at rolling-admission ones (AIS HK, Carmel)</td></tr>
+    <tr><td style="{TD}">Visit <b>ISF + SPCC + VSA + GTC + AIS HK</b> in next 3 months (Carmel removed — not applicable for ELC/Elementary)</td><td style="{TD}">For <b>your</b> fit evaluation; build soft impression at rolling-admission ones (AIS HK + visit similar small schools like HKA / NAIS / Stamford for community feel)</td></tr>
     <tr style="background:{C_TBL_ALT};"><td style="{TD}">Send brief follow-up email within 48hrs after each visit</td><td style="{TD}">Confirms interest; gets you remembered without being pushy</td></tr>
     <tr><td style="{TD}"><b>MUST attend SPCC briefing</b> (early Sep before P1 window — verify current cycle date)</td><td style="{TD}">Skipping = negative signal</td></tr>
     <tr style="background:{C_TBL_ALT};"><td style="{TD}">Focus most prep effort on <b>actual interviews / assessments</b></td><td style="{TD}">These are the real evaluation gates — Open Day attendance is noise compared to FY/EY1/Play Visit performance</td></tr>
@@ -548,53 +594,66 @@ def build_en_html():
   <p style="margin:14px 0 0 0;"><b>One-liner:</b> Visits ≠ admission boost. Skipping required briefings = admission risk. Use visits primarily to evaluate fit yourself.</p>
 </div>
 
-<h2 style="{H2}">Carmel School — brief profile</h2>
-<div style="{CARD};border-left:4px solid {C_BEST};">
-  <table style="{TBL}">
-    <tr><td style="{TH};width:24%;">Curriculum</td><td style="{TD}">IB Continuum (PYP, MYP, DP)</td></tr>
-    <tr><td style="{TH}">Locations</td><td style="{TD}">Mid-Levels (ELC, Macdonnell Rd) + Borrett Road (Elementary) + Shau Kei Wan (Elsa High) — all close to Quarry Bay/Tutor Time area</td></tr>
-    <tr><td style="{TH}">Daughter's cohort</td><td style="{TD}"><b>Nursery AY2026/27</b> (Oct 31 cutoff = daughter eligible NOW; rolling)</td></tr>
-    <tr><td style="{TH}">Annual fee (2025/26)</td><td style="{TD}">Nursery/Pre-K HK$114K · K–Elementary HK$202K · Elsa Main HK$202K · Elsa Intl HK$237K</td></tr>
-    <tr><td style="{TH}">Capital</td><td style="{TD}"><b>NO debenture, NO ACL at Elementary</b> ✓✓ — uniquely rare in HK. ACL HK$18,520/yr only at Elsa High (G6+).</td></tr>
-    <tr><td style="{TH}">2025 IB</td><td style="{TD}">Avg 38.1, 43% over 40</td></tr>
-    <tr><td style="{TH}">Mandarin</td><td style="{TD}">Mandatory from K — fits daughter's Mandarin-dominant profile</td></tr>
-    <tr><td style="{TH}">Religious</td><td style="{TD}">Jewish ethos; explicitly accepts non-Jewish (Elsa High; ELC less explicit — verify)</td></tr>
-    <tr><td style="{TH}">Through-train</td><td style="{TD}">ELC → Elementary → Elsa High (internal continuity)</td></tr>
-    <tr><td style="{TH}">Contact</td><td style="{TD}">admissions@carmel.edu.hk · +852 3665 5388</td></tr>
-  </table>
+<h2 style="{H2_DANGER}">Carmel School — IMPORTANT correction (per deep-profile research)</h2>
+<div style="{URGENT_CARD}">
+  <p style="margin:0 0 10px 0;"><b style="color:{C_DANGER};">STRUCTURAL CLOSURE FOR OUR FAMILY AT ELC + ELEMENTARY STAGES.</b> Earlier framing ("Carmel Nursery AY2026/27 = daughter eligible NOW") was <b>wrong</b>. Verified from Carmel admissions page + JNS interview with Principal Friedmann + Sassy Mama HK profile.</p>
 
-  <h3 style="{H3};margin-top:14px;">Why Carmel deserves a serious look</h3>
-  <ol style="margin:6px 0 6px 18px;padding:0;">
-    <li><b>No debenture, no ACL at Elementary</b> — uniquely rare cost structure in HK</li>
-    <li><b>Mandatory Mandarin from K</b> — fits daughter's profile</li>
-    <li><b>Daughter eligible NOW</b> for Nursery AY2026/27 (Oct 31 cutoff is favorable)</li>
-    <li><b>Convenient</b> — Shau Kei Wan / Mid-Levels close to Quarry Bay (current Tutor Time)</li>
-    <li><b>Through-train option</b> — ELC → Elementary → Elsa High = no re-application stress</li>
-    <li><b>Low-pressure community</b> — small, warm; could fit anti-rote philosophy</li>
-    <li><b>12-year cost ~HK$2.4M</b> — among the most cost-efficient options within cap</li>
-  </ol>
+  <h3 style="{H3};margin-top:14px;">Why Carmel ELC + Elementary are unavailable to us</h3>
+  <p style="margin:6px 0;">Carmel publishes admissions priority bands. Bands 1–5 = Jewish-affiliated families ONLY (these fill Holly Rofé ELC + Carmel Elementary). <b>Band 6 = "Non-Jewish families" — EXPLICITLY LIMITED TO ELSA HIGH SCHOOL (G6+, age ~11)</b>.</p>
+  <p style="margin:6px 0;">Translation: a non-Jewish family cannot apply to ELC or Elementary. Only Elsa High School Grade 6 entry (age ~11) accepts non-Jewish via International Stream.</p>
 
-  <h3 style="{H3};margin-top:14px;">Caveats</h3>
-  <ol style="margin:6px 0 6px 18px;padding:0;">
-    <li><b>Jewish ethos</b> — family has "mild" religious preference; need to confirm comfort with cultural environment (visit will clarify)</li>
-    <li><b>Less academic prestige</b> — IB avg 38.1 is decent but below SPCC (42.1) / GSIS (41.0) / GTC (40.04) / ISF (38.6)</li>
-    <li><b>Smaller cohort</b> — less peer diversity than larger schools</li>
-    <li><b>Less established Ivy/Oxbridge pipeline</b> vs ISF/CIS/HKIS</li>
-  </ol>
-
-  <h3 style="{H3};margin-top:14px;">Action this month</h3>
+  <h3 style="{H3};margin-top:14px;">Religious depth heavier than "mild religious preference" anticipates</h3>
   <ul style="margin:6px 0 6px 18px;padding:0;">
-    <li>Tour Carmel ELC (Macdonnell Road) and Elementary (Borrett Road)</li>
-    <li>Email admissions@carmel.edu.hk to confirm Oct 31 cutoff applies for daughter and ELC openness to non-Jewish applicants</li>
-    <li>Submit Nursery application AY2026/27 if interested (rolling, no deadline pressure but earlier = better)</li>
+    <li>Self-described <b>"Modern Orthodox"</b> + "strong commitment to <b>Zionism</b>"</li>
+    <li>Hebrew + Jewish Studies are core curriculum from age 3</li>
+    <li>Religious overlay heavier than HKIS (Lutheran heritage) or ICS (evangelical Christian)</li>
+    <li>Holly Rofé ELC physically inside Jewish Community Centre (Robinson Place) — community embedding is structural, not metaphorical</li>
+    <li>"Tzutzik walker" priority band exists for JCC-area Jewish families who walk for Shabbat observance — near-tribal community signal</li>
   </ul>
 
-  <p style="margin:14px 0 0 0;"><b>Verdict for our family:</b> Tier B/C — worth visiting given (a) no-debenture cost structure, (b) Mandarin mandatory, (c) eligibility now, (d) convenient location. Could move to Tier B if family confirms comfort with Jewish-ethos community after visit.</p>
+  <h3 style="{H3};margin-top:14px;">Daughter's age trajectory</h3>
+  <table style="{TBL}">
+    <tr>
+      <th style="{TH};width:18%;">Year</th>
+      <th style="{TH};width:14%;">Daughter's age</th>
+      <th style="{TH}">Carmel availability</th>
+    </tr>
+    <tr><td style="{TD}">2026–2032</td><td style="{TD}">3–9</td><td style="{TD}"><span style="{PILL_OUT}">CLOSED</span> ELC + Elementary not available to non-Jewish families</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>2032–2033</b></td><td style="{TD}"><b>~11</b></td><td style="{TD}"><span style="{PILL_INFO}">REVISIT</span> Could apply for Elsa High Grade 6 entry (Band 6 / International Stream)</td></tr>
+  </table>
+
+  <h3 style="{H3};margin-top:14px;">What's still interesting (for potential G6 revisit in 2031–2032)</h3>
+  <ul style="margin:6px 0 6px 18px;padding:0;">
+    <li><b>2025 IB DP results (un-streamed)</b>: avg 38.1, 43% ≥ 40, 100% pass, 14 grads, 60+ uni offers (Duke, Columbia, McGill, Toronto, Edinburgh, Michigan, CUHK Medicine)</li>
+    <li><b>4 perfect 45s across 13 cohorts</b> — impressive given small size (~14 grads/yr)</li>
+    <li><b>Un-streamed approach</b>: every student sits the full DP — no selection bias inflating averages</li>
+    <li><b>NO debenture, NO Elementary capital levy</b>; ACL HK$18,520/yr only at G6–12</li>
+    <li><b>Robotics</b>: FIRST Robotics championship participation (genuine STEM bright spot)</li>
+    <li><b>Math AA HL/SL + AI SL offered</b> — but <b>NO AI HL</b>; cohort small means single subjects may have ≤5 students</li>
+  </ul>
+
+  <h3 style="{H3};margin-top:14px;">Risks if revisiting at G6</h3>
+  <ul style="margin:6px 0 6px 18px;padding:0;">
+    <li><b>Leadership transition Aug 2027</b>: Principal Rachel Friedmann (15+ years building school identity) being succeeded; recruitment underway via Search Associates. For ~370-student school, real culture-shift risk.</li>
+    <li><b>Cohort size</b>: ~14 graduates/yr; individual subjects may have ≤5 students. Very small peer group.</li>
+    <li><b>One outlier negative review</b> (Expat Exchange, older) called standards "very low" — single negative against mostly positive coverage, but worth noting against marketing.</li>
+    <li><b>Cross-harbour commute</b> from Kowloon Tong (~40–50 min) for daily Mid-Levels/Shau Kei Wan campuses.</li>
+  </ul>
+
+  <h3 style="{H3};margin-top:14px;">Action for our family</h3>
+  <ul style="margin:6px 0 6px 18px;padding:0;">
+    <li><b>REMOVE Carmel from active near-term shortlist</b> — not actually applicable to our family at the daughter's current age stages</li>
+    <li><b>Do NOT visit Carmel now</b> — visit budget belongs to ISF / VSA / SPCC / GTC / AIS HK</li>
+    <li><b>Add to 2031–2032 revisit list</b> as a <i>theoretical</i> Grade 6 small-warm-school option <i>if</i> family then wants to trade Mandarin immersion / STEM ceiling for intimate community-feel environment</li>
+    <li>Full deep profile: <code>02-schools/carmel-school-deep-profile.md</code> (387 lines)</li>
+  </ul>
+
+  <p style="margin:14px 0 0 0;{MUTED}"><b>Net effect on shortlist</b>: Carmel drops from "Tier B/C — apply now" to "G6 revisit option only." This frees up planning attention for schools that <i>are</i> structurally available — particularly the Kowloon-side Tier C options (AIS HK, AISHK, NAIS, Stamford) and the Tier A core (ISF, SPCC, VSA, GTC).</p>
 </div>
 
 <h2 style="{H2}">Family snapshot</h2>
 <table style="{TBL}">
-  <tr><td style="{TH}">Child</td><td style="{TD}">Girl, <b>DOB mid-Sep 2023</b>, currently at Tutor Time Dorset (Quarry Bay area, ~50/50 EN/CN at school)</td></tr>
+  <tr><td style="{TH}">Child</td><td style="{TD}">Girl, <b>DOB mid-Sep 2023</b>, currently at Tutor Time Dorset (<b>Kowloon Tong</b> — Dorset Crescent, next to AIS HK + AISHK), ~50/50 EN/CN at school</td></tr>
   <tr><td style="{TH}">Language profile</td><td style="{TD}">~70% Mandarin / 30% English at home — Mandarin-dominant</td></tr>
   <tr><td style="{TH}">Citizenship</td><td style="{TD}">HK passport (child); parents from mainland China</td></tr>
   <tr><td style="{TH}">Philosophy</td><td style="{TD}">Strong academic + confidence + competitive — <b>against</b> 做题 / 考试 / 填鸭式; pro independent thinking + research approach + STEM depth</td></tr>
@@ -688,7 +747,7 @@ def build_en_html():
   <tr style="background:{C_TBL_ALT};"><td style="{TD}">C</td><td style="{TD}">HKA (Hong Kong Academy)</td><td style="{TD}">IB Continuum · Sai Kung</td><td style="{TD}">Pre-K HK$119K; K-G5 HK$229K · Family Deb HK$630K ✓ or ACL HK$32K/yr ✓</td><td style="{TD}">Pre-K1 AY2026/27 (rolling)</td></tr>
   <tr><td style="{TD}">C</td><td style="{TD}">ESF RCHK</td><td style="{TD}">IB Continuum · Ma On Shan</td><td style="{TD}">Y1 HK$154K · INR HK$400K ✓ + NCL HK$38K + Building Levy HK$50K</td><td style="{TD}"><b>Y1 AY2028/29</b> (apply Sep 2027)</td></tr>
   <tr style="background:{C_TBL_ALT};"><td style="{TD}">C</td><td style="{TD}">ESF Discovery College</td><td style="{TD}">IB Continuum · Discovery Bay</td><td style="{TD}">Y1 HK$170K · INR HK$400K ✓ + Building Levy HK$8K/yr</td><td style="{TD}"><b>Y1 AY2028/29</b> (apply Sep 2027)</td></tr>
-  <tr><td style="{TD}">C</td><td style="{TD}">Carmel School (Elsa High)</td><td style="{TD}">IB Continuum · Mid-Levels/SKW</td><td style="{TD}">Nursery HK$114K · K-G5 HK$203K · NO debenture, NO ACL ✓</td><td style="{TD}">Nursery AY2026/27 (rolling, Oct 31 cutoff)</td></tr>
+  <tr><td style="{TD}">C*</td><td style="{TD}"><b style="color:{C_CAVEAT};">⊗ Carmel</b> (Elsa High only)</td><td style="{TD}">IB Continuum · Shau Kei Wan</td><td style="{TD}">Elsa Main HK$203K · ACL HK$18.5K/yr at G6+ ✓</td><td style="{TD}"><b>Elsa G6 only — apply 2032/33 (ELC/Elementary closed)</b></td></tr>
   <tr style="background:{C_TBL_ALT};"><td style="{TD}">C</td><td style="{TD}">Stamford American (SAIS)</td><td style="{TD}">IB DP · Ho Man Tin / WKL HS</td><td style="{TD}">Pre-Primary HK$220K · CapLevy HK$150K one-off ✓ OR Debenture HK$500K ✓</td><td style="{TD}">Pre-Primary AY2029/30 (NO K-stage; daughter must wait)</td></tr>
   <tr><td style="{TD}">C</td><td style="{TD}">AISHK (Australian)</td><td style="{TD}">HSC or IB · Kowloon Tong · Jan–Dec calendar</td><td style="{TD}">Reception HK$156K · Debenture HK$120K ✓</td><td style="{TD}">Reception ~Jan 2028 entry</td></tr>
   <tr style="background:{C_TBL_ALT};"><td style="{TD}">C</td><td style="{TD}">NAIS HK</td><td style="{TD}">IB DP · Lam Tin / Kwun Tong</td><td style="{TD}">Nursery onwards · CEF HK$100K + ACL HK$35K/yr ✓</td><td style="{TD}">Nursery AY2027/28 (rolling)</td></tr>
@@ -759,7 +818,7 @@ def build_en_html():
     <td style="{TD}">2.5–3</td>
     <td style="{TD}">
       <b style="color:{C_DANGER};">URGENT (next 5 mo):</b> Apply <b>SIS PY1 (Sep 30)</b>, <b>CDNIS EY1 (Oct 2)</b>, <b>Harrow Nursery (Oct 10)</b>, <b>CDNIS Nursery (Nov 30)</b>.
-      <b>Rolling apply NOW</b>: AIS HK EC1, NAIS Nursery, HKA Pre-K, Carmel Nursery, Malvern Pre-N.
+      <b>Rolling apply NOW</b>: AIS HK EC1, NAIS Nursery, HKA Pre-K, Malvern Pre-N. (Carmel Nursery REMOVED — ELC closed to non-Jewish; see Carmel correction section.)
       <b>Strategic decision</b>: switch from Tutor Time to <b>Victoria Kindergarten K1 AY2026/27</b> (born 2023 cohort) for STRONGEST feeder to VSA?
       <b>Visit</b> ISF + SPCC + VSA + GTC + AIS HK in next 3 months.
     </td>
@@ -816,7 +875,7 @@ def build_en_html():
   <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>SIS HK</b></td><td style="{TD}">HK$190K × 12 = HK$2.28M</td><td style="{TD}">Personal Debenture HK$200K + Entry HK$13K</td><td style="{TD}"><b>~HK$2.5M</b></td><td style="{TD}"><span style="{PILL_BEST}">YES</span></td></tr>
   <tr><td style="{TD}"><b>CDNIS</b> (no debenture)</td><td style="{TD}">HK$220K × 12 = HK$2.64M</td><td style="{TD}">HK$80K Reservation + HK$12.5K Entry + HK$43K × 12 ACL = HK$609K</td><td style="{TD}"><b>~HK$3.25M</b></td><td style="{TD}"><span style="{PILL_BEST}">YES</span></td></tr>
   <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>ISF</b> (Annual ACL)</td><td style="{TD}">HK$270K × 12 = HK$3.24M</td><td style="{TD}">HK$40K × 12 = HK$0.48M</td><td style="{TD}"><b>HK$3.72M</b></td><td style="{TD}"><span style="{PILL_BEST}">YES</span></td></tr>
-  <tr><td style="{TD}"><b>Carmel</b> (Elementary→Elsa)</td><td style="{TD}">HK$190K × 12 = HK$2.28M</td><td style="{TD}">HK$18.5K/yr ACL at G6+ only ≈ HK$130K</td><td style="{TD}"><b>~HK$2.4M</b></td><td style="{TD}"><span style="{PILL_BEST}">YES</span></td></tr>
+  <tr><td style="{TD}"><b style="color:{C_CAVEAT};">⊗ Carmel</b> (Elsa High G6–12 ONLY for non-Jewish)</td><td style="{TD}">HK$220K × 7 = HK$1.54M (G6–12 only, 7 yrs)</td><td style="{TD}">HK$18.5K × 7 = HK$130K ACL</td><td style="{TD}"><b>~HK$1.67M</b></td><td style="{TD}"><span style="{PILL_CAVEAT}">G6 only</span></td></tr>
   <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b style="color:{C_CAVEAT};">⚠ HKIS</b></td><td style="{TD}">HK$265K × 12 = HK$3.18M</td><td style="{TD}">HK$3–5M debenture (no resale)</td><td style="{TD}"><b>HK$6M+</b></td><td style="{TD}"><span style="{PILL_CAVEAT}">OVER CAP</span></td></tr>
   <tr><td style="{TD}"><b style="color:{C_CAVEAT};">⚠ CIS direct</b></td><td style="{TD}">HK$235K × 12 = HK$2.82M</td><td style="{TD}">HK$15M CNR</td><td style="{TD}"><b>HK$17M+</b></td><td style="{TD}"><span style="{PILL_CAVEAT}">OVER CAP</span></td></tr>
   <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b style="color:{C_CAVEAT};">⚠ Harrow HK</b></td><td style="{TD}">HK$185K × 12 = HK$2.22M</td><td style="{TD}">Capital Cert ~HK$3.3M (resellable)</td><td style="{TD}"><b>~HK$5.5M</b></td><td style="{TD}"><span style="{PILL_CAVEAT}">OVER CAP</span></td></tr>
@@ -828,13 +887,13 @@ def build_en_html():
   <li><b>GTC ~HK$0.84M</b> — hardest to beat on $/IB-point if TKO commute works</li>
   <li><b>SPCC ~HK$1.56M</b> — top IB outcomes in HK at moderate cost</li>
   <li><b>AIS HK ~HK$2.06M</b> — within cap but Tier C on fit (STEM ceiling + Mandarin dilution)</li>
-  <li><b>RCHK ~HK$2.13M / +INR ~HK$2.5M</b> · <b>Carmel ~HK$2.4M</b> · <b>SIS HK ~HK$2.5M</b> · <b>VSA ~HK$2.5M</b> — bilingual IB, mid-cost</li>
+  <li><b>RCHK ~HK$2.13M / +INR ~HK$2.5M</b> · <b>SIS HK ~HK$2.5M</b> · <b>VSA ~HK$2.5M</b> — bilingual IB, mid-cost (Carmel removed — only Elsa G6+ available; ~HK$1.67M for 7 years if pursued)</li>
   <li><b>HKA ~HK$3.15M</b> · <b>CDNIS ~HK$3.25M</b> · <b>ISF ~HK$3.72M</b> — premium tier within cap</li>
 </ul>
 
 <h2 style="{H2}">Next steps</h2>
 <ol style="margin:6px 0 6px 18px;padding:0;">
-  <li><b style="color:{C_DANGER};">URGENT (next 4 mo):</b> Submit applications to SIS PY1 (Sep 30), CDNIS EY1 (Oct 2), Harrow Nursery (Oct 10), CDNIS Nursery (Nov 30). Plus rolling: AIS HK, NAIS, HKA, Carmel, Malvern Pre-N.</li>
+  <li><b style="color:{C_DANGER};">URGENT (next 4 mo):</b> Submit applications to SIS PY1 (Sep 30), CDNIS EY1 (Oct 2), Harrow Nursery (Oct 10), CDNIS Nursery (Nov 30). Plus rolling: AIS HK, NAIS, HKA, Malvern Pre-N. (Carmel REMOVED — see Carmel correction.)</li>
   <li><b>Strategic decision NOW</b>: switch from Tutor Time to Victoria Kindergarten K1 AY2026/27 if VSA is a top target (strongest feeder in HK).</li>
   <li><b>Ask Tutor Time Dorset Head</b> whether they will nominate daughter for SPCC Kindergarten Nomination Scheme (≤5% of P1 places).</li>
   <li><b>Visit</b> ISF + SPCC + VSA + GTC + AIS HK in next 3 months.</li>
@@ -1013,7 +1072,7 @@ def build_zh_html():
     </tr>
     <tr><td style="{TD}"><b>AIS HK</b></td><td style="{TD}">EC1（3 岁半日）· AY2027/28</td><td style="{TD}"><b>无债权</b> · ACL 港币 12K/年（最便宜的国际学校资本结构）✓ · 预订金港币 25K · 先到先得</td></tr>
     <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>HKA</b></td><td style="{TD}">Pre-K1（3 岁）· AY2026/27</td><td style="{TD}">家庭债权港币 630K ✓ 或 ACL 港币 32K/年 ✓ — 但 <b>HKA 自 2026 年 1 月 1 日起不再发行新债权</b></td></tr>
-    <tr><td style="{TD}"><b>Carmel</b></td><td style="{TD}">Nursery · AY2026/27（10 月 31 日截止 — 女儿符合）</td><td style="{TD}"><b>无债权，小学无 ACL</b> ✓ · 接受非犹太家庭（Elsa 高中明确）</td></tr>
+    <tr><td style="{TD}"><b style="color:{C_DANGER};">⊗ Carmel</b> <b>已移除</b></td><td style="{TD}">ELC + 小学对非犹太家庭关闭（第 1–5 级仅犹太家庭）。仅 Elsa High G6+ 经第 6 级 / International Stream 开放 — 女儿最早入学 = 2032/33。</td><td style="{TD}">见下方 Carmel 专门更正章节。</td></tr>
     <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>NAIS HK</b></td><td style="{TD}">Nursery · AY2027/28（建议 2026 年 12 月前申请）</td><td style="{TD}">CEF 港币 100K + ACL 港币 35K/年 ✓ 在上限内</td></tr>
     <tr><td style="{TD}"><b>Malvern Pre-School</b></td><td style="{TD}">Pre-Nursery（2–3 岁）· AY2026/27</td><td style="{TD}">在上限内。隐含（未公布）的 Malvern College Prep 1 优先权。</td></tr>
   </table>
@@ -1062,7 +1121,7 @@ def build_zh_html():
     <tr><td style="{TD}"><b>ESF Class A 债权（K1）→ INR（Y1）</b></td><td style="{TD}"><span style="{PILL_INFO}">强</span></td><td style="{TD}">港币 50 万 ✓</td><td style="{TD}"><b>K1 AY2026/27 已于 2025 年 9 月截止</b>；仅候补名单 — 女儿 K1 窗口已关闭。<b>跳到 INR 港币 50 万对应 Y1 AY2028/29</b> — 2027 年 9 月申请。</td></tr>
     <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>DGJS → DGS</b>（仅女生）</td><td style="{TD}"><span style="{PILL_BEST}">独家</span></td><td style="{TD}">DGJS 港币 79K/年 ✓ · 无债权</td><td style="{TD}">DGJS 是 DGS 中学的独家 feeder。2028 年 8 月中申请 DGJS P1 对应 AY2029/30。</td></tr>
     <tr><td style="{TD}"><b>CDNIS Nursery → EY1</b></td><td style="{TD}"><span style="{PILL_INFO}">内部</span></td><td style="{TD}">Nursery：无资本要求 ✓ · EY1+：ACL 港币 43K/年 ✓</td><td style="{TD}">2026-11-30 前申请 Nursery AY2027/28，享 EY1 内部连续优先权。</td></tr>
-    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>Carmel ELC → Carmel 小学 → Elsa High</b></td><td style="{TD}"><span style="{PILL_INFO}">内部</span></td><td style="{TD}">小学无债权、无 ACL ✓</td><td style="{TD}">直接升学。Nursery AY2026/27 申请（滚动，10 月 31 日截止）。接受非犹太家庭。</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b style="color:{C_DANGER};">⊗ Carmel ELC → 小学 → Elsa High</b></td><td style="{TD}"><span style="{PILL_OUT}">ELC/小学仅犹太家庭</span></td><td style="{TD}">非犹太不适用</td><td style="{TD}">第 1-5 级 = 仅犹太家庭。非犹太入学限于 Elsa High G6+ 经第 6 级。女儿最早入学 = 2032/33。</td></tr>
     <tr><td style="{TD}"><b>HKA Pre-K → 直通车</b></td><td style="{TD}"><span style="{PILL_INFO}">内部</span></td><td style="{TD}">家庭债权港币 630K ✓ 或 ACL 港币 32K/年 ✓</td><td style="{TD}">Pre-K1 AY2026/27 申请（滚动）。债权须 2026 年 1 月 1 日前购买（已过 — 仅二级市场）。</td></tr>
     <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>Malvern Pre-School → Malvern College</b></td><td style="{TD}"><span style="{PILL_CAVEAT}">隐含</span></td><td style="{TD}">在上限内（请核实）</td><td style="{TD}">Pre-Nursery AY2026/27 申请（滚动）。隐含优先权但未正式公布。</td></tr>
     <tr><td style="{TD}"><b>ISF Pre-School → ISF Academy</b></td><td style="{TD}"><span style="{PILL_CAVEAT}">弱</span></td><td style="{TD}">ACL 港币 15K/年 ✓（学费港币 152K）</td><td style="{TD}">无正式优先权除非持有 Capital Note。Pre-School 在 <b>坚尼地城</b>（卑路乍街 97 号 — 之前说"薄扶林"是错的）。</td></tr>
@@ -1176,7 +1235,7 @@ def build_zh_html():
     <li><b>双语环境</b>：校内英文/中文 50/50</li>
     <li><b>毕业生去向广</b>：去 ESF、CIS、ISF、CDNIS、SPCC、HKA 等都有 — 但<b>都通过标准申请流程</b>，无优先</li>
     <li><b>Tutor Time 校长可代为提名 SPCC</b>：通过 SPCC 的 Kindergarten Nomination Scheme（开放给<b>任何</b>幼稚园校长，非 Tutor Time 特定关系）</li>
-    <li><b>位置便利</b>：Dorset 校区 = 鲗鱼涌/太古地铁可达</li>
+    <li><b>位置便利</b>：Dorset Crescent，<b>九龙塘</b>（九龙塘地铁站）— 紧邻 AIS HK + AISHK；接近 Stamford American（何文田）、Kellett 九龙湾、NAIS 蓝田、ESF Beacon Hill / KJS / KGV</li>
   </ol>
 
   <h3 style="{H3};margin-top:14px;">战略决策矩阵 — 目标学校 × feeder 行动</h3>
@@ -1193,7 +1252,7 @@ def build_zh_html():
     <tr><td style="{TD}"><b>DGS</b>（女生）</td><td style="{TD}"><b>必须读 DGJS</b>（DGS 独家 feeder）；2028 年 8 月中申请 DGJS P1</td><td style="{TD}">2028 年 8 月（DGJS P1 窗口）</td></tr>
     <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>GTC / SPCC（无提名）</b></td><td style="{TD}">留 Tutor Time + 直接申请 P1（2028 年 5-9 月）</td><td style="{TD}">2028 年</td></tr>
     <tr><td style="{TD}"><b>HKA</b></td><td style="{TD}">转 HKA Pre-K AY2026/27 走内部直通车</td><td style="{TD}">现在（滚动招生）</td></tr>
-    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>Carmel</b></td><td style="{TD}">转 Carmel Nursery AY2026/27（10 月 31 日截止 = 女儿符合）</td><td style="{TD}">现在（滚动）</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b style="color:{C_DANGER};">⊗ Carmel</b></td><td style="{TD}">ELC/小学不适用 — 仅 Elsa High G6+ 经第 6 级开放非犹太家庭。如有兴趣 G6 入学，2031–2032 重新评估。</td><td style="{TD}">仅 2031–2032（G6 重新评估）</td></tr>
   </table>
 
   <h3 style="{H3};margin-top:14px;">未解问题 — 历年小学去向数据</h3>
@@ -1202,6 +1261,52 @@ def build_zh_html():
     「请问可以分享 Tutor Time Dorset 近年毕业生的小学去向统计吗？具体每年有多少毕业生进入 SPCC、ESF（哪几所）、ISF、VSA、CDNIS、HKA 或其他学校？是否有某些学校 Tutor Time 历来录取率较高？」
   </div>
   <p style="{MUTED};margin-top:8px;">联系：admissions@tutortime.com.hk · Dorset 校区电话（请核实）：+852 2870 1232</p>
+</div>
+
+<h2 style="{H2}">地理 / 通勤（Tutor Time Dorset = 九龙塘，位置更正）</h2>
+<div style="{CARD};border-left:4px solid {C_PRIMARY};">
+  <p style="margin:0 0 10px 0;">早期邮件错把 Tutor Time Dorset 定位在鲗鱼涌一带。<b>实际位置在九龙塘</b>（Dorset Crescent）。这显著有利于某些目标学校，对其他学校不利。</p>
+
+  <h3 style="{H3};margin-top:14px;">从九龙塘出发的通勤矩阵</h3>
+  <table style="{TBL}">
+    <tr>
+      <th style="{TH};width:24%;">学校</th>
+      <th style="{TH};width:18%;">位置</th>
+      <th style="{TH};width:18%;">预计时间</th>
+      <th style="{TH}">备注</th>
+    </tr>
+    <tr><td style="{TD}"><b>AIS HK</b></td><td style="{TD}">窝打老道，九龙塘</td><td style="{TD}"><b style="color:{C_BEST};">步行 / 5 分钟地铁</b></td><td style="{TD}">同一区 — 最大的便利优势</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>AISHK（澳洲）</b></td><td style="{TD}">诺福克道，九龙塘</td><td style="{TD}"><b style="color:{C_BEST};">步行 / 5 分钟</b></td><td style="{TD}">同一区</td></tr>
+    <tr><td style="{TD}"><b>Stamford American</b></td><td style="{TD}">何文田</td><td style="{TD}"><b style="color:{C_BEST};">~10 分钟地铁</b></td><td style="{TD}">观塘线 1 站</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>DGJS / DGS</b>（女生）</td><td style="{TD}">佐敦</td><td style="{TD}"><b style="color:{C_BEST};">~15 分钟地铁</b></td><td style="{TD}">观塘线/荃湾线直达 — 非常便利</td></tr>
+    <tr><td style="{TD}"><b>Kellett</b></td><td style="{TD}">九龙湾（小学）</td><td style="{TD}"><b style="color:{C_BEST};">~10 分钟地铁</b></td><td style="{TD}">目前候补已满但值得登记</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>NAIS HK</b></td><td style="{TD}">蓝田 / 观塘</td><td style="{TD}"><b style="color:{C_BEST};">~15-20 分钟地铁</b></td><td style="{TD}">便利</td></tr>
+    <tr><td style="{TD}"><b>ESF Beacon Hill / KJS / KGV</b></td><td style="{TD}">九龙塘 / 何文田</td><td style="{TD}"><b style="color:{C_BEST};">~5-15 分钟</b></td><td style="{TD}">九龙侧的标准 ESF 选项 — 之前未强调</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>Malvern College</b></td><td style="{TD}">大埔</td><td style="{TD}">~25-30 分钟东铁</td><td style="{TD}">从九龙塘东铁直达</td></tr>
+    <tr><td style="{TD}"><b>HKA</b></td><td style="{TD}">西贡</td><td style="{TD}">~35-40 分钟地铁 + 巴士</td><td style="{TD}">尚可</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>GTC</b></td><td style="{TD}">将军澳</td><td style="{TD}">~35-40 分钟地铁</td><td style="{TD}">观塘线 + 将军澳线转车</td></tr>
+    <tr><td style="{TD}"><b>Carmel ELC / 小学</b></td><td style="{TD}">半山（麦当奴 + 波老道）</td><td style="{TD}"><b style="color:{C_CAVEAT};">~40-50 分钟</b></td><td style="{TD}">过海 + 上山。Carmel 三个校区都在港岛</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>Carmel Elsa 高中</b></td><td style="{TD}">筲箕湾（东区）</td><td style="{TD}"><b style="color:{C_CAVEAT};">~40-50 分钟</b></td><td style="{TD}">过海 + 东区走廊</td></tr>
+    <tr><td style="{TD}"><b>SPCC Primary</b></td><td style="{TD}">黄竹坑</td><td style="{TD}"><b style="color:{C_CAVEAT};">~45 分钟</b></td><td style="{TD}">过海 + 南港岛线</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>VSA / CDNIS / SIS HK</b></td><td style="{TD}">香港仔</td><td style="{TD}"><b style="color:{C_CAVEAT};">~50 分钟</b></td><td style="{TD}">过海 + 南港岛线</td></tr>
+    <tr><td style="{TD}"><b>ISF Academy</b></td><td style="{TD}">数码港，薄扶林</td><td style="{TD}"><b style="color:{C_CAVEAT};">~50-60 分钟</b></td><td style="{TD}">过海 + 巴士/地铁</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>CIS</b></td><td style="{TD}">宝马山</td><td style="{TD}"><b style="color:{C_CAVEAT};">~40-50 分钟</b></td><td style="{TD}">过海</td></tr>
+    <tr><td style="{TD}"><b>HKIS</b></td><td style="{TD}">大潭（浅水湾）</td><td style="{TD}"><b style="color:{C_CAVEAT};">~50+ 分钟</b></td><td style="{TD}">过海 + 南面</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>Harrow HK</b></td><td style="{TD}">屯门</td><td style="{TD}"><b style="color:{C_CAVEAT};">~50-60 分钟</b></td><td style="{TD}">西铁线</td></tr>
+    <tr><td style="{TD}"><b>Discovery College</b></td><td style="{TD}">愉景湾</td><td style="{TD}"><b style="color:{C_DANGER};">~60+ 分钟</b></td><td style="{TD}">过海 + 渡轮 — 每日通勤负担重</td></tr>
+  </table>
+
+  <h3 style="{H3};margin-top:14px;">对名单分级的影响</h3>
+  <ul style="margin:6px 0 6px 18px;padding:0;">
+    <li><b>AIS HK 成为最容易的备选</b> — 同一区 + 无债权 + 滚动招生 = 阻力最小</li>
+    <li><b>DGJS / DGS 路线比之前更有吸引力</b> — 佐敦地铁直达 1 站。如能接受全女校 + DSE/A-Level，认真考虑</li>
+    <li><b>Stamford American + AISHK + NAIS</b> 在通勤上成为可行的第三梯队选项</li>
+    <li><b>VSA + 维多利亚幼稚园 feeder 策略</b>：VK 有多个校区 — 请核实是否有 VK 九龙塘校区。若有，转 VK 九龙塘 K1 便利且解锁最强 feeder。若仅港岛有 VK 校区，3 岁起需每日过海 — feeder 策略变难</li>
+    <li><b>港岛学校（SPCC、ISF、CIS、Carmel、HKIS）</b> = 真实的过海承诺（每日单程约 40-60 分钟）。仍可行但需考虑</li>
+    <li><b>考虑 ESF Beacon Hill（小学）/ KJS / KGV（中学）</b>：之前未强调的九龙侧标准 ESF 选项。通过 ESF Y1 中央申请窗口 + INR 港币 50 万享优先权</li>
+  </ul>
+
+  <p style="margin:14px 0 0 0;{MUTED}"><b>家庭决策：</b>之前用户表示地理不是主要因素 — 但 12 年承诺中，每日往返 1.5-2 小时过海通勤对孩子是真实负担。值得重新权衡九龙侧便利选项（AIS HK、AISHK、DGJS、Stamford、ESF 九龙学校）vs 港岛顶尖匹配（SPCC、ISF、VSA）。</p>
 </div>
 
 <h2 style="{H2}">探校日（Open Day）对录取有帮助吗？</h2>
@@ -1240,7 +1345,7 @@ def build_zh_html():
       <th style="{TH};width:36%;">行动</th>
       <th style="{TH}">为何</th>
     </tr>
-    <tr><td style="{TD}">未来 3 个月探访 <b>ISF + SPCC + VSA + GTC + AIS HK + Carmel</b></td><td style="{TD}">为<b>自己</b>评估契合度；对滚动招生（AIS HK、Carmel）建立软性印象</td></tr>
+    <tr><td style="{TD}">未来 3 个月探访 <b>ISF + SPCC + VSA + GTC + AIS HK</b>（Carmel 移除 — ELC/小学不适用）</td><td style="{TD}">为<b>自己</b>评估契合度；对滚动招生学校（AIS HK + 类似小型学校如 HKA / NAIS / Stamford）建立软性印象以感受社区氛围</td></tr>
     <tr style="background:{C_TBL_ALT};"><td style="{TD}">每次参访后 48 小时内发简短跟进电邮</td><td style="{TD}">确认意向；让人记住但不显急切</td></tr>
     <tr><td style="{TD}"><b>必须出席 SPCC 简介会</b>（9 月初 P1 窗口前 — 请核实当前周期日期）</td><td style="{TD}">缺席 = 负面信号</td></tr>
     <tr style="background:{C_TBL_ALT};"><td style="{TD}">主要精力放在 <b>实际面试 / 评估</b> 准备上</td><td style="{TD}">这才是真正的录取关卡 — Open Day 出席与 FY/EY1/Play Visit 表现相比是噪音</td></tr>
@@ -1249,53 +1354,66 @@ def build_zh_html():
   <p style="margin:14px 0 0 0;"><b>一句话：</b>探校 ≠ 录取加分。缺席必出席的简介会 = 录取风险。探校主要用来自己评估契合度。</p>
 </div>
 
-<h2 style="{H2}">Carmel School — 简介</h2>
-<div style="{CARD};border-left:4px solid {C_BEST};">
-  <table style="{TBL}">
-    <tr><td style="{TH};width:24%;">课程</td><td style="{TD}">IB Continuum（PYP, MYP, DP）</td></tr>
-    <tr><td style="{TH}">位置</td><td style="{TD}">半山（ELC，麦当奴道）+ 波老道（小学）+ 筲箕湾（Elsa 高中）— 都靠近鲗鱼涌/Tutor Time 一带</td></tr>
-    <tr><td style="{TH}">女儿年龄层</td><td style="{TD}"><b>Nursery AY2026/27</b>（10 月 31 日截止 = 女儿现在符合；滚动）</td></tr>
-    <tr><td style="{TH}">年学费 (2025/26)</td><td style="{TD}">Nursery/Pre-K 港币 114K · K-小学 港币 202K · Elsa Main 港币 202K · Elsa Intl 港币 237K</td></tr>
-    <tr><td style="{TH}">资本费</td><td style="{TD}"><b>无债权，小学无 ACL</b> ✓✓ — 香港罕见。Elsa 高中（G6+）才有 ACL 港币 18,520/年。</td></tr>
-    <tr><td style="{TH}">2025 IB</td><td style="{TD}">平均 38.1，43% 超 40</td></tr>
-    <tr><td style="{TH}">普通话</td><td style="{TD}">K 起必修 — 契合女儿普通话主导的语言基础</td></tr>
-    <tr><td style="{TH}">宗教</td><td style="{TD}">犹太教育理念；明确接受非犹太家庭（Elsa High；ELC 较不明确 — 请核实）</td></tr>
-    <tr><td style="{TH}">直通车</td><td style="{TD}">ELC → 小学 → Elsa High（内部连续性）</td></tr>
-    <tr><td style="{TH}">联系</td><td style="{TD}">admissions@carmel.edu.hk · +852 3665 5388</td></tr>
-  </table>
+<h2 style="{H2_DANGER}">Carmel School — 重要更正（基于深度调研）</h2>
+<div style="{URGENT_CARD}">
+  <p style="margin:0 0 10px 0;"><b style="color:{C_DANGER};">ELC + 小学阶段对我们家庭结构性关闭。</b>之前的描述（「Carmel Nursery AY2026/27 = 女儿现在就符合」）<b>是错的</b>。已从 Carmel 招生页面 + JNS 与 Friedmann 校长的访谈 + Sassy Mama HK 资料核实。</p>
 
-  <h3 style="{H3};margin-top:14px;">Carmel 值得认真考虑的理由</h3>
-  <ol style="margin:6px 0 6px 18px;padding:0;">
-    <li><b>无债权、小学无 ACL</b> — 香港罕见的成本结构</li>
-    <li><b>K 起必修普通话</b> — 契合女儿的语言基础</li>
-    <li><b>女儿现在就符合</b>资格申请 Nursery AY2026/27（10 月 31 日截止有利）</li>
-    <li><b>位置便利</b> — 筲箕湾 / 半山距离鲗鱼涌（现 Tutor Time）很近</li>
-    <li><b>直通车选项</b> — ELC → 小学 → Elsa High = 无需重新申请的压力</li>
-    <li><b>低压力社区</b> — 小、温暖；契合反应试理念</li>
-    <li><b>12 年总成本约港币 240 万</b> — 上限内最具成本效益的选择之一</li>
-  </ol>
+  <h3 style="{H3};margin-top:14px;">为什么 Carmel ELC + 小学对我们不开放</h3>
+  <p style="margin:6px 0;">Carmel 公布的招生优先层级：第 1-5 级 = 仅犹太家庭（这些填满 Holly Rofé ELC + Carmel 小学）。<b>第 6 级 = 「非犹太家庭」— 明确仅限 Elsa High School（G6+，约 11 岁）</b>。</p>
+  <p style="margin:6px 0;">即：非犹太家庭<b>无法</b>申请 ELC 或小学。仅 Elsa High Grade 6 入学（约 11 岁）通过 International Stream 接受非犹太家庭。</p>
 
-  <h3 style="{H3};margin-top:14px;">注意事项</h3>
-  <ol style="margin:6px 0 6px 18px;padding:0;">
-    <li><b>犹太教育理念</b> — 家庭「略有」宗教偏好；需确认对文化环境的舒适度（参访时可澄清）</li>
-    <li><b>学术声誉略低</b> — IB 平均 38.1 不错但低于 SPCC（42.1）/ GSIS（41.0）/ GTC（40.04）/ ISF（38.6）</li>
-    <li><b>学生群体较小</b> — 同学多样性不如大型学校</li>
-    <li><b>Ivy/Oxbridge 输送渠道不及</b> ISF/CIS/HKIS 等老牌国际学校</li>
-  </ol>
-
-  <h3 style="{H3};margin-top:14px;">本月行动</h3>
+  <h3 style="{H3};margin-top:14px;">宗教深度比「略有宗教偏好」预期更重</h3>
   <ul style="margin:6px 0 6px 18px;padding:0;">
-    <li>参观 Carmel ELC（麦当奴道）和小学（波老道）</li>
-    <li>电邮 admissions@carmel.edu.hk 确认 10 月 31 日截止日适用于女儿，并询问 ELC 是否接受非犹太家庭</li>
-    <li>如有兴趣，提交 Nursery AY2026/27 申请（滚动，无截止日压力但越早越好）</li>
+    <li>自我描述为 <b>「Modern Orthodox（现代正统派）」</b> + 「对锡安主义（Zionism）有强承诺」</li>
+    <li>从 3 岁起希伯来语 + 犹太学习是核心课程</li>
+    <li>宗教元素重于 HKIS（路德派传承）或 ICS（福音派基督教）</li>
+    <li>Holly Rofé ELC 物理上位于犹太社区中心（Robinson Place）— 社区嵌入是结构性的，非比喻</li>
+    <li>「Tzutzik walker」优先层级针对 JCC 一带为安息日而步行上学的犹太家庭 — 部落式社区信号</li>
   </ul>
 
-  <p style="margin:14px 0 0 0;"><b>我们家庭的结论：</b>第二/三梯队 — 值得参访，因为：(a) 无债权成本结构、(b) 普通话必修、(c) 现在就符合资格、(d) 位置便利。如家庭参访后确认接受犹太教育理念社区，可升至第二梯队。</p>
+  <h3 style="{H3};margin-top:14px;">女儿的年龄轨迹</h3>
+  <table style="{TBL}">
+    <tr>
+      <th style="{TH};width:18%;">年份</th>
+      <th style="{TH};width:14%;">女儿年龄</th>
+      <th style="{TH}">Carmel 可用性</th>
+    </tr>
+    <tr><td style="{TD}">2026–2032</td><td style="{TD}">3–9 岁</td><td style="{TD}"><span style="{PILL_OUT}">关闭</span> ELC + 小学不对非犹太家庭开放</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>2032–2033</b></td><td style="{TD}"><b>~11 岁</b></td><td style="{TD}"><span style="{PILL_INFO}">重新评估</span> 可申请 Elsa High Grade 6 入学（第 6 级 / International Stream）</td></tr>
+  </table>
+
+  <h3 style="{H3};margin-top:14px;">什么仍然有意思（如 2031-2032 重新评估 G6）</h3>
+  <ul style="margin:6px 0 6px 18px;padding:0;">
+    <li><b>2025 IB DP 成绩（无分流）</b>：平均 38.1，43% ≥ 40，100% 通过率，14 名毕业生，60+ 大学录取（Duke、Columbia、McGill、Toronto、Edinburgh、Michigan、CUHK 医学院）</li>
+    <li><b>13 届毕业生中有 4 人满分 45 分</b> — 考虑到规模小（每年约 14 人），相当亮眼</li>
+    <li><b>无分流</b>：每位学生都参加完整 DP — 平均分无选择性偏差</li>
+    <li><b>无债权、小学无资本费</b>；G6-12 才有 ACL 港币 18,520/年</li>
+    <li><b>机器人项目</b>：FIRST Robotics 锦标赛参赛（真正的 STEM 亮点）</li>
+    <li><b>提供 Math AA HL/SL + AI SL</b> — 但<b>无 AI HL</b>；规模小意味着单科可能 ≤5 个学生</li>
+  </ul>
+
+  <h3 style="{H3};margin-top:14px;">如 G6 重新评估的风险</h3>
+  <ul style="margin:6px 0 6px 18px;padding:0;">
+    <li><b>2027 年 8 月领导层换届</b>：Friedmann 校长（建校 15+ 年塑造学校身份）即将被接替；正通过 Search Associates 招聘。约 370 学生的小学校，文化转变风险真实存在。</li>
+    <li><b>群体规模</b>：每年约 14 名毕业生；单科可能 ≤5 学生。同伴群极小。</li>
+    <li><b>一条负面评论</b>（Expat Exchange，较旧）称水准「非常低」 — 在多数正面评价中是单一负面，但值得注意。</li>
+    <li><b>过海通勤</b>：从九龙塘到半山/筲箕湾每日约 40-50 分钟。</li>
+  </ul>
+
+  <h3 style="{H3};margin-top:14px;">本家庭的行动</h3>
+  <ul style="margin:6px 0 6px 18px;padding:0;">
+    <li><b>从近期名单中移除 Carmel</b> — 在女儿当前年龄阶段对我们家庭并不实际可申请</li>
+    <li><b>现在不要参访 Carmel</b> — 参访预算应给 ISF / VSA / SPCC / GTC / AIS HK</li>
+    <li><b>加入 2031-2032 重新评估清单</b>，作为<i>理论上</i>的 Grade 6 小型温暖学校选项 — <i>如果</i>家庭届时希望以普通话沉浸 / STEM 上限换取亲密的社区环境</li>
+    <li>完整深度档案：<code>02-schools/carmel-school-deep-profile.md</code>（387 行）</li>
+  </ul>
+
+  <p style="margin:14px 0 0 0;{MUTED}"><b>对名单的净影响</b>：Carmel 从「第二/三梯队 — 现在申请」降为「仅 G6 重新评估」。这释放了规划注意力给那些<i>结构上</i>可申请的学校 — 特别是九龙侧的第三梯队选项（AIS HK、AISHK、NAIS、Stamford）和第一梯队核心（ISF、SPCC、VSA、GTC）。</p>
 </div>
 
 <h2 style="{H2}">家庭概况</h2>
 <table style="{TBL}">
-  <tr><td style="{TH}">孩子</td><td style="{TD}">女孩，<b>生于 2023 年 9 月中</b>，目前就读 Tutor Time Dorset（鲗鱼涌一带，校内英语/中文约 50/50）</td></tr>
+  <tr><td style="{TH}">孩子</td><td style="{TD}">女孩，<b>生于 2023 年 9 月中</b>，目前就读 Tutor Time Dorset（<b>九龙塘</b> — Dorset Crescent，紧邻 AIS HK + AISHK），校内英语/中文约 50/50</td></tr>
   <tr><td style="{TH}">家庭语言</td><td style="{TD}">在家约 70% 普通话 / 30% 英语 — 普通话为主</td></tr>
   <tr><td style="{TH}">国籍</td><td style="{TD}">香港护照（孩子）；父母来自中国内地</td></tr>
   <tr><td style="{TH}">教育理念</td><td style="{TD}">重视学术 + 自信 + 竞争力 — <b>反对</b>做题/考试/填鸭式；崇尚独立思考 + 研究方法 + STEM 深度</td></tr>
@@ -1359,7 +1477,7 @@ def build_zh_html():
   <tr style="background:{C_TBL_ALT};"><td style="{TD}">C</td><td style="{TD}">香港学堂 HKA</td><td style="{TD}">IB Continuum · 西贡</td><td style="{TD}">Pre-K 港币 119K；K-G5 港币 229K · 家庭债权港币 630K ✓ 或 ACL 港币 32K/年 ✓</td><td style="{TD}">Pre-K1 AY2026/27（滚动）</td></tr>
   <tr><td style="{TD}">C</td><td style="{TD}">ESF RCHK</td><td style="{TD}">IB Continuum · 马鞍山</td><td style="{TD}">Y1 港币 154K · INR 港币 400K ✓ + NCL 港币 38K + 建筑费港币 50K</td><td style="{TD}"><b>Y1 AY2028/29</b>（2027 年 9 月申请）</td></tr>
   <tr style="background:{C_TBL_ALT};"><td style="{TD}">C</td><td style="{TD}">ESF Discovery College</td><td style="{TD}">IB Continuum · 愉景湾</td><td style="{TD}">Y1 港币 170K · INR 港币 400K ✓ + 建筑费港币 8K/年</td><td style="{TD}"><b>Y1 AY2028/29</b>（2027 年 9 月申请）</td></tr>
-  <tr><td style="{TD}">C</td><td style="{TD}">嘉米利学校 Carmel</td><td style="{TD}">IB Continuum · 半山/筲箕湾</td><td style="{TD}">Nursery 港币 114K · K-G5 港币 203K · 无债权、无 ACL ✓</td><td style="{TD}">Nursery AY2026/27（滚动，10 月 31 日截止）</td></tr>
+  <tr><td style="{TD}">C*</td><td style="{TD}"><b style="color:{C_CAVEAT};">⊗ Carmel</b>（仅 Elsa High）</td><td style="{TD}">IB Continuum · 筲箕湾</td><td style="{TD}">Elsa Main 港币 203K · G6+ ACL 港币 18.5K/年 ✓</td><td style="{TD}"><b>仅 Elsa G6 — 2032/33 申请（ELC/小学已关闭）</b></td></tr>
   <tr style="background:{C_TBL_ALT};"><td style="{TD}">C</td><td style="{TD}">史丹福美国学校 Stamford</td><td style="{TD}">IB DP · 何文田 / 西九</td><td style="{TD}">Pre-Primary 港币 220K · 资本费港币 150K 一次性 ✓ 或债权港币 500K ✓</td><td style="{TD}">Pre-Primary AY2029/30（无 K 阶段；女儿须等待）</td></tr>
   <tr><td style="{TD}">C</td><td style="{TD}">澳洲国际学校 AISHK</td><td style="{TD}">HSC 或 IB · 九龙塘 · 1–12 月学年</td><td style="{TD}">Reception 港币 156K · 债权港币 120K ✓</td><td style="{TD}">Reception 约 2028 年 1 月入学</td></tr>
   <tr style="background:{C_TBL_ALT};"><td style="{TD}">C</td><td style="{TD}">NAIS HK</td><td style="{TD}">IB DP · 蓝田 / 观塘</td><td style="{TD}">Nursery 起 · CEF 港币 100K + ACL 港币 35K/年 ✓</td><td style="{TD}">Nursery AY2027/28（滚动）</td></tr>
@@ -1429,7 +1547,7 @@ def build_zh_html():
     <td style="{TD}">2.5–3 岁</td>
     <td style="{TD}">
       <b style="color:{C_DANGER};">紧急（未来 5 个月）：</b>申请 <b>SIS PY1（9 月 30 日）</b>、<b>CDNIS EY1（10 月 2 日）</b>、<b>Harrow Nursery（10 月 10 日）</b>、<b>CDNIS Nursery（11 月 30 日）</b>。
-      <b>滚动现在申请</b>：AIS HK EC1、NAIS Nursery、HKA Pre-K、Carmel Nursery、Malvern Pre-N。
+      <b>滚动现在申请</b>：AIS HK EC1、NAIS Nursery、HKA Pre-K、Malvern Pre-N。（Carmel Nursery 已移除 — ELC 对非犹太关闭；详见 Carmel 更正章节。）
       <b>战略决策</b>：是否从 Tutor Time 转 <b>维多利亚幼稚园 K1 AY2026/27</b>（2023 年生年龄层）以获得 VSA 最强 feeder？
       <b>未来 3 个月内参访</b> ISF + SPCC + VSA + GTC + AIS HK。
     </td>
@@ -1486,7 +1604,7 @@ def build_zh_html():
   <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>SIS HK</b></td><td style="{TD}">港币 190K × 12 = 港币 2.28M</td><td style="{TD}">个人债权港币 200K + 入学费港币 13K</td><td style="{TD}"><b>约港币 2.5M</b></td><td style="{TD}"><span style="{PILL_BEST}">是</span></td></tr>
   <tr><td style="{TD}"><b>CDNIS</b>（无债权）</td><td style="{TD}">港币 220K × 12 = 港币 2.64M</td><td style="{TD}">港币 80K 预订 + 港币 12.5K 入学 + 港币 43K × 12 ACL = 港币 609K</td><td style="{TD}"><b>约港币 3.25M</b></td><td style="{TD}"><span style="{PILL_BEST}">是</span></td></tr>
   <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>ISF</b>（年度 ACL）</td><td style="{TD}">港币 270K × 12 = 港币 3.24M</td><td style="{TD}">港币 40K × 12 = 港币 0.48M</td><td style="{TD}"><b>港币 3.72M</b></td><td style="{TD}"><span style="{PILL_BEST}">是</span></td></tr>
-  <tr><td style="{TD}"><b>Carmel</b>（小学→Elsa）</td><td style="{TD}">港币 190K × 12 = 港币 2.28M</td><td style="{TD}">仅 G6+ 港币 18.5K/年 ACL ≈ 港币 130K</td><td style="{TD}"><b>约港币 2.4M</b></td><td style="{TD}"><span style="{PILL_BEST}">是</span></td></tr>
+  <tr><td style="{TD}"><b style="color:{C_CAVEAT};">⊗ Carmel</b>（仅 Elsa High G6–12 非犹太）</td><td style="{TD}">港币 220K × 7 = 港币 1.54M（仅 G6–12）</td><td style="{TD}">G6+ ACL 港币 18.5K × 7 = 港币 130K</td><td style="{TD}"><b>约港币 1.67M</b>（仅 7 年）</td><td style="{TD}"><span style="{PILL_CAVEAT}">仅 G6</span></td></tr>
   <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b style="color:{C_CAVEAT};">⚠ HKIS</b></td><td style="{TD}">港币 265K × 12 = 港币 3.18M</td><td style="{TD}">债权港币 300–500 万（不可转售）</td><td style="{TD}"><b>港币 600 万+</b></td><td style="{TD}"><span style="{PILL_CAVEAT}">超出上限</span></td></tr>
   <tr><td style="{TD}"><b style="color:{C_CAVEAT};">⚠ CIS 直接申请</b></td><td style="{TD}">港币 235K × 12 = 港币 2.82M</td><td style="{TD}">CNR 港币 1500 万</td><td style="{TD}"><b>港币 1700 万+</b></td><td style="{TD}"><span style="{PILL_CAVEAT}">超出上限</span></td></tr>
   <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b style="color:{C_CAVEAT};">⚠ Harrow HK</b></td><td style="{TD}">港币 185K × 12 = 港币 2.22M</td><td style="{TD}">Capital Cert 约港币 330 万（可转售）</td><td style="{TD}"><b>约港币 5.5M</b></td><td style="{TD}"><span style="{PILL_CAVEAT}">超出上限</span></td></tr>
@@ -1498,13 +1616,13 @@ def build_zh_html():
   <li><b>GTC 约港币 84 万</b> — 若可接受 TKO 通勤，每分 IB 的性价比无可匹敌</li>
   <li><b>SPCC 约港币 156 万</b> — 香港顶尖 IB 成绩，中等成本</li>
   <li><b>AIS HK 约港币 206 万</b> — 在上限内，但适配度为第三梯队（STEM 上限 + 普通话稀释）</li>
-  <li><b>RCHK 约港币 213 万 / +INR 约港币 250 万</b> · <b>Carmel 约港币 240 万</b> · <b>SIS HK 约港币 250 万</b> · <b>VSA 约港币 250 万</b> — 双语 IB，中等成本</li>
+  <li><b>RCHK 约港币 213 万 / +INR 约港币 250 万</b> · <b>SIS HK 约港币 250 万</b> · <b>VSA 约港币 250 万</b> — 双语 IB，中等成本（Carmel 移除 — 仅 Elsa G6+ 可用；如选择则 7 年约港币 167 万）</li>
   <li><b>HKA 约港币 315 万</b> · <b>CDNIS 约港币 325 万</b> · <b>ISF 约港币 372 万</b> — 上限内的高级层</li>
 </ul>
 
 <h2 style="{H2}">下一步行动</h2>
 <ol style="margin:6px 0 6px 18px;padding:0;">
-  <li><b style="color:{C_DANGER};">紧急（未来 4 个月内）：</b>提交申请 SIS PY1（9 月 30 日）、CDNIS EY1（10 月 2 日）、Harrow Nursery（10 月 10 日）、CDNIS Nursery（11 月 30 日）。同时滚动：AIS HK、NAIS、HKA、Carmel、Malvern Pre-N。</li>
+  <li><b style="color:{C_DANGER};">紧急（未来 4 个月内）：</b>提交申请 SIS PY1（9 月 30 日）、CDNIS EY1（10 月 2 日）、Harrow Nursery（10 月 10 日）、CDNIS Nursery（11 月 30 日）。同时滚动：AIS HK、NAIS、HKA、Malvern Pre-N。（Carmel 已移除 — 见 Carmel 更正章节。）</li>
   <li><b>现在的战略决策</b>：如 VSA 是首选，是否从 Tutor Time 转维多利亚幼稚园 K1 AY2026/27（香港最强 feeder）。</li>
   <li><b>询问 Tutor Time Dorset 校长</b>是否会就 SPCC 幼稚园提名计划（≤5% 的 P1 名额）提名女儿。</li>
   <li><b>未来 3 个月内参访</b> ISF + SPCC + VSA + GTC + AIS HK。</li>
