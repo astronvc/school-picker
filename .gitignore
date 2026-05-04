@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*~
+
+# Claude local artifacts
+.claude/
+
+# Personal scratch
+scratch/
+private/
