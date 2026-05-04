@@ -503,6 +503,95 @@ def build_en_html():
   <p style="{MUTED};margin-top:8px;">Contact: admissions@tutortime.com.hk · Dorset campus phone (verify): +852 2870 1232</p>
 </div>
 
+<h2 style="{H2}">School visits (Open Days) — do they help admissions?</h2>
+<div style="{CARD};border-left:4px solid {C_PRIMARY};">
+  <p style="margin:0 0 10px 0;"><b>Short answer: usually NOT directly</b> — but mandatory briefings matter, and engagement with rolling-admissions schools matters.</p>
+
+  <h3 style="{H3};margin-top:14px;">By activity type</h3>
+  <table style="{TBL}">
+    <tr>
+      <th style="{TH};width:24%;">Activity</th>
+      <th style="{TH};width:20%;">Admissions impact</th>
+      <th style="{TH}">What you should do</th>
+    </tr>
+    <tr><td style="{TD}"><b>Public Open Day</b></td><td style="{TD}"><span style="{PILL_OUT}">NEAR-ZERO</span></td><td style="{TD}">Use to evaluate <b>your</b> fit, not to impress admissions</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>Briefing Session</b></td><td style="{TD}"><span style="{PILL_CAVEAT}">REQUIRED at some</span></td><td style="{TD}">SPCC pre-P1 briefing, some DSS briefings — <b>must attend</b></td></tr>
+    <tr><td style="{TD}"><b>Private Tour (booked)</b></td><td style="{TD}"><span style="{PILL_INFO}">SOFT POSITIVE</span></td><td style="{TD}">Build relationship; ask thoughtful questions; valuable at small / rolling-admission schools</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>Admissions Interview / Assessment</b></td><td style="{TD}"><span style="{PILL_BEST}">DECISIVE</span></td><td style="{TD}">THE actual evaluation. Prepare seriously.</td></tr>
+  </table>
+
+  <h3 style="{H3};margin-top:14px;">When visits help most</h3>
+  <ul style="margin:6px 0 6px 18px;padding:0;">
+    <li><b>Rolling-admission schools</b> (AIS HK, Carmel, HKA, Malvern Pre-School): being remembered matters — small school, small intake.</li>
+    <li><b>Mandatory briefings</b> (SPCC, some DSS): attendance = baseline expectation. Skipping = negative signal.</li>
+    <li><b>Multiple touchpoints + thoughtful follow-up email</b>: marginal positive at high-demand schools.</li>
+  </ul>
+
+  <h3 style="{H3};margin-top:14px;">When visits don't help (despite the effort)</h3>
+  <ul style="margin:6px 0 6px 18px;padding:0;">
+    <li><b>Large Open Days at structured-assessment schools</b> (ESF / ISF / CDNIS): outcome decided by Play Visit, not Open Day attendance.</li>
+    <li><b>DSS Chinese-medium schools</b> (DGJS / DGS): interview + assessment dominates entirely.</li>
+  </ul>
+
+  <h3 style="{H3};margin-top:14px;">Strategic plan for our family</h3>
+  <table style="{TBL}">
+    <tr>
+      <th style="{TH};width:36%;">Action</th>
+      <th style="{TH}">Why</th>
+    </tr>
+    <tr><td style="{TD}">Visit <b>ISF + SPCC + VSA + GTC + AIS HK + Carmel</b> in next 3 months</td><td style="{TD}">For <b>your</b> fit evaluation; build soft impression at rolling-admission ones (AIS HK, Carmel)</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}">Send brief follow-up email within 48hrs after each visit</td><td style="{TD}">Confirms interest; gets you remembered without being pushy</td></tr>
+    <tr><td style="{TD}"><b>MUST attend SPCC briefing</b> (early Sep before P1 window — verify current cycle date)</td><td style="{TD}">Skipping = negative signal</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}">Focus most prep effort on <b>actual interviews / assessments</b></td><td style="{TD}">These are the real evaluation gates — Open Day attendance is noise compared to FY/EY1/Play Visit performance</td></tr>
+  </table>
+
+  <p style="margin:14px 0 0 0;"><b>One-liner:</b> Visits ≠ admission boost. Skipping required briefings = admission risk. Use visits primarily to evaluate fit yourself.</p>
+</div>
+
+<h2 style="{H2}">Carmel School — brief profile</h2>
+<div style="{CARD};border-left:4px solid {C_BEST};">
+  <table style="{TBL}">
+    <tr><td style="{TH};width:24%;">Curriculum</td><td style="{TD}">IB Continuum (PYP, MYP, DP)</td></tr>
+    <tr><td style="{TH}">Locations</td><td style="{TD}">Mid-Levels (ELC, Macdonnell Rd) + Borrett Road (Elementary) + Shau Kei Wan (Elsa High) — all close to Quarry Bay/Tutor Time area</td></tr>
+    <tr><td style="{TH}">Daughter's cohort</td><td style="{TD}"><b>Nursery AY2026/27</b> (Oct 31 cutoff = daughter eligible NOW; rolling)</td></tr>
+    <tr><td style="{TH}">Annual fee (2025/26)</td><td style="{TD}">Nursery/Pre-K HK$114K · K–Elementary HK$202K · Elsa Main HK$202K · Elsa Intl HK$237K</td></tr>
+    <tr><td style="{TH}">Capital</td><td style="{TD}"><b>NO debenture, NO ACL at Elementary</b> ✓✓ — uniquely rare in HK. ACL HK$18,520/yr only at Elsa High (G6+).</td></tr>
+    <tr><td style="{TH}">2025 IB</td><td style="{TD}">Avg 38.1, 43% over 40</td></tr>
+    <tr><td style="{TH}">Mandarin</td><td style="{TD}">Mandatory from K — fits daughter's Mandarin-dominant profile</td></tr>
+    <tr><td style="{TH}">Religious</td><td style="{TD}">Jewish ethos; explicitly accepts non-Jewish (Elsa High; ELC less explicit — verify)</td></tr>
+    <tr><td style="{TH}">Through-train</td><td style="{TD}">ELC → Elementary → Elsa High (internal continuity)</td></tr>
+    <tr><td style="{TH}">Contact</td><td style="{TD}">admissions@carmel.edu.hk · +852 3665 5388</td></tr>
+  </table>
+
+  <h3 style="{H3};margin-top:14px;">Why Carmel deserves a serious look</h3>
+  <ol style="margin:6px 0 6px 18px;padding:0;">
+    <li><b>No debenture, no ACL at Elementary</b> — uniquely rare cost structure in HK</li>
+    <li><b>Mandatory Mandarin from K</b> — fits daughter's profile</li>
+    <li><b>Daughter eligible NOW</b> for Nursery AY2026/27 (Oct 31 cutoff is favorable)</li>
+    <li><b>Convenient</b> — Shau Kei Wan / Mid-Levels close to Quarry Bay (current Tutor Time)</li>
+    <li><b>Through-train option</b> — ELC → Elementary → Elsa High = no re-application stress</li>
+    <li><b>Low-pressure community</b> — small, warm; could fit anti-rote philosophy</li>
+    <li><b>12-year cost ~HK$2.4M</b> — among the most cost-efficient options within cap</li>
+  </ol>
+
+  <h3 style="{H3};margin-top:14px;">Caveats</h3>
+  <ol style="margin:6px 0 6px 18px;padding:0;">
+    <li><b>Jewish ethos</b> — family has "mild" religious preference; need to confirm comfort with cultural environment (visit will clarify)</li>
+    <li><b>Less academic prestige</b> — IB avg 38.1 is decent but below SPCC (42.1) / GSIS (41.0) / GTC (40.04) / ISF (38.6)</li>
+    <li><b>Smaller cohort</b> — less peer diversity than larger schools</li>
+    <li><b>Less established Ivy/Oxbridge pipeline</b> vs ISF/CIS/HKIS</li>
+  </ol>
+
+  <h3 style="{H3};margin-top:14px;">Action this month</h3>
+  <ul style="margin:6px 0 6px 18px;padding:0;">
+    <li>Tour Carmel ELC (Macdonnell Road) and Elementary (Borrett Road)</li>
+    <li>Email admissions@carmel.edu.hk to confirm Oct 31 cutoff applies for daughter and ELC openness to non-Jewish applicants</li>
+    <li>Submit Nursery application AY2026/27 if interested (rolling, no deadline pressure but earlier = better)</li>
+  </ul>
+
+  <p style="margin:14px 0 0 0;"><b>Verdict for our family:</b> Tier B/C — worth visiting given (a) no-debenture cost structure, (b) Mandarin mandatory, (c) eligibility now, (d) convenient location. Could move to Tier B if family confirms comfort with Jewish-ethos community after visit.</p>
+</div>
+
 <h2 style="{H2}">Family snapshot</h2>
 <table style="{TBL}">
   <tr><td style="{TH}">Child</td><td style="{TD}">Girl, <b>DOB mid-Sep 2023</b>, currently at Tutor Time Dorset (Quarry Bay area, ~50/50 EN/CN at school)</td></tr>
@@ -1113,6 +1202,95 @@ def build_zh_html():
     「请问可以分享 Tutor Time Dorset 近年毕业生的小学去向统计吗？具体每年有多少毕业生进入 SPCC、ESF（哪几所）、ISF、VSA、CDNIS、HKA 或其他学校？是否有某些学校 Tutor Time 历来录取率较高？」
   </div>
   <p style="{MUTED};margin-top:8px;">联系：admissions@tutortime.com.hk · Dorset 校区电话（请核实）：+852 2870 1232</p>
+</div>
+
+<h2 style="{H2}">探校日（Open Day）对录取有帮助吗？</h2>
+<div style="{CARD};border-left:4px solid {C_PRIMARY};">
+  <p style="margin:0 0 10px 0;"><b>简短答案：通常没有直接帮助</b> — 但必出席的简介会很重要，对滚动招生学校的多次互动有帮助。</p>
+
+  <h3 style="{H3};margin-top:14px;">按活动类型分</h3>
+  <table style="{TBL}">
+    <tr>
+      <th style="{TH};width:24%;">活动</th>
+      <th style="{TH};width:20%;">录取影响</th>
+      <th style="{TH}">你应该做什么</th>
+    </tr>
+    <tr><td style="{TD}"><b>大型探校日</b></td><td style="{TD}"><span style="{PILL_OUT}">几乎为零</span></td><td style="{TD}">用来评估<b>你自己</b>的契合度，不是为了打动招生官</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>简介会（Briefing）</b></td><td style="{TD}"><span style="{PILL_CAVEAT}">某些学校要求</span></td><td style="{TD}">SPCC P1 申请前简介会、某些 DSS 简介会 — <b>必须出席</b></td></tr>
+    <tr><td style="{TD}"><b>个别参观（Private Tour）</b></td><td style="{TD}"><span style="{PILL_INFO}">软性正面</span></td><td style="{TD}">建立关系；问有质量的问题；对小型/滚动招生学校有用</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>招生面试 / 评估</b></td><td style="{TD}"><span style="{PILL_BEST}">决定性</span></td><td style="{TD}">真正的评估环节。认真准备。</td></tr>
+  </table>
+
+  <h3 style="{H3};margin-top:14px;">什么情况下探校最有帮助</h3>
+  <ul style="margin:6px 0 6px 18px;padding:0;">
+    <li><b>滚动招生学校</b>（AIS HK、Carmel、HKA、Malvern Pre-School）：被记住 = 加分 — 学校小、招生量小</li>
+    <li><b>必出席的简介会</b>（SPCC、某些 DSS）：出席 = 基本期望。缺席 = 负面信号</li>
+    <li><b>多次互动 + 有质量的跟进电邮</b>：对竞争激烈的学校有边际作用</li>
+  </ul>
+
+  <h3 style="{H3};margin-top:14px;">什么情况下探校无帮助（即使付出努力）</h3>
+  <ul style="margin:6px 0 6px 18px;padding:0;">
+    <li><b>结构化评估为主的学校</b>（ESF / ISF / CDNIS）：录取由 Play Visit 决定，与 Open Day 出席无关</li>
+    <li><b>DSS 本地学校</b>（DGJS / DGS）：面试 + 笔试完全主导</li>
+  </ul>
+
+  <h3 style="{H3};margin-top:14px;">给本家庭的策略</h3>
+  <table style="{TBL}">
+    <tr>
+      <th style="{TH};width:36%;">行动</th>
+      <th style="{TH}">为何</th>
+    </tr>
+    <tr><td style="{TD}">未来 3 个月探访 <b>ISF + SPCC + VSA + GTC + AIS HK + Carmel</b></td><td style="{TD}">为<b>自己</b>评估契合度；对滚动招生（AIS HK、Carmel）建立软性印象</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}">每次参访后 48 小时内发简短跟进电邮</td><td style="{TD}">确认意向；让人记住但不显急切</td></tr>
+    <tr><td style="{TD}"><b>必须出席 SPCC 简介会</b>（9 月初 P1 窗口前 — 请核实当前周期日期）</td><td style="{TD}">缺席 = 负面信号</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}">主要精力放在 <b>实际面试 / 评估</b> 准备上</td><td style="{TD}">这才是真正的录取关卡 — Open Day 出席与 FY/EY1/Play Visit 表现相比是噪音</td></tr>
+  </table>
+
+  <p style="margin:14px 0 0 0;"><b>一句话：</b>探校 ≠ 录取加分。缺席必出席的简介会 = 录取风险。探校主要用来自己评估契合度。</p>
+</div>
+
+<h2 style="{H2}">Carmel School — 简介</h2>
+<div style="{CARD};border-left:4px solid {C_BEST};">
+  <table style="{TBL}">
+    <tr><td style="{TH};width:24%;">课程</td><td style="{TD}">IB Continuum（PYP, MYP, DP）</td></tr>
+    <tr><td style="{TH}">位置</td><td style="{TD}">半山（ELC，麦当奴道）+ 波老道（小学）+ 筲箕湾（Elsa 高中）— 都靠近鲗鱼涌/Tutor Time 一带</td></tr>
+    <tr><td style="{TH}">女儿年龄层</td><td style="{TD}"><b>Nursery AY2026/27</b>（10 月 31 日截止 = 女儿现在符合；滚动）</td></tr>
+    <tr><td style="{TH}">年学费 (2025/26)</td><td style="{TD}">Nursery/Pre-K 港币 114K · K-小学 港币 202K · Elsa Main 港币 202K · Elsa Intl 港币 237K</td></tr>
+    <tr><td style="{TH}">资本费</td><td style="{TD}"><b>无债权，小学无 ACL</b> ✓✓ — 香港罕见。Elsa 高中（G6+）才有 ACL 港币 18,520/年。</td></tr>
+    <tr><td style="{TH}">2025 IB</td><td style="{TD}">平均 38.1，43% 超 40</td></tr>
+    <tr><td style="{TH}">普通话</td><td style="{TD}">K 起必修 — 契合女儿普通话主导的语言基础</td></tr>
+    <tr><td style="{TH}">宗教</td><td style="{TD}">犹太教育理念；明确接受非犹太家庭（Elsa High；ELC 较不明确 — 请核实）</td></tr>
+    <tr><td style="{TH}">直通车</td><td style="{TD}">ELC → 小学 → Elsa High（内部连续性）</td></tr>
+    <tr><td style="{TH}">联系</td><td style="{TD}">admissions@carmel.edu.hk · +852 3665 5388</td></tr>
+  </table>
+
+  <h3 style="{H3};margin-top:14px;">Carmel 值得认真考虑的理由</h3>
+  <ol style="margin:6px 0 6px 18px;padding:0;">
+    <li><b>无债权、小学无 ACL</b> — 香港罕见的成本结构</li>
+    <li><b>K 起必修普通话</b> — 契合女儿的语言基础</li>
+    <li><b>女儿现在就符合</b>资格申请 Nursery AY2026/27（10 月 31 日截止有利）</li>
+    <li><b>位置便利</b> — 筲箕湾 / 半山距离鲗鱼涌（现 Tutor Time）很近</li>
+    <li><b>直通车选项</b> — ELC → 小学 → Elsa High = 无需重新申请的压力</li>
+    <li><b>低压力社区</b> — 小、温暖；契合反应试理念</li>
+    <li><b>12 年总成本约港币 240 万</b> — 上限内最具成本效益的选择之一</li>
+  </ol>
+
+  <h3 style="{H3};margin-top:14px;">注意事项</h3>
+  <ol style="margin:6px 0 6px 18px;padding:0;">
+    <li><b>犹太教育理念</b> — 家庭「略有」宗教偏好；需确认对文化环境的舒适度（参访时可澄清）</li>
+    <li><b>学术声誉略低</b> — IB 平均 38.1 不错但低于 SPCC（42.1）/ GSIS（41.0）/ GTC（40.04）/ ISF（38.6）</li>
+    <li><b>学生群体较小</b> — 同学多样性不如大型学校</li>
+    <li><b>Ivy/Oxbridge 输送渠道不及</b> ISF/CIS/HKIS 等老牌国际学校</li>
+  </ol>
+
+  <h3 style="{H3};margin-top:14px;">本月行动</h3>
+  <ul style="margin:6px 0 6px 18px;padding:0;">
+    <li>参观 Carmel ELC（麦当奴道）和小学（波老道）</li>
+    <li>电邮 admissions@carmel.edu.hk 确认 10 月 31 日截止日适用于女儿，并询问 ELC 是否接受非犹太家庭</li>
+    <li>如有兴趣，提交 Nursery AY2026/27 申请（滚动，无截止日压力但越早越好）</li>
+  </ul>
+
+  <p style="margin:14px 0 0 0;"><b>我们家庭的结论：</b>第二/三梯队 — 值得参访，因为：(a) 无债权成本结构、(b) 普通话必修、(c) 现在就符合资格、(d) 位置便利。如家庭参访后确认接受犹太教育理念社区，可升至第二梯队。</p>
 </div>
 
 <h2 style="{H2}">家庭概况</h2>
