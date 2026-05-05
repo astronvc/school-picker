@@ -549,6 +549,126 @@ def build_en_html():
   <p style="margin:14px 0 0 0;{MUTED}"><b>Family decision:</b> earlier user said geography wasn't a primary factor — but with a 12-year commitment, daily 1.5–2hr cross-harbour round-trip is a real burden on the child. Worth re-weighing convenient Kowloon-side options (AIS HK, AISHK, DGJS, Stamford, ESF Kowloon schools) vs HK Island top-fits (SPCC, ISF, VSA).</p>
 </div>
 
+<h2 style="{H2_BEST}">ESF + Victoria Kindergarten campuses — VERIFIED per-campus deep dive</h2>
+<div style="{FEEDER_CARD}">
+  <p style="margin:0 0 10px 0;"><b>Major finding</b>: Daughter (born mid-Sep 2023) is <b>ON-COHORT for K1 AY2026/27</b> at both networks. Central rounds closed (VK Oct 27, 2025; ESF Sep 30, 2025) — <b>but late waitlist remains open at all schools</b>. <b>This is THE optimal application window we have not yet missed</b> (next year she'd be K2 entrant, vacancy-only). Apply this week for parallel chances.</p>
+
+  <h3 style="{H3};margin-top:14px;">Five critical findings</h3>
+  <ol style="margin:6px 0 6px 18px;padding:0;">
+    <li><b style="color:{C_DANGER};">VK does NOT have a Kowloon Tong campus.</b> Closest VEO campuses: <b>Homantin (7 min MTR / 5 min car from KLT — 1 stop)</b> and <b>Harbour Green Olympic (12 min MTR)</b>. Other 7 VEO campuses are HK Island or Tsuen Wan.</li>
+    <li><b>VEO → VSA pipeline VERIFIED</b>: 694 VEO graduates → VSA Y1 offers AY21/22–24/25 = <b>~173/yr ≥ VSA's ~150 places/yr</b>. <b>Equal priority across ALL 8 VEO campuses</b> — no per-campus tier. VEO kindergarten = near-guaranteed VSA Y1 path provided child clears Y1 group interview.</li>
+    <li><b>VEO has NO debenture or capital fee at the kindergarten level</b> — only HK$40 application + HK$970 registration. Major cost advantage vs ESF (which requires HK$500K Class A Debenture for priority).</li>
+    <li><b>ESF major restructuring Aug 2026</b>: Tung Chung CLOSES (relocates to new Sai Sha campus); Abacus (Quarry Bay) CLOSES June 2027. <b>3 NEW kindergartens open Aug 2026</b>: Sai Sha (Renaissance dual-language with GUARANTEED RCHK Y1–Y13 through-train), Kornhill (Quarry Bay Primary→SIS feeder), West Kowloon (12 min MTR from KLT — best ESF commute for our family).</li>
+    <li><b>NO ESF kindergarten in Kowloon Tong itself.</b> But <b>ESF Beacon Hill Primary IS in Kowloon Tong</b> (walking distance from Tutor Time) — accessible only via direct Y1 entry with INR HK$500K, NOT via ESF kindergarten.</li>
+  </ol>
+
+  <h3 style="{H3};margin-top:14px;">Top 3 candidates for our family (rank-ordered)</h3>
+
+  <h3 style="margin:14px 0 6px 0;color:{C_BEST};font-size:15px;">⭐ #1. Victoria Kindergarten Homantin — closest to KLT</h3>
+  <table style="{TBL}">
+    <tr><td style="{TH};width:24%;">Address</td><td style="{TD}">1/F & G/F, Carmel-on-the-Hill, 9 Carmel Village Street, Ho Man Tin</td></tr>
+    <tr><td style="{TH}">Commute from KLT</td><td style="{TD}"><b>7 min MTR (1 stop) / 5 min car</b> — closest VK</td></tr>
+    <tr><td style="{TH}">Curriculum</td><td style="{TD}">IB PYP + Columbia Teachers College Reading & Writing Project; <b>trilingual (EN/PTH/Cantonese) one-teacher-one-language</b> + bilingual stream available</td></tr>
+    <tr><td style="{TH}">Capacity / ratio</td><td style="{TD}">~300 students; 1:7–9 student-teacher ratio</td></tr>
+    <tr><td style="{TH}">AY2026/27 fee</td><td style="{TD}">~HK$90K–173K (K1 half-day ~HK$90K; full-day ~HK$140K) [verify]</td></tr>
+    <tr><td style="{TH}">Capital / debenture</td><td style="{TD}"><b>NONE</b> ✓ Just HK$40 application + HK$970 registration</td></tr>
+    <tr><td style="{TH}">VSA priority</td><td style="{TD}">Equal to all VEO campuses (near-guaranteed Y1 with adequate group interview)</td></tr>
+    <tr><td style="{TH}">Application status</td><td style="{TD}">Central round closed 2025-10-27; <b>"Apply Now" late waitlist still accepting</b>. Processing begins Jan 2026 if vacancies</td></tr>
+    <tr><td style="{TH}">Estimated chance (waitlist)</td><td style="{TD}"><b>30–40%</b> for daughter</td></tr>
+    <tr><td style="{TH}">Apply at</td><td style="{TD}"><a style="{LINK}" href="https://www.victoria.edu.hk/application-procedure/">victoria.edu.hk/application-procedure</a> · email vkhomantin@victoria.edu.hk</td></tr>
+  </table>
+  <p style="margin:8px 0;"><b style="color:{C_BEST};">Why #1:</b> Walking/1-stop MTR distance, no debenture, trilingual matches our home Mandarin profile, near-guaranteed VSA pipeline. Single best option.</p>
+
+  <h3 style="margin:14px 0 6px 0;color:{C_BEST};font-size:15px;">⭐ #2. Victoria Kindergarten Harbour Green — Olympic / Tai Kok Tsui</h3>
+  <table style="{TBL}">
+    <tr><td style="{TH};width:24%;">Address</td><td style="{TD}">G/F, Harbour Green, 8 Sham Mong Road, Tai Kok Tsui (Olympic MTR)</td></tr>
+    <tr><td style="{TH}">Commute from KLT</td><td style="{TD}"><b>12 min MTR</b> (KLT → Mong Kok East walk → Mong Kok → Olympic)</td></tr>
+    <tr><td style="{TH}">Capacity</td><td style="{TD}"><b>~430 students</b> — VEO's largest Kowloon campus</td></tr>
+    <tr><td style="{TH}">Curriculum</td><td style="{TD}">IB PYP, trilingual + bilingual streams (same as Homantin)</td></tr>
+    <tr><td style="{TH}">AY2026/27 fee</td><td style="{TD}">~HK$90–117K [verify]</td></tr>
+    <tr><td style="{TH}">Capital</td><td style="{TD}"><b>NONE</b> ✓</td></tr>
+    <tr><td style="{TH}">Estimated chance (waitlist)</td><td style="{TD}"><b>35–45%</b> — bigger campus = more places + movement</td></tr>
+  </table>
+  <p style="margin:8px 0;"><b style="color:{C_BEST};">Why #2:</b> Slightly longer commute than Homantin but largest VEO Kowloon campus = better statistical waitlist movement. Apply both Homantin AND Harbour Green to maximize chances (one application fee covers multi-campus).</p>
+
+  <h3 style="margin:14px 0 6px 0;color:{C_PRIMARY};font-size:15px;">⭐ #3 (hedge). ESF West Kowloon Kindergarten (NEW Aug 2026)</h3>
+  <table style="{TBL}">
+    <tr><td style="{TH};width:24%;">Address</td><td style="{TD}">Olympic / West Kowloon (NEW, opens Aug 2026)</td></tr>
+    <tr><td style="{TH}">Commute from KLT</td><td style="{TD}"><b>~12 min MTR</b> — best ESF kindergarten for our location</td></tr>
+    <tr><td style="{TH}">Curriculum</td><td style="{TD}">English-medium PYP-based (Mandarin: low — token classes only)</td></tr>
+    <tr><td style="{TH}">Through-train</td><td style="{TD}">Priority to Clearwater Bay Primary OR Kennedy Primary [verify]</td></tr>
+    <tr><td style="{TH}">AY2026/27 fee</td><td style="{TD}">TBC — likely ~HK$110–125K</td></tr>
+    <tr><td style="{TH}">Capital</td><td style="{TD}">Optional <b>Class A Debenture HK$500K</b> (refundable HK$50K deposit; converts to INR for Y1) — within cap</td></tr>
+    <tr><td style="{TH}">Application status</td><td style="{TD}">New school = untested demand; <b>late waitlist may have movement</b></td></tr>
+    <tr><td style="{TH}">Estimated chance</td><td style="{TD}">25–35% (no debenture) → <b>70–80% with HK$500K debenture</b></td></tr>
+  </table>
+  <p style="margin:8px 0;"><b style="color:{C_PRIMARY};">Why #3:</b> Best ESF commute for our family. NEW school = uncertainty but also better waitlist odds. Hedge against missing both VK options. Class A Debenture HK$500K is within cap and converts to INR for primary (effectively "free upgrade" to Y1 priority).</p>
+
+  <h3 style="{H3};margin-top:14px;">Other ESF kindergartens (briefly)</h3>
+  <table style="{TBL}">
+    <tr>
+      <th style="{TH};width:24%;">Campus</th>
+      <th style="{TH};width:18%;">Commute</th>
+      <th style="{TH};width:18%;">Mandarin</th>
+      <th style="{TH}">Verdict</th>
+    </tr>
+    <tr><td style="{TD}"><b>ESF Renaissance Sai Sha (NEW)</b></td><td style="{TD}">40–55 min car (no MTR walk-up)</td><td style="{TD}">High (dual-language)</td><td style="{TD}"><b>GUARANTEED RCHK Y1–Y13 through-train</b> — strongest feeder in ESF system. But geography forecloses unless family relocates. Worth knowing exists.</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>ESF Quarry Bay/Kornhill (NEW)</b></td><td style="{TD}">25–30 min cross-harbour</td><td style="{TD}">Low</td><td style="{TD}">Guaranteed Quarry Bay Primary → SIS path. Hedge if HK Island viable.</td></tr>
+    <tr><td style="{TD}"><b>ESF Tsing Yi</b></td><td style="{TD}">30 min MTR</td><td style="{TD}">Low</td><td style="{TD}">Easiest to get into (lowest demand). Skip unless desperate.</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>ESF Hillside / Wu Kai Sha</b></td><td style="{TD}">35–50 min</td><td style="{TD}">Low</td><td style="{TD}">Skip — geography + Mandarin mismatch waste our advantages</td></tr>
+    <tr><td style="{TD}"><b>ESF Abacus (Quarry Bay)</b></td><td style="{TD}">25 min MTR cross-harbour</td><td style="{TD}">High (bilingual stream)</td><td style="{TD}"><b>CLOSING June 2027</b> — not viable for our K1 AY2026/27</td></tr>
+  </table>
+
+  <h3 style="{H3};margin-top:14px;">Other VK campuses (briefly)</h3>
+  <p style="margin:6px 0;{MUTED}">7 other VEO campuses (Causeway Bay, Belcher, Kornhill x3, South Horizons, Harbour Heights nursery, Ocean Pride Tsuen Wan) are all on HK Island or NT — 25–45 min commute. Same VSA priority but worse geography = skip in favor of Homantin + Harbour Green. <b>Exception: Ocean Pride Tsuen Wan</b> (25–30 min, newer & smaller = potentially better waitlist movement) as a long-shot backup.</p>
+
+  <h3 style="{H3};margin-top:14px;">Strategic recommendation — three-track parallel application THIS WEEK</h3>
+  <table style="{TBL}">
+    <tr>
+      <th style="{TH};width:30%;">Track</th>
+      <th style="{TH};width:18%;">Cost</th>
+      <th style="{TH}">Action</th>
+    </tr>
+    <tr><td style="{TD}"><b>A. VK Homantin (1st choice)</b></td><td style="{TD}">HK$40 application</td><td style="{TD}">Submit "Apply Now" via victoria.edu.hk listing Homantin as 1st preference. Email vkhomantin@victoria.edu.hk indicating K1 AY2026/27 interest.</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>B. VK Harbour Green (2nd choice)</b></td><td style="{TD}">Same HK$40 fee</td><td style="{TD}">List Harbour Green as 2nd preference (multi-campus list covered by single fee).</td></tr>
+    <tr><td style="{TD}"><b>C. ESF West Kowloon (hedge)</b></td><td style="{TD}">HK$1,500 + optional HK$500K debenture (refundable HK$50K deposit)</td><td style="{TD}">Email <code>2026K1@esfcentre.edu.hk</code> requesting late application for K1 AY2026/27 at ESF West Kowloon. Decide Class A Debenture submission separately.</td></tr>
+  </table>
+
+  <h3 style="{H3};margin-top:14px;">Aggregate chance estimates</h3>
+  <ul style="margin:6px 0 6px 18px;padding:0;">
+    <li><b>Without debenture (3 free applications)</b>: ~60–70% chance of at least one K1 AY2026/27 offer</li>
+    <li><b>With ESF Class A Debenture HK$500K added</b>: ~85–90% chance</li>
+    <li><b>If no offer by July 2026</b>: stay at Tutor Time + pivot to ESF Y1 AY2028/29 direct entry route (apply Sep 2027 with INR HK$500K, target ESF Beacon Hill Primary in KLT or Kowloon Junior School)</li>
+  </ul>
+
+  <h3 style="{H3};margin-top:14px;">VK + ESF: full holistic comparison</h3>
+  <table style="{TBL}">
+    <tr>
+      <th style="{TH};width:24%;">Dimension</th>
+      <th style="{TH};width:38%;">Victoria Kindergarten (VEO)</th>
+      <th style="{TH}">ESF Kindergarten</th>
+    </tr>
+    <tr><td style="{TH}">Network philosophy</td><td style="{TD}">Founded 1965; trilingual / bilingual; one-teacher-one-language; PYP IB</td><td style="{TD}">Founded 1967 by HK Govt; English-medium primarily; PYP-based; emphasis on outdoor / project-based</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TH}">Mandarin emphasis</td><td style="{TD}"><b>Strong (50/50 EN/CN at all campuses)</b></td><td style="{TD}">Low at most campuses; HIGH only at Renaissance Bilingual / West Kowloon Bilingual / Sai Sha (new)</td></tr>
+    <tr><td style="{TH}">Capital fee at KG level</td><td style="{TD}"><b>NONE</b> — HK$40 + HK$970 only</td><td style="{TD}">HK$1,500 application + HK$9,000 deposit + optional HK$500K Class A Debenture</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TH}">Through-train guarantee</td><td style="{TD}">Priority (not guaranteed) to VSA Y1 — but ~173/yr offers vs ~150 places means effectively guaranteed</td><td style="{TD}">Sai Sha = guaranteed RCHK Y1–Y13. Other ESF KGs: priority only via central allocation; no guarantee.</td></tr>
+    <tr><td style="{TH}">Class size / ratio</td><td style="{TD}">1:7–9 (VK Homantin)</td><td style="{TD}">~1:14 (varies by campus)</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TH}">Best for our family</td><td style="{TD}">Homantin (7 min MTR), Harbour Green (12 min)</td><td style="{TD}">West Kowloon (12 min) or Sai Sha (40-55 min, RCHK guaranteed)</td></tr>
+    <tr><td style="{TH}">Cost over 3 years (K1–K3)</td><td style="{TD}">~HK$300K–500K (no debenture)</td><td style="{TD}">~HK$330K–360K + optional HK$500K debenture</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TH}">Total cap impact (12-yr education)</td><td style="{TD}">VEO KG → VSA = ~HK$2.5M (no debenture)</td><td style="{TD}">ESF KG → ESF Primary/Secondary = ~HK$2.1–2.5M (with HK$500K INR or NCL only)</td></tr>
+  </table>
+
+  <h3 style="{H3};margin-top:14px;">What NOT to do</h3>
+  <ul style="margin:6px 0 6px 18px;padding:0;">
+    <li><b>DO NOT pay for a "VK debenture"</b> — doesn't exist at kindergarten level (only HK$3M+ at VSA itself)</li>
+    <li><b>DO NOT pursue ESF Hillside / Wu Kai Sha</b> — geography + Mandarin mismatch waste our advantages</li>
+    <li><b>DO NOT submit AY2027/28 Pre-K applications</b> for ESF (wrong cohort — daughter is too old)</li>
+    <li><b>DO NOT hold out for ESF Sai Sha guaranteed RCHK path</b> unless willing to relocate to Sai Sha / Ma On Shan</li>
+  </ul>
+
+  <p style="margin:14px 0 0 0;{MUTED}">Full primary-source verified detail (618 lines, 50+ sources): <code>02-schools/esf-vk-kindergartens-deep-dive.md</code></p>
+</div>
+
 <h2 style="{H2}">School visits (Open Days) — do they help admissions?</h2>
 <div style="{CARD};border-left:4px solid {C_PRIMARY};">
   <p style="margin:0 0 10px 0;"><b>Short answer: usually NOT directly</b> — but mandatory briefings matter, and engagement with rolling-admissions schools matters.</p>
@@ -1307,6 +1427,126 @@ def build_zh_html():
   </ul>
 
   <p style="margin:14px 0 0 0;{MUTED}"><b>家庭决策：</b>之前用户表示地理不是主要因素 — 但 12 年承诺中，每日往返 1.5-2 小时过海通勤对孩子是真实负担。值得重新权衡九龙侧便利选项（AIS HK、AISHK、DGJS、Stamford、ESF 九龙学校）vs 港岛顶尖匹配（SPCC、ISF、VSA）。</p>
+</div>
+
+<h2 style="{H2_BEST}">ESF + Victoria 幼稚园 — 已核实校区深度比较</h2>
+<div style="{FEEDER_CARD}">
+  <p style="margin:0 0 10px 0;"><b>重大发现</b>：女儿（生于 2023 年 9 月中）<b>属于 AY2026/27 K1 入学年龄层</b>，两个网络都符合。中央录取轮次已结束（VK 2025-10-27；ESF 2025-09-30）— <b>但所有学校的候补名单仍开放</b>。<b>这是我们尚未错过的最佳申请窗口</b>（明年她将是 K2 入学者，仅有空缺时才能进）。本周内并行申请以最大化机会。</p>
+
+  <h3 style="{H3};margin-top:14px;">五大关键发现</h3>
+  <ol style="margin:6px 0 6px 18px;padding:0;">
+    <li><b style="color:{C_DANGER};">VK 在九龙塘没有校区。</b>最近的 VEO 校区：<b>Homantin（7 分钟地铁 / 5 分钟车程，1 站）</b>和 <b>Harbour Green Olympic（12 分钟地铁）</b>。其他 7 个 VEO 校区都在港岛或荃湾。</li>
+    <li><b>VEO → VSA 输送通道已核实</b>：AY21/22–24/25 共有 694 名 VEO 毕业生 → VSA Y1 录取 = <b>每年约 173 人 ≥ VSA 约 150 个名额</b>。<b>所有 8 个 VEO 校区的 VSA 优先权相同</b> — 没有校区分级。VEO 幼稚园 = 几乎保证 VSA Y1 入学路径，前提是孩子通过 Y1 小组面试。</li>
+    <li><b>VEO 在幼稚园层级没有债权或资本费</b> — 仅港币 40 申请费 + 港币 970 注册费。相对 ESF（需港币 50 万 Class A 债权才有优先权）有重大成本优势。</li>
+    <li><b>ESF 2026 年 8 月重大重组</b>：东涌关闭（迁至新 Sai Sha 校区）；Abacus（鲗鱼涌）2027 年 6 月关闭。<b>2026 年 8 月开放 3 个新幼稚园</b>：Sai Sha（Renaissance 双语，<b>保证 RCHK Y1–Y13 直通车</b>）、Kornhill（Quarry Bay Primary→SIS feeder）、West Kowloon（距 KLT 12 分钟地铁 — 对我们家庭最便利的 ESF 通勤）。</li>
+    <li><b>九龙塘本身没有 ESF 幼稚园。</b>但 <b>ESF Beacon Hill 小学就在九龙塘</b>（距 Tutor Time 步行可达）— 仅可通过 Y1 直接入学 + INR 港币 50 万进入，<b>不能</b>通过 ESF 幼稚园。</li>
+  </ol>
+
+  <h3 style="{H3};margin-top:14px;">本家庭的前 3 大候选（按排序）</h3>
+
+  <h3 style="margin:14px 0 6px 0;color:{C_BEST};font-size:15px;">⭐ #1. Victoria Kindergarten Homantin — 距 KLT 最近</h3>
+  <table style="{TBL}">
+    <tr><td style="{TH};width:24%;">地址</td><td style="{TD}">1/F & G/F, Carmel-on-the-Hill, 九龙何文田卡梅尔村街 9 号</td></tr>
+    <tr><td style="{TH}">从 KLT 通勤</td><td style="{TD}"><b>7 分钟地铁（1 站）/ 5 分钟车程</b> — 最近的 VK</td></tr>
+    <tr><td style="{TH}">课程</td><td style="{TD}">IB PYP + Columbia Teachers College Reading & Writing 框架；<b>三语（英语/普通话/广东话）一师一语</b> + 双语流</td></tr>
+    <tr><td style="{TH}">规模 / 比例</td><td style="{TD}">~300 名学生；师生比 1:7–9</td></tr>
+    <tr><td style="{TH}">AY2026/27 学费</td><td style="{TD}">~港币 90K–173K（K1 半日约 90K；全日约 140K）[请核实]</td></tr>
+    <tr><td style="{TH}">资本费 / 债权</td><td style="{TD}"><b>无</b> ✓ 仅港币 40 申请费 + 港币 970 注册费</td></tr>
+    <tr><td style="{TH}">VSA 优先权</td><td style="{TD}">与所有 VEO 校区相同（小组面试合格者近乎保证 Y1 入学）</td></tr>
+    <tr><td style="{TH}">申请状态</td><td style="{TD}">中央轮次 2025-10-27 截止；<b>"Apply Now" 候补名单仍接受</b>。如有空位，2026 年 1 月起处理</td></tr>
+    <tr><td style="{TH}">候补名单概率估计</td><td style="{TD}">女儿约 <b>30–40%</b></td></tr>
+    <tr><td style="{TH}">申请</td><td style="{TD}"><a style="{LINK}" href="https://www.victoria.edu.hk/application-procedure/">victoria.edu.hk/application-procedure</a> · 邮箱 vkhomantin@victoria.edu.hk</td></tr>
+  </table>
+  <p style="margin:8px 0;"><b style="color:{C_BEST};">为什么排第 1：</b>步行/1 站地铁距离、无债权、三语契合家庭普通话基础、近乎保证 VSA 通道。最佳单一选项。</p>
+
+  <h3 style="margin:14px 0 6px 0;color:{C_BEST};font-size:15px;">⭐ #2. Victoria Kindergarten Harbour Green — Olympic / 大角咀</h3>
+  <table style="{TBL}">
+    <tr><td style="{TH};width:24%;">地址</td><td style="{TD}">G/F, Harbour Green, 九龙大角咀深旺道 8 号（Olympic 地铁站）</td></tr>
+    <tr><td style="{TH}">从 KLT 通勤</td><td style="{TD}"><b>12 分钟地铁</b>（KLT → 旺角东步行 → 旺角 → 奥运）</td></tr>
+    <tr><td style="{TH}">规模</td><td style="{TD}"><b>~430 名学生</b> — VEO 九龙最大校区</td></tr>
+    <tr><td style="{TH}">课程</td><td style="{TD}">IB PYP，三语 + 双语流（与 Homantin 相同）</td></tr>
+    <tr><td style="{TH}">AY2026/27 学费</td><td style="{TD}">~港币 90–117K [请核实]</td></tr>
+    <tr><td style="{TH}">资本费</td><td style="{TD}"><b>无</b> ✓</td></tr>
+    <tr><td style="{TH}">候补名单概率估计</td><td style="{TD}"><b>35–45%</b> — 校区更大 = 名额更多 + 流动性更好</td></tr>
+  </table>
+  <p style="margin:8px 0;"><b style="color:{C_BEST};">为什么排第 2：</b>通勤略长于 Homantin，但 VEO 九龙最大校区 = 候补名单流动性统计上更佳。同时申请 Homantin 和 Harbour Green 以最大化机会（一份申请费涵盖多校区）。</p>
+
+  <h3 style="margin:14px 0 6px 0;color:{C_PRIMARY};font-size:15px;">⭐ #3（备选）. ESF West Kowloon Kindergarten（2026 年 8 月新开）</h3>
+  <table style="{TBL}">
+    <tr><td style="{TH};width:24%;">地址</td><td style="{TD}">奥运 / 西九龙（新校，2026 年 8 月开放）</td></tr>
+    <tr><td style="{TH}">从 KLT 通勤</td><td style="{TD}"><b>~12 分钟地铁</b> — 对我们位置最便利的 ESF 幼稚园</td></tr>
+    <tr><td style="{TH}">课程</td><td style="{TD}">英语为教学语言的 PYP（普通话：低 — 仅基础课）</td></tr>
+    <tr><td style="{TH}">直通车</td><td style="{TD}">优先入读清水湾小学或肯尼迪小学 [请核实]</td></tr>
+    <tr><td style="{TH}">AY2026/27 学费</td><td style="{TD}">待定 — 估计 ~港币 110–125K</td></tr>
+    <tr><td style="{TH}">资本费</td><td style="{TD}">可选 <b>Class A 债权 港币 50 万</b>（可退港币 50K 押金；自动转为 Y1 INR）— 在上限内</td></tr>
+    <tr><td style="{TH}">申请状态</td><td style="{TD}">新校 = 需求不确定；<b>候补名单可能有流动</b></td></tr>
+    <tr><td style="{TH}">概率估计</td><td style="{TD}">25–35%（无债权）→ <b>70–80%（持有港币 50 万债权）</b></td></tr>
+  </table>
+  <p style="margin:8px 0;"><b style="color:{C_PRIMARY};">为什么排第 3：</b>对我们家庭最佳的 ESF 通勤。新校 = 不确定性但候补流动性也更好。作为 VK 双重落选的对冲。Class A 债权 港币 50 万在上限内，且可转为小学的 INR（实际是"免费升级"到 Y1 优先权）。</p>
+
+  <h3 style="{H3};margin-top:14px;">其他 ESF 幼稚园（简要）</h3>
+  <table style="{TBL}">
+    <tr>
+      <th style="{TH};width:24%;">校区</th>
+      <th style="{TH};width:18%;">通勤</th>
+      <th style="{TH};width:18%;">普通话</th>
+      <th style="{TH}">结论</th>
+    </tr>
+    <tr><td style="{TD}"><b>ESF Renaissance Sai Sha（新）</b></td><td style="{TD}">40–55 分钟车程（无地铁直达）</td><td style="{TD}">高（双语）</td><td style="{TD}"><b>保证 RCHK Y1–Y13 直通车</b> — ESF 系统最强 feeder。但地理位置除非家庭搬迁否则不可行。值得知道存在。</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>ESF Quarry Bay/Kornhill（新）</b></td><td style="{TD}">25–30 分钟过海</td><td style="{TD}">低</td><td style="{TD}">保证 Quarry Bay Primary → SIS 路径。如港岛可行，作为对冲。</td></tr>
+    <tr><td style="{TD}"><b>ESF Tsing Yi</b></td><td style="{TD}">30 分钟地铁</td><td style="{TD}">低</td><td style="{TD}">最容易入学（需求最低）。除非走投无路否则跳过。</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>ESF Hillside / Wu Kai Sha</b></td><td style="{TD}">35–50 分钟</td><td style="{TD}">低</td><td style="{TD}">跳过 — 地理 + 普通话不匹配，浪费我们的优势</td></tr>
+    <tr><td style="{TD}"><b>ESF Abacus（鲗鱼涌）</b></td><td style="{TD}">25 分钟过海</td><td style="{TD}">高（双语流）</td><td style="{TD}"><b>2027 年 6 月关闭</b> — 对 K1 AY2026/27 不可行</td></tr>
+  </table>
+
+  <h3 style="{H3};margin-top:14px;">其他 VK 校区（简要）</h3>
+  <p style="margin:6px 0;{MUTED}">其他 7 个 VEO 校区（铜锣湾、卑路乍、康山 x3、海怡半岛、北角港湾豪庭幼儿园、荃湾 Ocean Pride）都在港岛或新界 — 25-45 分钟通勤。VSA 优先权相同但地理位置较差 = 优先选 Homantin + Harbour Green。<b>例外：Ocean Pride 荃湾</b>（25-30 分钟，新校 + 较小 = 候补流动性可能更好）作为远程备选。</p>
+
+  <h3 style="{H3};margin-top:14px;">战略建议 — 本周内三轨平行申请</h3>
+  <table style="{TBL}">
+    <tr>
+      <th style="{TH};width:30%;">轨道</th>
+      <th style="{TH};width:18%;">成本</th>
+      <th style="{TH}">行动</th>
+    </tr>
+    <tr><td style="{TD}"><b>A. VK Homantin（第一选）</b></td><td style="{TD}">港币 40 申请费</td><td style="{TD}">通过 victoria.edu.hk 提交"Apply Now"，将 Homantin 列为首选。电邮 vkhomantin@victoria.edu.hk 表明对 K1 AY2026/27 的兴趣。</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b>B. VK Harbour Green（第二选）</b></td><td style="{TD}">同样 港币 40 费</td><td style="{TD}">将 Harbour Green 列为第二偏好（多校区列表由单一申请费涵盖）。</td></tr>
+    <tr><td style="{TD}"><b>C. ESF West Kowloon（对冲）</b></td><td style="{TD}">港币 1,500 + 可选 港币 50 万债权（可退港币 50K 押金）</td><td style="{TD}">电邮 <code>2026K1@esfcentre.edu.hk</code> 申请 ESF West Kowloon K1 AY2026/27 的延后申请。Class A 债权另行决定是否提交。</td></tr>
+  </table>
+
+  <h3 style="{H3};margin-top:14px;">综合概率估计</h3>
+  <ul style="margin:6px 0 6px 18px;padding:0;">
+    <li><b>无债权（3 个免费申请）</b>：约 60-70% 至少获得一个 K1 AY2026/27 录取</li>
+    <li><b>加入 ESF Class A 债权 港币 50 万</b>：约 85-90%</li>
+    <li><b>如 2026 年 7 月前无录取</b>：留 Tutor Time + 转向 ESF Y1 AY2028/29 直接入学路径（2027 年 9 月申请 + INR 港币 50 万，目标 ESF Beacon Hill 小学（KLT）或 Kowloon Junior School）</li>
+  </ul>
+
+  <h3 style="{H3};margin-top:14px;">VK + ESF：完整综合比较</h3>
+  <table style="{TBL}">
+    <tr>
+      <th style="{TH};width:24%;">维度</th>
+      <th style="{TH};width:38%;">Victoria Kindergarten (VEO)</th>
+      <th style="{TH}">ESF Kindergarten</th>
+    </tr>
+    <tr><td style="{TH}">网络理念</td><td style="{TD}">1965 年创立；三语/双语；一师一语；PYP IB</td><td style="{TD}">1967 年由港府创立；以英语为主；PYP 基础；强调户外/项目式</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TH}">普通话比重</td><td style="{TD}"><b>强（所有校区 50/50 EN/CN）</b></td><td style="{TD}">多数校区低；仅 Renaissance Bilingual / West Kowloon Bilingual / Sai Sha（新）高</td></tr>
+    <tr><td style="{TH}">幼稚园层级资本费</td><td style="{TD}"><b>无</b> — 仅 港币 40 + 港币 970</td><td style="{TD}">港币 1,500 申请费 + 港币 9,000 押金 + 可选 港币 50 万 Class A 债权</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TH}">直通车保证</td><td style="{TD}">VSA Y1 优先权（非保证）— 但每年约 173 录取 vs 150 名额，实际等同保证</td><td style="{TD}">Sai Sha = 保证 RCHK Y1-Y13。其他 ESF KG：仅经中央分配的优先权；无保证。</td></tr>
+    <tr><td style="{TH}">班级规模 / 比例</td><td style="{TD}">1:7-9（VK Homantin）</td><td style="{TD}">~1:14（按校区不同）</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TH}">对我们家庭最佳</td><td style="{TD}">Homantin（7 分钟地铁），Harbour Green（12 分钟）</td><td style="{TD}">West Kowloon（12 分钟）或 Sai Sha（40-55 分钟，保证 RCHK）</td></tr>
+    <tr><td style="{TH}">3 年成本（K1-K3）</td><td style="{TD}">~港币 30-50 万（无债权）</td><td style="{TD}">~港币 33-36 万 + 可选港币 50 万债权</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TH}">总上限影响（12 年教育）</td><td style="{TD}">VEO KG → VSA = ~港币 250 万（无债权）</td><td style="{TD}">ESF KG → ESF 小学/中学 = ~港币 210-250 万（仅含港币 50 万 INR 或 NCL）</td></tr>
+  </table>
+
+  <h3 style="{H3};margin-top:14px;">不要做的事</h3>
+  <ul style="margin:6px 0 6px 18px;padding:0;">
+    <li><b>不要为"VK 债权"付钱</b> — 幼稚园层级不存在（仅 VSA 才有港币 300 万+）</li>
+    <li><b>不要追求 ESF Hillside / Wu Kai Sha</b> — 地理 + 普通话不匹配浪费我们的优势</li>
+    <li><b>不要为 ESF 提交 AY2027/28 Pre-K 申请</b>（错误年龄层 — 女儿太大）</li>
+    <li><b>不要等待 ESF Sai Sha 保证 RCHK 路径</b>，除非愿意搬到 Sai Sha / 马鞍山</li>
+  </ul>
+
+  <p style="margin:14px 0 0 0;{MUTED}">完整一手来源核实详情（618 行，50+ 来源）：<code>02-schools/esf-vk-kindergartens-deep-dive.md</code></p>
 </div>
 
 <h2 style="{H2}">探校日（Open Day）对录取有帮助吗？</h2>
