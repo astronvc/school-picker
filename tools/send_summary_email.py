@@ -622,6 +622,74 @@ def build_en_html():
   <h3 style="{H3};margin-top:14px;">Other VK campuses (briefly)</h3>
   <p style="margin:6px 0;{MUTED}">7 other VEO campuses (Causeway Bay, Belcher, Kornhill x3, South Horizons, Harbour Heights nursery, Ocean Pride Tsuen Wan) are all on HK Island or NT — 25–45 min commute. Same VSA priority but worse geography = skip in favor of Homantin + Harbour Green. <b>Exception: Ocean Pride Tsuen Wan</b> (25–30 min, newer & smaller = potentially better waitlist movement) as a long-shot backup.</p>
 
+  <h3 style="{H3};margin-top:14px;">VK age cohort analysis — daughter is "大B" (older end of K1 cohort)</h3>
+  <p style="margin:6px 0;">VK structures K1 differently from typical international schools — K1 = ages 2y8m to 3y11m at start of academic year. Daughter (mid-Sep 2023) at Sep 2026 = 2y 11.5m → at the OLDER edge of K1 AY2026/27 cohort = "大B" (oldest).</p>
+
+  <table style="{TBL}">
+    <tr>
+      <th style="{TH};width:28%;">Entry year</th>
+      <th style="{TH};width:12%;">Level</th>
+      <th style="{TH}">Daughter's status</th>
+    </tr>
+    <tr><td style="{TD}"><b>AY2026/27 (Sep 2026)</b></td><td style="{TD}">K1</td><td style="{TD}">✅ Eligible — <b>大B (oldest in cohort)</b>. Schools generally accept oldest in class.</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}">AY2027/28 (Sep 2027)</td><td style="{TD}">K1</td><td style="{TD}">❌ Too old — at Sep 2027 she's 4 yrs = K2 age, not K1</td></tr>
+    <tr><td style="{TD}">AY2027/28</td><td style="{TD}">K2</td><td style="{TD}">⚠ Vacancy-only — VK has no K2 central application; only when K1 child leaves</td></tr>
+  </table>
+
+  <p style="margin:8px 0;"><b>Why being 大B is actually GOOD positioning</b>:</p>
+  <ul style="margin:6px 0 6px 18px;padding:0;">
+    <li>Older = more mature relative to peers = better interview/observation performance</li>
+    <li>Schools often prefer older-edge candidates (less behavioral-immaturity risk)</li>
+    <li>Deferring to K2 next year = vacancy-only + she'd be at YOUNGER end of K2 cohort = worse positioning</li>
+  </ul>
+
+  <p style="margin:8px 0;"><b>Action — confirm with VK Homantin directly</b>:</p>
+  <div style="background:{C_TBL_HDR};padding:14px;border-radius:6px;border-left:3px solid {C_PRIMARY};margin:8px 0;font-style:italic;">
+    Email vkhomantin@victoria.edu.hk:<br><br>
+    "My daughter was born mid-September 2023. Please confirm:<br>
+    1. Does she fit K1 AY2026/27 cohort or K2 AY2026/27 cohort?<br>
+    2. If K1, what is realistic late-waitlist admission probability?<br>
+    3. If K2, are there any vacancies?"
+  </div>
+
+  <p style="margin:8px 0;{MUTED}"><b>Net</b>: AY2026/27 K1 is the ONLY clean K1 window for daughter at VK — there is NO "next year" K1 alternative. Apply now via late waitlist.</p>
+
+  <h3 style="{H3};margin-top:14px;">ESF — Path A (KG continuity) vs Path B (central Y1 application)</h3>
+  <p style="margin:6px 0;">Y1 (Reception, age 5) = first year of ESF Primary. Two ways to enter — both legitimate, both common.</p>
+
+  <table style="{TBL}">
+    <tr>
+      <th style="{TH};width:24%;">Path</th>
+      <th style="{TH}">Mechanism</th>
+    </tr>
+    <tr><td style="{TD}"><b style="color:{C_BEST};">Path A — KG continuity</b></td><td style="{TD}">Child completes ESF K2 in an ESF kindergarten before Dec 1 → <b>automatic guarantee of ESF Y1 place at any ESF primary</b>. No re-application needed. Smoothest route.</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b style="color:{C_PRIMARY};">Path B — central Y1 application</b></td><td style="{TD}">Children NOT in ESF kindergarten apply directly to Y1 via central admission (Sep 1–30 of year before entry). ESF reserves substantial Y1 places for direct entrants. <b>Optional INR HK$500K</b> for priority interview.</td></tr>
+  </table>
+
+  <p style="margin:8px 0;"><b>Why both exist</b>: ESF kindergartens admit ~2,500/yr but ESF Primary has ~6,000+ Y1 places. Many families enter ESF only at Y1 (skipping KG) — from local kindergartens, VK, Tutor Time, etc. ESF actively reserves direct-Y1 capacity for them.</p>
+
+  <h3 style="{H3};margin-top:14px;">Both paths apply to daughter — depends on K1 outcome</h3>
+  <table style="{TBL}">
+    <tr>
+      <th style="{TH};width:32%;">Scenario</th>
+      <th style="{TH};width:14%;">Path</th>
+      <th style="{TH}">Action</th>
+    </tr>
+    <tr><td style="{TD}">K1 AY2026/27 succeeds at ESF West Kowloon</td><td style="{TD}"><span style="{PILL_BEST}">A</span></td><td style="{TD}">K2 in 2027 (entered before Dec 1) → automatic Y1 AY2028/29 at any ESF primary. <b>No further application needed.</b></td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}">K1 AY2026/27 fails</td><td style="{TD}"><span style="{PILL_INFO}">B</span></td><td style="{TD}">Apply Y1 AY2028/29 central window (Sep 1–30, 2027) + INR HK$500K. Target: Beacon Hill (KLT walking distance!), KJS, KGV.</td></tr>
+    <tr><td style="{TD}">VK route succeeds (Homantin/Harbour Green)</td><td style="{TD}">N/A (VSA route, not ESF)</td><td style="{TD}">Continue VK → VSA Y1 AY2029/30. ESF no longer needed.</td></tr>
+  </table>
+
+  <h3 style="{H3};margin-top:14px;">HK$500K — same money, dual use</h3>
+  <ul style="margin:6px 0 6px 18px;padding:0;">
+    <li><b>If used as Class A Debenture (K1 stage)</b>: priority Play Visit at K1 + <b>auto-converts to INR for Y1</b> (effectively "free upgrade")</li>
+    <li><b>If used as INR (Y1 stage direct)</b>: priority interview at Y1 central application</li>
+    <li><b>Either way, the money buys priority — NOT guaranteed admission.</b> Child must still pass Play Visit / interview.</li>
+    <li><b>Refundable mechanism</b>: HK$50K deposit cheque, HK$450K balance only paid on offer acceptance. If no offer, HK$50K refundable. <b>Low actual risk of unrecoverable spend.</b></li>
+  </ul>
+
+  <p style="margin:8px 0;{MUTED}"><b>Net</b>: HK$500K is highly leveraged — works for both K1 (this year) and Y1 (2 years out) routes. If pursuing ESF at all, this is the standard move.</p>
+
   <h3 style="{H3};margin-top:14px;">Strategic recommendation — three-track parallel application THIS WEEK</h3>
   <table style="{TBL}">
     <tr>
@@ -1501,6 +1569,74 @@ def build_zh_html():
 
   <h3 style="{H3};margin-top:14px;">其他 VK 校区（简要）</h3>
   <p style="margin:6px 0;{MUTED}">其他 7 个 VEO 校区（铜锣湾、卑路乍、康山 x3、海怡半岛、北角港湾豪庭幼儿园、荃湾 Ocean Pride）都在港岛或新界 — 25-45 分钟通勤。VSA 优先权相同但地理位置较差 = 优先选 Homantin + Harbour Green。<b>例外：Ocean Pride 荃湾</b>（25-30 分钟，新校 + 较小 = 候补流动性可能更好）作为远程备选。</p>
+
+  <h3 style="{H3};margin-top:14px;">VK 年龄层分析 — 女儿是「大B」（K1 年龄层最大）</h3>
+  <p style="margin:6px 0;">VK 的 K1 结构与一般国际学校不同 — K1 = 学年开始时年龄 2 岁 8 个月至 3 岁 11 个月。女儿（2023 年 9 月中）在 2026 年 9 月时 = 2 岁 11.5 个月 → 处于 K1 AY2026/27 年龄层的<b>最大端</b> = 「大B」（最年长）。</p>
+
+  <table style="{TBL}">
+    <tr>
+      <th style="{TH};width:28%;">入学年</th>
+      <th style="{TH};width:12%;">级别</th>
+      <th style="{TH}">女儿状态</th>
+    </tr>
+    <tr><td style="{TD}"><b>AY2026/27 (2026 年 9 月)</b></td><td style="{TD}">K1</td><td style="{TD}">✅ 符合 — <b>大B（年龄层最大）</b>。学校通常接受年龄上限的孩子。</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}">AY2027/28 (2027 年 9 月)</td><td style="{TD}">K1</td><td style="{TD}">❌ 太大 — 2027 年 9 月她 4 岁 = K2 年龄，非 K1</td></tr>
+    <tr><td style="{TD}">AY2027/28</td><td style="{TD}">K2</td><td style="{TD}">⚠ 仅空缺 — VK 没有 K2 中央申请；仅当 K1 学生离开时开放</td></tr>
+  </table>
+
+  <p style="margin:8px 0;"><b>为什么「大B」其实是好定位</b>：</p>
+  <ul style="margin:6px 0 6px 18px;padding:0;">
+    <li>较年长 = 相对同龄人较成熟 = 面试/观察表现更佳</li>
+    <li>学校通常偏好年龄较大的候选人（行为成熟度风险较低）</li>
+    <li>推迟到明年 K2 = 仅空缺 + 她在 K2 年龄层会是较年幼一边 = 定位较差</li>
+  </ul>
+
+  <p style="margin:8px 0;"><b>行动 — 直接向 VK Homantin 确认</b>：</p>
+  <div style="background:{C_TBL_HDR};padding:14px;border-radius:6px;border-left:3px solid {C_PRIMARY};margin:8px 0;font-style:italic;">
+    电邮 vkhomantin@victoria.edu.hk：<br><br>
+    「我女儿生于 2023 年 9 月中。请确认：<br>
+    1. 她属于 K1 AY2026/27 还是 K2 AY2026/27 年龄层？<br>
+    2. 如果是 K1，候补名单录取概率如何？<br>
+    3. 如果是 K2，是否有空缺？」
+  </div>
+
+  <p style="margin:8px 0;{MUTED}"><b>结论</b>：AY2026/27 K1 是女儿在 VK 唯一干净的 K1 窗口 — 没有「明年再说」的 K1 替代。现在通过候补名单申请。</p>
+
+  <h3 style="{H3};margin-top:14px;">ESF — 路径 A（KG 连续性）vs 路径 B（中央 Y1 申请）</h3>
+  <p style="margin:6px 0;">Y1（Reception，5 岁）= ESF 小学第一年。进入 ESF Y1 有<b>两条路径</b> — 都合法、都常见。</p>
+
+  <table style="{TBL}">
+    <tr>
+      <th style="{TH};width:24%;">路径</th>
+      <th style="{TH}">机制</th>
+    </tr>
+    <tr><td style="{TD}"><b style="color:{C_BEST};">路径 A — KG 连续性</b></td><td style="{TD}">孩子在 ESF 幼稚园完成 K2，于 12 月 1 日前入读 → <b>自动保证任何一所 ESF 小学的 Y1 名额</b>。无需重新申请。最顺畅的路线。</td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}"><b style="color:{C_PRIMARY};">路径 B — 中央 Y1 申请</b></td><td style="{TD}"><b>未读 ESF 幼稚园</b>的孩子通过中央招生直接申请 Y1（入学前一年 9 月 1-30 日）。ESF 为直接入学者保留大量 Y1 名额。可选 <b>INR 港币 50 万</b>享优先面试。</td></tr>
+  </table>
+
+  <p style="margin:8px 0;"><b>为什么两条路都存在</b>：ESF 幼稚园每年招收约 2,500 人，但 ESF 小学有 6,000+ 个 Y1 名额。许多家庭只在 Y1 才进 ESF（跳过 KG）— 来自本地幼稚园、VK、Tutor Time 等。ESF 主动为他们保留直接 Y1 入学容量。</p>
+
+  <h3 style="{H3};margin-top:14px;">两条路对女儿都开放 — 取决于 K1 结果</h3>
+  <table style="{TBL}">
+    <tr>
+      <th style="{TH};width:32%;">情景</th>
+      <th style="{TH};width:14%;">路径</th>
+      <th style="{TH}">行动</th>
+    </tr>
+    <tr><td style="{TD}">K1 AY2026/27 在 ESF West Kowloon 候补成功</td><td style="{TD}"><span style="{PILL_BEST}">A</span></td><td style="{TD}">K2 在 2027 年（12 月 1 日前入读）→ 自动 Y1 AY2028/29 任何 ESF 小学。<b>无需进一步申请。</b></td></tr>
+    <tr style="background:{C_TBL_ALT};"><td style="{TD}">K1 AY2026/27 失败</td><td style="{TD}"><span style="{PILL_INFO}">B</span></td><td style="{TD}">2027 年 9 月 1-30 日中央窗口申请 Y1 AY2028/29 + INR 港币 50 万。目标：Beacon Hill（KLT 步行可达！）、KJS、KGV。</td></tr>
+    <tr><td style="{TD}">VK 路径成功（Homantin/Harbour Green）</td><td style="{TD}">不适用（VSA 路径，非 ESF）</td><td style="{TD}">继续 VK → VSA Y1 AY2029/30。不再需要 ESF。</td></tr>
+  </table>
+
+  <h3 style="{H3};margin-top:14px;">港币 50 万 — 同一笔钱，双重用途</h3>
+  <ul style="margin:6px 0 6px 18px;padding:0;">
+    <li><b>用作 Class A 债权（K1 阶段）</b>：K1 优先 Play Visit + <b>自动转为 Y1 的 INR</b>（实际「免费升级」）</li>
+    <li><b>用作 INR（直接 Y1 阶段）</b>：Y1 中央申请优先面试</li>
+    <li><b>无论哪种，这笔钱买的是优先权 — 不是保证录取。</b>孩子仍需通过 Play Visit / 面试。</li>
+    <li><b>可退还机制</b>：港币 50K 押金支票，港币 45 万余额仅在接受 offer 时支付。如无 offer，港币 50K 可退。<b>实际无法收回的支出风险很低。</b></li>
+  </ul>
+
+  <p style="margin:8px 0;{MUTED}"><b>结论</b>：港币 50 万的支出杠杆很高 — 同时适用于 K1（今年）和 Y1（2 年后）路径。如认真考虑 ESF，这是标准动作。</p>
 
   <h3 style="{H3};margin-top:14px;">战略建议 — 本周内三轨平行申请</h3>
   <table style="{TBL}">
