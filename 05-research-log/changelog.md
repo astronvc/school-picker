@@ -6,6 +6,13 @@ Format: `YYYY-MM-DD — <area> — <what changed and why>`. Cite sources where p
 
 ---
 
+## 2026-05-07 — future-competitiveness curriculum comparison
+
+- New file `01-curricula/future-competitiveness-comparison.md`: companion to `future-skills-analysis.md`, ranking IB / A-Level / AP / DSE on the 8 future-skill axes for the 2040–2050 economy. Verdict: **IB > A-Level > AP (HKIS-tier) > AP (AIS-tier) > DSE** for this family's stated philosophy. Treats AP at AIS and AP at HKIS as separate columns because the post-AP math + Physics C gap is a one-tier difference for STEM-bound students.
+- Includes 8-axis comparison table (math depth, physics depth, original research, writing/argument, cross-domain breadth, agency, AI-literacy fit, taste/arts) and curriculum-agnostic green/red flags for school visits.
+- Key framing reinforced: curriculum sets a ceiling; **school culture of inquiry determines whether that ceiling is reached**. A weak IB school is worse than a strong A-Level school. The mainland JAS pathway is irreversibly lost without DSE — the only one-way door in this analysis.
+- Cross-references existing `future-skills-analysis.md` (the *why*), `comparison-matrix.md` (the general comparison), and `02-schools/american-international-school.md` (the AIS vs HKIS AP-set verification).
+
 ## 2026-05-04 — initial build
 
 - Created repo structure (00-criteria → 06-sources)
