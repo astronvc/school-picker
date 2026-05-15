@@ -6,6 +6,14 @@ Format: `YYYY-MM-DD — <area> — <what changed and why>`. Cite sources where p
 
 ---
 
+## 2026-05-15 — SIS HK age-cutoff re-verification (Year-of-Birth, not Aug 31)
+
+- Re-verified SISHK admissions cohort rule by direct full-text grep of raw HTML across 10 SISHK pages (admissions, preparatory-years-admissions, primary-admissions, secondary-admissions, ib-diploma-admissions, submitting-online-application, scholarships, finance-matters, preparatory-years curriculum, py_prospectus) on 2026-05-15.
+- **Finding:** SISHK's live admissions page publishes the grade-level table with the literal column header **"(Year of Birth)"** — calendar year, NOT an Aug 31 cutoff. PY1 AY2027/28 = born 2023; any child born Jan 1 – Dec 31, 2023 is in the cohort by the published rule. Daughter (mid-Sep 2023) is eligible.
+- **Zero hits across all 10 pages** for: "August 31"/"Aug 31", "September 1"/"Sep 1" as a date boundary, "cutoff", "born after"/"born before", "interview" in admissions-age context.
+- **Retraction:** the prior note in `application-windows-verified.md` stating "For AY2026/27 PY1: born Sep 1, 2021 – Aug 31, 2022 (verified)" is **not currently confirmable** from the SISHK public site. That earlier Aug 31 framing likely came from older materials, a web-search summary snippet, or conflation with other HK schools that DO use Aug 31 (ESF, HKIS, CDNIS, Carmel, GSIS, Malvern).
+- Updated `04-evaluation/application-windows-verified.md` SIS section to use verbatim "Year of Birth" framing from singapore.edu.hk/admissions/, with a caveat recommending written confirmation from admissions@singapore.edu.hk about how September births are treated in assessment.
+
 ## 2026-05-07 — future-competitiveness curriculum comparison
 
 - New file `01-curricula/future-competitiveness-comparison.md`: companion to `future-skills-analysis.md`, ranking IB / A-Level / AP / DSE on the 8 future-skill axes for the 2040–2050 economy. Verdict: **IB > A-Level > AP (HKIS-tier) > AP (AIS-tier) > DSE** for this family's stated philosophy. Treats AP at AIS and AP at HKIS as separate columns because the post-AP math + Physics C gap is a one-tier difference for STEM-bound students.

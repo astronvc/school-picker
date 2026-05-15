@@ -227,23 +227,37 @@ That is: Sep 1 of (year of entry – 7) to Dec 31 of (year of entry – 6). Same
 
 **Entry levels (CORRECTED):** Preparatory Year 1 (PY1) and **Preparatory Year 2 (PY2)** — only TWO PY levels, NOT three (earlier research stated K1/K2/K3 — wrong). Then Primary 1 through Secondary 4, IBDP 1–2.
 
-**Age cohort (calendar year — verified from school's own age-grade table):**
+**Age cohort (CALENDAR YEAR — re-verified 2026-05-15 by direct grep of singapore.edu.hk/admissions/ raw HTML):**
 
-| Year (AY2027/28) | Birth Year |
-|---|---|
-| PY1 | 2023 |
-| PY2 | 2022 |
-| Primary 1 | 2021 |
-| Primary 2 | 2020 |
-| Primary 6 | 2016 |
-| Secondary 1 | 2015 |
+The SISHK admissions page publishes the grade-level eligibility table with the **literal column header "(Year of Birth)"** — NOT an Aug 31 cutoff. Verbatim:
 
-For **AY2026/27 PY1: born Sep 1, 2021 – Aug 31, 2022** (verified). Use of "Aug 31" cutoff for the actual age-band BUT documented as a calendar-year band.
+| SISHK Grade Level | AY2026/27 (Year of Birth) | AY2027/28 (Year of Birth) | AY2028/29 (Year of Birth) |
+|---|---|---|---|
+| Preparatory Year 1 (PY1) | 2022 | **2023** | 2024 |
+| Preparatory Year 2 (PY2) | 2021 | 2022 | 2023 |
+| Primary 1 | 2020 | 2021 | 2022 |
+| Primary 2 | 2019 | 2020 | 2021 |
+| Primary 3 | 2018 | 2019 | 2020 |
+| Primary 6 | 2015 | 2016 | 2017 |
+| Secondary 1 | 2014 | 2015 | 2016 |
 
-**Cohort for daughter:**
-- **PY1 AY2027/28** (born 2023) — **DAUGHTER ELIGIBLE** ✅
-- PY2 AY2028/29 — also eligible
-- P1 AY2030/31 — also eligible
+**Verified by exhaustive full-text search (2026-05-15) across 10 SISHK admissions-related pages** — admissions, preparatory-years-admissions, primary-admissions, secondary-admissions, ib-diploma-admissions, submitting-online-application, scholarships, finance-matters, preparatory-years (curriculum), py_prospectus — **ZERO hits for**:
+- "August 31" / "Aug 31"
+- "September 1" / "Sep 1" as a date boundary (only "September 1991", school's founding)
+- "cutoff" / "cut-off"
+- "born after" / "born before"
+- "interview" in admissions-age context (only scholarship panel interviews)
+
+**Prior claim retracted:** an earlier note in this file stated "For AY2026/27 PY1: born Sep 1, 2021 – Aug 31, 2022 (verified)" — that Aug 31 boundary is **NOT present on the current public SISHK admissions page**. The page uses calendar-year-of-birth only. Retained as a historical note: that earlier claim may have come from older materials, a web-search snippet, or conflation with other HK schools that DO use Aug 31 (ESF, HKIS, CDNIS, Carmel, GSIS).
+
+**Cohort for daughter (DOB mid-Sep 2023):**
+- **PY1 AY2027/28** (born 2023, per published Year-of-Birth rule) — **DAUGHTER ELIGIBLE** ✅
+- PY2 AY2028/29 (born 2023) — also eligible
+- P1 AY2030/31 (born 2023) — also eligible
+
+**Caveat — recommended written confirmation:** the website not publishing a within-year cutoff does not rule out an internal practice that informally prefers older-for-year children during assessment (daughter would be 3y 11m at AY2027/28 start in Aug 2027 — younger than peers born Jan–Aug 2023). Recommended email to `admissions@singapore.edu.hk`:
+
+> "Re: PY1 AY2027/28. Your admissions page lists 'Year of Birth 2023' for PY1 entry in AY2027/28. Please confirm: is any child born between 1 Jan 2023 and 31 Dec 2023 eligible for PY1 AY2027/28? My daughter was born mid-September 2023, meaning she will be 3 years 11 months at the start of AY2027/28. Will her age be a factor in the assessment, and if so, is there a minimum age or readiness standard?"
 
 **Application windows (verified from primary source):**
 - AY2026/27 PY: 2024-09-01 – 2025-09-30 (CLOSED — guaranteed-assessment deadline passed)
